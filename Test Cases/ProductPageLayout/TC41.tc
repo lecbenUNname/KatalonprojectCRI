@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should able to add the product to cart by clicking the add to cart button when given the correct product count and available product size and color.</description>
+   <name>TC41</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>bc1a01f9-9db1-4de9-becf-fd8de4ef4be5</testCaseGuid>
+</TestCaseEntity>

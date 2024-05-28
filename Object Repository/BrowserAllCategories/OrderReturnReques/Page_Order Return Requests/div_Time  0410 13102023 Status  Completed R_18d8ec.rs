@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Time  0410 13102023 Status  Completed R_18d8ec</name>
+   <tag></tag>
+   <elementGuidId>553e9f65-8ff3-41e0-8041-dc716ca342d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div/div/div[2]/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>add274b4-28ef-4d55-a315-531730e0211e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-6</value>
+      <webElementGuid>dd51282b-6850-4b5a-926d-6e5757758307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Time:  04:10 13/10/2023 Status:  Completed Reason:  Damaged product</value>
+      <webElementGuid>b6071f2a-1426-4fb6-87d5-8a010d53d3f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;customer-order-detail&quot;]/div[@class=&quot;customer-order-detail&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]</value>
+      <webElementGuid>4f1c81d2-0ac8-48e6-a223-c703692f050c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>1380e459-4e90-43b9-b473-10de39e1dcb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#10000529'])[1]/following::div[1]</value>
+      <webElementGuid>bca1367d-18ea-457a-b46c-5d90fccf12a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Id:'])[1]/following::div[1]</value>
+      <webElementGuid>3387e294-5508-4113-8d9a-100a0a753fa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>790ec301-80b2-4924-a7b8-2d9929edbe8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Time:  04:10 13/10/2023 Status:  Completed Reason:  Damaged product' or . = 'Time:  04:10 13/10/2023 Status:  Completed Reason:  Damaged product')]</value>
+      <webElementGuid>f2cabdea-89d2-47f0-89a9-6915c18390e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

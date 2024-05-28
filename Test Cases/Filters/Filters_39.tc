@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to  clicking on &quot;check box&quot; for multiple tag filter it should show the tagwhich is selected in tag filter</description>
+   <name>Filters_39</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>d7f44697-1f12-4f5c-9f72-3897fa9994f3</testCaseGuid>
+</TestCaseEntity>

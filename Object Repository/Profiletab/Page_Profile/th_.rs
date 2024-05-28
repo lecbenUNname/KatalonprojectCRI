@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_</name>
+   <tag></tag>
+   <elementGuidId>06c66ae2-018f-42e3-9d91-3f14e993fc94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//th[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th.next</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>fb77e55c-3fe6-40cd-9654-e34f28797b37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>next</value>
+      <webElementGuid>d2149234-6005-4a17-aab5-40a34c0153e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>»</value>
+      <webElementGuid>83a9f2a8-6ff8-48f4-b5bc-1e01ef5972fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-bottom&quot;]/div[@class=&quot;datepicker-days&quot;]/table[@class=&quot;table-condensed&quot;]/thead[1]/tr[2]/th[@class=&quot;next&quot;]</value>
+      <webElementGuid>f2cca1be-54eb-4c68-a851-a53cc423c802</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[3]</value>
+      <webElementGuid>86fa57cd-6830-46d6-aa25-118807365d8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = '»' or . = '»')]</value>
+      <webElementGuid>04d3cc45-bcd9-44ba-b909-45f796918df2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

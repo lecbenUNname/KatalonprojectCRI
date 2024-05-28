@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Under the &quot;Quantity&quot; section, users should be able to increase and decrease the quantity of the product.</description>
+   <name>TC31</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b234d9f0-01c6-483a-adb7-a03c8041b105</testCaseGuid>
+</TestCaseEntity>

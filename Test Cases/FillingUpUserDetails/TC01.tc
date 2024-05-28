@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to redirects to the Register page when clicking on the &quot;Create One&quot; link in the Login page.</description>
+   <name>TC01</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>43620b07-9f2f-4e95-b29f-6683dbb98962</testCaseGuid>
+</TestCaseEntity>

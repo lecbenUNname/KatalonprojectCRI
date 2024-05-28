@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to clicking on &quot;check box&quot; for multiple brand filter it should show the brands which is selected in Brand filter</description>
+   <name>Filters_23</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e36f3834-b8d2-47ed-96db-1252bdec4b7d</testCaseGuid>
+</TestCaseEntity>

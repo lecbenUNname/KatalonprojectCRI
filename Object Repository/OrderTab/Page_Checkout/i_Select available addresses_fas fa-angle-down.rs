@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Select available addresses_fas fa-angle-down</name>
+   <tag></tag>
+   <elementGuidId>4d24eff4-cc64-44b7-bd36-ea7a7c2902d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-angle-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-checkout-product-info']/div/div[2]/div[2]/div/div/div/div/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f02aa0cf-eedd-4740-bc46-45d46a946298</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-angle-down</value>
+      <webElementGuid>e7923021-cd39-4963-9065-5933f0a68d66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-checkout-product-info&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-7 col-md-6 left&quot;]/div[@class=&quot;form-checkout&quot;]/div[1]/div[@class=&quot;customer-address-payment-form&quot;]/div[@class=&quot;form-group mb-3&quot;]/div[@class=&quot;list-customer-address&quot;]/div[@class=&quot;select--arrow&quot;]/i[@class=&quot;fas fa-angle-down&quot;]</value>
+      <webElementGuid>87532d1a-c498-4a1c-abfc-19fa68847118</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-checkout-product-info']/div/div[2]/div[2]/div/div/div/div/div/i</value>
+      <webElementGuid>f2fea644-ec59-4a3d-9fc8-f14c2c9587e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/i</value>
+      <webElementGuid>7b02bfdf-c6bb-433a-8a3e-5d488c5cda07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On clicking the &quot;Update&quot; button updates the address and redirects the user to the Addresses page.</description>
+   <name>TC_67</name>
+   <tag>Reggression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>e4a66ff6-e894-4931-8190-bc4ba7532697</testCaseGuid>
+</TestCaseEntity>

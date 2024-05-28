@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Accessories</name>
+   <tag></tag>
+   <elementGuidId>bbc99a3e-b813-4b46-9dd8-c2c5ecad94b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(@href, 'https://crazystylezs.com/product-categories/accessories')])[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2fc4297f-1b46-468d-8ea7-c59ebeafd7a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/product-categories/accessories</value>
+      <webElementGuid>12e29a94-d41a-4f1c-9627-13caeb82093b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                 Accessories
+            </value>
+      <webElementGuid>3bb4ceb5-770a-49f5-b56b-180214bfd96a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[@class=&quot;main&quot;]/section[@class=&quot;section-padding footer-mid&quot;]/div[@class=&quot;container pt-15 pb-20&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;footer-link-widget col wow animate__ animate__fadeInUp animated&quot;]/ul[@class=&quot;footer-list mb-sm-5 mb-md-0&quot;]/ul[@class=&quot;footer-list wow fadeIn animated mb-sm-5 mb-md-0 animated&quot;]/li[3]/a[1]</value>
+      <webElementGuid>497ca7d0-b9a6-43b8-812c-cef3885c2836</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://crazystylezs.com/product-categories/accessories')])[8]</value>
+      <webElementGuid>d7266a34-1a6c-46bf-8479-64e30b159a6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/ul/li[3]/a</value>
+      <webElementGuid>4c00cc80-b259-4633-94c4-aef7ae1fc7ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://crazystylezs.com/product-categories/accessories' and (text() = '
+                 Accessories
+            ' or . = '
+                 Accessories
+            ')]</value>
+      <webElementGuid>27f5405f-482d-4f53-ac0f-aec092fff3b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

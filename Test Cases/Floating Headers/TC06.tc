@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The products should be visible the categories when the user mouse hovers on the product header</description>
+   <name>TC06</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>cf198f5d-e55d-4f23-b66b-1883210e35fe</testCaseGuid>
+</TestCaseEntity>

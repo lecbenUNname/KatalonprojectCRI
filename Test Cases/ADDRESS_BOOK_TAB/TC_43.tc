@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>State text field should be a mandatory field.</description>
+   <name>TC_43</name>
+   <tag>Regression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>33699e75-e5ca-4883-a38e-e45a613138f3</testCaseGuid>
+</TestCaseEntity>

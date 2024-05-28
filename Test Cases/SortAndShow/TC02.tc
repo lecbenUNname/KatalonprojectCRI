@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>show option is available in the mentioned place and is visible to the User</description>
+   <name>TC02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f9f264e-a12c-4958-9fe9-7ae1a23accae</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user should able to see all the Previously added Addresses in &quot;2x3 grid&quot;.</description>
+   <name>TC_03</name>
+   <tag>Regression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>b9448aaa-7d87-404b-8b0e-e0fa0b85037b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tooltip_Compare</name>
+   <tag></tag>
+   <elementGuidId>69bbd743-9105-4683-9105-def2698935b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.action-btn.hover-up.js-add-to-compare-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div/section[4]/div/div[2]/div/div/div/div/div/div[2]/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Add To Compare&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cf8fcd1a-cb31-4f72-a2ec-26e2c6ff0f50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Add To Compare</value>
+      <webElementGuid>4a675334-1011-413b-ae4b-3114673e7ff6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>f28e8ec5-c532-4e32-8530-216467883b44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action-btn hover-up js-add-to-compare-button</value>
+      <webElementGuid>7f11861b-8727-4cc1-a062-1b7a90a8795f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-url</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/compare/777</value>
+      <webElementGuid>e3199947-eb8b-4e92-9a49-70d5abeb9f21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;ck-content&quot;]/section[@class=&quot;bg-grey-9 section-padding-60&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;tab-content wow fadeIn animated animated&quot;]/div[@class=&quot;tab-pane fade show active&quot;]/div[@class=&quot;row product-grid-4&quot;]/div[@class=&quot;col-lg-3 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]/div[@class=&quot;product-img-action-wrap&quot;]/div[@class=&quot;product-action-1&quot;]/a[@class=&quot;action-btn hover-up js-add-to-compare-button&quot;]</value>
+      <webElementGuid>0d3c1077-0ede-48c5-82cf-6d6c173e3381</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div/section[4]/div/div[2]/div/div/div/div/div/div[2]/a[3]</value>
+      <webElementGuid>cef1a937-5e34-465c-9c7b-7c539e4b6069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sarees'])[3]/following::a[4]</value>
+      <webElementGuid>454149c0-1f85-4b11-851e-ddcd174b8973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maxi Dress'])[3]/following::a[4]</value>
+      <webElementGuid>dbc28d66-50ee-4369-a2d1-8c87b61fdff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hot'])[1]/preceding::a[1]</value>
+      <webElementGuid>086305d0-5d3e-4a5b-a7e3-9712eb1bd97d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maxi Dress'])[4]/preceding::a[1]</value>
+      <webElementGuid>9091bc3b-2b8e-438e-ad5c-15ecad782989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[8]</value>
+      <webElementGuid>d4ed8573-0add-4f7e-b266-2a2d7f746d57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>74ddb62d-784f-47cb-a73b-824383bfe99f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#']</value>
+      <webElementGuid>274695ec-1d42-47bd-aee4-20c658427850</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

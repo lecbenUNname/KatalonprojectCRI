@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_RETURN AND REFUND POLICY</name>
+   <tag></tag>
+   <elementGuidId>2f6855b7-c09c-4866-a9ac-9b8c89082578</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/section/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>d1550483-8560-4626-bc57-0b4d30389db3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RETURN AND REFUND POLICY  </value>
+      <webElementGuid>bee1326b-286d-4272-9bc7-3e4afdde11a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container&quot;]/section[@class=&quot;mt-60 mb-60&quot;]/div[@class=&quot;ck-content&quot;]/h2[1]</value>
+      <webElementGuid>c7257b43-e240-49cc-bf54-18eba25e9e00</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/section/div/h2</value>
+      <webElementGuid>26aeb94b-4235-4c9e-bb97-f95c69c12343</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>f24d4f3d-7718-48a3-b99a-87cc0dea7597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'RETURN AND REFUND POLICY  ' or . = 'RETURN AND REFUND POLICY  ')]</value>
+      <webElementGuid>715dcd8f-fe4f-4f6e-a440-6315f7426d8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

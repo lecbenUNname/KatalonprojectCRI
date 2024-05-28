@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add</name>
+   <tag></tag>
+   <elementGuidId>131a6405-1d8a-4ad1-963f-ece64dc03b8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.action-btn.add-to-cart-button.add > span.d-inline-block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div/div/div[2]/div[2]/div[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b70eda27-678b-4b7c-a7a0-4eefbe053304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-inline-block</value>
+      <webElementGuid>fa682b5b-7634-4c52-a23c-aa9bd74965e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add</value>
+      <webElementGuid>9907b58e-265f-4496-8b09-d2d5809182e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;row product-grid&quot;]/div[@class=&quot;col-xxl-3 col-xl-3 col-lg-4 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]/div[@class=&quot;product-content-wrap&quot;]/div[@class=&quot;product-card-bottom&quot;]/div[@class=&quot;add-cart&quot;]/a[@class=&quot;action-btn add-to-cart-button add&quot;]/span[@class=&quot;d-inline-block&quot;]</value>
+      <webElementGuid>94cd3c7d-36f1-4c90-b77c-361245fc2bea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div/div/div[2]/div[2]/div[2]/a/span</value>
+      <webElementGuid>5b9ab1d5-361c-451e-b4e8-899ee772c980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/a/span</value>
+      <webElementGuid>78856a24-5673-4725-807f-7d1815291d2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add' or . = 'Add')]</value>
+      <webElementGuid>1cc3b276-027a-47b9-9cb8-28b413eda5c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

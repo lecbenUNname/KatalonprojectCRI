@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The pagination  should controls effectively communicate to users that there are more pages to explore when the total number of pages exceeds 10. The presence of the three dots provides a clear visual cue for users to continue navigating through the content.</description>
+   <name>TC24</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>3082f54a-896f-48ec-a948-d7e2c23ddae8</testCaseGuid>
+</TestCaseEntity>

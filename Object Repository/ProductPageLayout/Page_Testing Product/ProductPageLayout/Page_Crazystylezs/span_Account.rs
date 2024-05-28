@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Account</name>
+   <tag></tag>
+   <elementGuidId>3262f873-de0c-47ee-a733-ee4d6532b481</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.lable.ml-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='No products in the cart.'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ac10e609-9e12-41de-8556-09afe6917fe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lable ml-0</value>
+      <webElementGuid>6ef30b70-a8a9-4683-b83c-474d8ee2ab01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Account</value>
+      <webElementGuid>0e2459f0-6af9-404e-bede-5005d792d3a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header-area header-style-1 header-height-2&quot;]/div[@class=&quot;header-middle header-middle-ptb-1 d-none d-lg-block&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;header-wrap&quot;]/div[@class=&quot;header-right&quot;]/div[@class=&quot;header-action-right&quot;]/div[@class=&quot;header-action-2&quot;]/div[@class=&quot;header-action-icon-2&quot;]/a[2]/span[@class=&quot;lable ml-0&quot;]</value>
+      <webElementGuid>e448f496-d696-41d1-acbd-abc5a67b82d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No products in the cart.'])[1]/following::span[1]</value>
+      <webElementGuid>15a2d303-ba6e-4887-bbfb-0d77c75205b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[1]/following::span[2]</value>
+      <webElementGuid>279eb3ee-fa92-4699-995f-b1f5115b938c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::span[1]</value>
+      <webElementGuid>d2fad36e-fe10-4f21-94e9-1d9214b58676</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/preceding::span[1]</value>
+      <webElementGuid>0e55a528-deac-4c1a-93ae-e5d3f4c30583</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Account']/parent::*</value>
+      <webElementGuid>1f4f404c-6988-4d20-a790-aefa32d5ecec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a[2]/span</value>
+      <webElementGuid>c6af5188-0d8e-4b2b-a1e2-e0f7d33d4afb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Account' or . = 'Account')]</value>
+      <webElementGuid>ea5f1682-06f6-4092-b004-5f0432f82e00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

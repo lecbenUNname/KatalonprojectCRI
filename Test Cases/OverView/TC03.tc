@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view the profile page should have the following tabs like My Account, My Wishlist, Update profile and Sign out</description>
+   <name>TC03</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>2bc2f7a9-fe2b-45be-a958-092087af12e8</testCaseGuid>
+</TestCaseEntity>

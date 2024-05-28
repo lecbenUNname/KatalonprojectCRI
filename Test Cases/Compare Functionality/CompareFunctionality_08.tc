@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to see the increasing and decreasing of compare icon count when add or remove the products in the compare list</description>
+   <name>CompareFunctionality_08</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b540e540-4fed-419e-808c-b2c84f6c5446</testCaseGuid>
+</TestCaseEntity>

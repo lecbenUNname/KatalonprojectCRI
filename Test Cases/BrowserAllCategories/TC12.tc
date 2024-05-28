@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;Browse all categories&quot; button should remain visible in the floating header while scrolling down the page.</description>
+   <name>TC12</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>fa345d15-0efa-4edc-802a-08a1df47418f</testCaseGuid>
+</TestCaseEntity>

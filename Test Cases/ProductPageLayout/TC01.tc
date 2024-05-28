@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>It should navigate to the product layout page once clicking the products</description>
+   <name>TC01</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>facaf7c6-6d29-4cc9-8d55-910cefa6e644</testCaseGuid>
+</TestCaseEntity>

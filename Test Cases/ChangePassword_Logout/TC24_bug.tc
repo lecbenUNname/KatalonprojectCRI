@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The password has been changed successfully, but the page does not redirect to the login page it views the same change password page</description>
+   <name>TC24_bug</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a50d573-9cf1-45d0-ab05-14b1032a57ae</testCaseGuid>
+</TestCaseEntity>

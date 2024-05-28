@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Electronics Accessories_icon_1</name>
+   <tag></tag>
+   <elementGuidId>9eb3ef8c-766e-4567-9fbc-36072dc90f6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>af79c726-8c6e-4843-9249-d0e621b7d268</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>3ac8018e-64fc-4b54-b183-00e258495a09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header-area header-style-1 header-height-2&quot;]/div[@class=&quot;header-bottom header-bottom-bg-color sticky-bar stick&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;header-wrap header-space-between position-relative&quot;]/div[@class=&quot;header-nav d-none d-lg-flex&quot;]/div[@class=&quot;main-categories-wrap d-none d-lg-block&quot;]/div[@class=&quot;categories-dropdown-wrap categories-dropdown-active-large font-heading open&quot;]/div[@class=&quot;more_categories show&quot;]/span[@class=&quot;icon&quot;]</value>
+      <webElementGuid>29a4dd5b-8fbd-43e1-9265-e7da46117435</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span</value>
+      <webElementGuid>ad55acad-592e-4ddd-aabf-7e44c815c778</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

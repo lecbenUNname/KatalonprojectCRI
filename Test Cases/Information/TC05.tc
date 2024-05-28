@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The highlights should be correct when the user hovers over the information hyperlinks</description>
+   <name>TC05</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>ee2533c7-3ddf-4407-9e83-0b9cf6074a2a</testCaseGuid>
+</TestCaseEntity>

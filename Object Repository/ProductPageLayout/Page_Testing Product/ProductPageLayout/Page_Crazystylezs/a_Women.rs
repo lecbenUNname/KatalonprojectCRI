@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Women</name>
+   <tag></tag>
+   <elementGuidId>e649cf1b-81db-483a-a561-2e01bc8c800c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(4) > ul.sub-menu > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Women')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f3f42c1a-a8fc-4e0a-8bab-5aae112c3ea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/product-categories/women</value>
+      <webElementGuid>1aab970c-5441-4101-b4a5-245b37b9ca16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>ad60822c-db72-427f-a0d9-79b87034bff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Women
+                                                                  </value>
+      <webElementGuid>2db9af8f-eda8-4e5c-a8fb-87a73bad8c7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header-area header-style-1 header-height-2&quot;]/div[@class=&quot;header-bottom header-bottom-bg-color  sticky-bar&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;header-wrap header-space-between position-relative&quot;]/div[@class=&quot;header-nav d-none d-lg-flex&quot;]/div[@class=&quot;main-menu main-menu-padding-1 main-menu-lh-2 d-none d-lg-block font-heading&quot;]/nav[1]/ul[1]/li[4]/ul[@class=&quot;sub-menu&quot;]/li[1]/a[1]</value>
+      <webElementGuid>45b9ac81-347f-4e35-a318-5ea4287d8d74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Women')]</value>
+      <webElementGuid>a90bd9a3-c6b9-419e-84de-894f0de4d274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product'])[1]/following::a[1]</value>
+      <webElementGuid>f0a00ff9-a4b1-4d96-97c2-e9116005998c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stores - Grid'])[1]/following::a[2]</value>
+      <webElementGuid>e04e8496-a622-4e38-9be8-955d50d8ddce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Traditional Wear'])[1]/preceding::a[1]</value>
+      <webElementGuid>4faf44c3-1695-48ff-b2f3-48f7a6c68edd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lehanga Choli'])[1]/preceding::a[2]</value>
+      <webElementGuid>e4783320-53ff-46ed-bb56-7af695b3532b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://crazystylezs.com/product-categories/women')])[5]</value>
+      <webElementGuid>b14947dd-5731-4350-91dd-42701c43456b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li/a</value>
+      <webElementGuid>e668566f-262e-4ceb-8244-cffa6634a520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://crazystylezs.com/product-categories/women' and (text() = '
+                Women
+                                                                  ' or . = '
+                Women
+                                                                  ')]</value>
+      <webElementGuid>6f4287d3-edcb-4b6a-b51e-9bf70ad4cc12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Women')])[2]</value>
+      <webElementGuid>7d7faae2-3e52-46fb-a733-ba3f36eaabf8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

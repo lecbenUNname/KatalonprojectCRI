@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The entered search query should be retained when returning to the search page, allowing users to continue the search without re-entering the query.</description>
+   <name>TC08</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>1863e261-7b60-4efd-9292-3d36aad61126</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>965de070-2940-43da-896e-2e5aae239df9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>965de070-2940-43da-896e-2e5aae239df9</id>
+      <masked>false</masked>
+      <name>currentURL</name>
+   </variable>
+</TestCaseEntity>

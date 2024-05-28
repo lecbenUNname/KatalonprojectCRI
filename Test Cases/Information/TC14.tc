@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;breadcrumb&quot; should highlight the shipping policy when the user clicks the shipping policy hyperlink</description>
+   <name>TC14</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>05e75a2b-9831-4f23-9fc7-b3dfd07bcf6e</testCaseGuid>
+</TestCaseEntity>

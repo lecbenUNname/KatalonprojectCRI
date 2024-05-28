@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Contact</name>
+   <tag></tag>
+   <elementGuidId>b545336a-2ed7-4e0d-9632-09fcf10b1e01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Contact')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>nav > ul > li:nth-of-type(9) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6a08b44b-6849-41e6-abc0-951bb0a20dae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/contact</value>
+      <webElementGuid>a88f44ea-d8c8-4bd6-818d-1058aa2f51db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>aac8d435-4920-40d1-88ae-145a36fdba9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Contact
+                            </value>
+      <webElementGuid>154cb35f-3e49-4a19-bb2e-d932046acc77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header-area header-style-1 header-height-2&quot;]/div[@class=&quot;header-bottom header-bottom-bg-color  sticky-bar&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;header-wrap header-space-between position-relative&quot;]/div[@class=&quot;header-nav d-none d-lg-flex&quot;]/div[@class=&quot;main-menu main-menu-padding-1 main-menu-lh-2 d-none d-lg-block font-heading&quot;]/nav[1]/ul[1]/li[9]/a[1]</value>
+      <webElementGuid>35cab819-8c61-4f78-9b95-66fc6c61de9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Contact')]</value>
+      <webElementGuid>40958113-3a69-4a79-b5ed-5e74bba8b2b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://crazystylezs.com/contact')]</value>
+      <webElementGuid>edadbcb3-8e80-406b-b6dc-d5cce47d433f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/a</value>
+      <webElementGuid>6521bc5a-1806-4e2f-b6eb-09d1282b9ca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://crazystylezs.com/contact' and (text() = '
+                Contact
+                            ' or . = '
+                Contact
+                            ')]</value>
+      <webElementGuid>9178e4a2-b1dd-4ca1-b78b-67be91295b86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Email ID Text field Should not accept two @ in the same email ID</description>
+   <name>TC25</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>be4191a7-1c5f-4cca-a28a-8e2e9bb4128b</testCaseGuid>
+</TestCaseEntity>

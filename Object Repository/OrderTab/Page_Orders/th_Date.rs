@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Date</name>
+   <tag></tag>
+   <elementGuidId>5145149c-b862-48e4-88e4-201b42173633</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//th[text() = 'Date']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>6b514b68-a869-4634-a875-7739474463b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Date</value>
+      <webElementGuid>82d436be-d587-42cb-b5ab-d1722c98a405</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table&quot;]/thead[1]/tr[1]/th[2]</value>
+      <webElementGuid>16efcb66-21eb-4916-8bb6-997ffe0d5c84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div/div/div[2]/div/table/thead/tr/th[2]</value>
+      <webElementGuid>25c1c9b0-3ed4-460c-8b34-a74174382ca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID number'])[1]/following::th[1]</value>
+      <webElementGuid>d2e23627-a50c-4be1-8ef5-049684642128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Orders'])[1]/following::th[2]</value>
+      <webElementGuid>2b9aeab1-1d78-4c2c-bf11-fac26e526502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/preceding::th[1]</value>
+      <webElementGuid>2839a8c8-f887-4fd6-a061-99eca9fab8fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/preceding::th[2]</value>
+      <webElementGuid>08247d35-d6ab-4957-96ae-2273508765ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Date']/parent::*</value>
+      <webElementGuid>5e5bf7ef-6e2d-472c-b3ec-8ce9647c5164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[2]</value>
+      <webElementGuid>7e48d3cf-7e58-45a4-bf26-333c406843c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Date' or . = 'Date')]</value>
+      <webElementGuid>06613402-29a2-467f-8783-b59a6e6664c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

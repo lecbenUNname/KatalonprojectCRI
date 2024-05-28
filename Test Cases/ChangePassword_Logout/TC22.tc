@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cursor should point to the password text fields when using the TAB key on the keyboard.</description>
+   <name>TC22</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc3cb43d-905b-4f45-a4fb-4a1c496f818a</testCaseGuid>
+</TestCaseEntity>

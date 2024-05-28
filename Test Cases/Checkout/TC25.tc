@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Phone number field should not accept special characters</description>
+   <name>TC25</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>1cca2795-945d-4a79-99f9-3af3b49585d4</testCaseGuid>
+</TestCaseEntity>

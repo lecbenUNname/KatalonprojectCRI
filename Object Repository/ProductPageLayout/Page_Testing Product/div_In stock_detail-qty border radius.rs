@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_In stock_detail-qty border radius</name>
+   <tag></tag>
+   <elementGuidId>ca3c189a-9a2c-4cda-afb8-29f483af0b64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.detail-qty.border.radius</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div/div/div/div/div[2]/div/form/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d19264a3-2cca-4fd8-9c6c-d4961565dd01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>detail-qty border radius</value>
+      <webElementGuid>b27d1940-4545-4fe8-8e40-6bd850564e4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9&quot;]/div[@class=&quot;product-detail accordion-detail&quot;]/div[@class=&quot;row mb-50 mt-30&quot;]/div[@class=&quot;col-md-6 col-sm-12 col-xs-12&quot;]/div[@class=&quot;detail-info pr-30 pl-30&quot;]/form[@class=&quot;add-to-cart-form&quot;]/div[@class=&quot;detail-extralink mb-50&quot;]/div[@class=&quot;detail-qty border radius&quot;]</value>
+      <webElementGuid>67d71784-e1d1-4844-ae13-18d2455fe417</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div/div/div/div[2]/div/form/div[3]/div</value>
+      <webElementGuid>1d7a8496-e348-4d64-bc8d-efa113085f83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In stock'])[1]/following::div[2]</value>
+      <webElementGuid>cbb901cd-2f9f-4727-8ff2-3c5aee2168f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Availability:'])[1]/following::div[2]</value>
+      <webElementGuid>b129f085-15e5-4274-95d5-8a6e3e1634e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[1]/preceding::div[1]</value>
+      <webElementGuid>491b830e-45cf-46aa-ac24-250c6ad5abdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy Now'])[1]/preceding::div[1]</value>
+      <webElementGuid>b43387f3-2b9a-4fcb-ac93-bfa7f20cfff8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/div</value>
+      <webElementGuid>7d0f68ee-70a5-4843-a7f5-9f05a6073807</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

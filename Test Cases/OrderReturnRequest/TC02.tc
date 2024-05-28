@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to redirect to the Return Request list page by clicking &quot;Order Return Request Tab&quot;</description>
+   <name>TC02</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>461a4c45-2efe-4ec4-93f5-8d2a1bd2b226</testCaseGuid>
+</TestCaseEntity>

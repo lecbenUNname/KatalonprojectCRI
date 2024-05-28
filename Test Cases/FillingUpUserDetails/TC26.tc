@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Password should accept only alphabets.</description>
+   <name>TC26</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>4789b234-8090-406f-98d1-2462879f976a</testCaseGuid>
+</TestCaseEntity>

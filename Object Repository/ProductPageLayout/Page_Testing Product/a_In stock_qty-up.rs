@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_In stock_qty-up</name>
+   <tag></tag>
+   <elementGuidId>6606f35b-30fa-4c02-8919-48b98eb7dc3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.qty-up</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div/div/div/div/div[2]/div/form/div[3]/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>31c476d0-956a-43c4-9814-75f6545edb20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>453c0ebc-f7c5-4559-a97b-f8a47ed76a41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qty-up</value>
+      <webElementGuid>7d35d375-b986-4af1-9e08-27e2f59a8a25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9&quot;]/div[@class=&quot;product-detail accordion-detail&quot;]/div[@class=&quot;row mb-50 mt-30&quot;]/div[@class=&quot;col-md-6 col-sm-12 col-xs-12&quot;]/div[@class=&quot;detail-info pr-30 pl-30&quot;]/form[@class=&quot;add-to-cart-form&quot;]/div[@class=&quot;detail-extralink mb-50&quot;]/div[@class=&quot;detail-qty border radius&quot;]/a[@class=&quot;qty-up&quot;]</value>
+      <webElementGuid>cffe1802-38f6-4706-a0b9-70cfa3ad53ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div/div/div/div[2]/div/form/div[3]/div/a[2]</value>
+      <webElementGuid>374d600b-c9a9-4cf0-be89-c2d359678a94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In stock'])[1]/following::a[2]</value>
+      <webElementGuid>d9474da5-2034-4456-84a2-7eda00968a9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Availability:'])[1]/following::a[2]</value>
+      <webElementGuid>125bf75b-cafa-41b4-b29f-5f2176770ee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[1]/preceding::a[1]</value>
+      <webElementGuid>a17b3908-d9fa-4f47-9701-9ebf727a066f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy Now'])[1]/preceding::a[1]</value>
+      <webElementGuid>b02245a8-89ee-474d-8b12-b4c0102201da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[8]</value>
+      <webElementGuid>d3ec4e3e-c6a2-4c04-908f-ba231e16700a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a[2]</value>
+      <webElementGuid>05bdfe36-9186-48bc-9c39-a5d22cddeac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#']</value>
+      <webElementGuid>393c58ae-a95c-413a-be2c-86e2fcddc79e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

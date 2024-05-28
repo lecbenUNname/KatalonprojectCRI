@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_9</name>
+   <tag></tag>
+   <elementGuidId>33cae29c-ade0-47a8-87a9-fee060ad547c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.mini-cart-icon > span.pro-count.blue</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>992546e7-bbb2-44aa-b4c5-90ecebd5f639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pro-count blue</value>
+      <webElementGuid>51491d68-ef46-4d2f-bee1-68df248a411a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>9</value>
+      <webElementGuid>45a9a8fb-bc28-4ede-8e62-ba419fe58ee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header-area header-style-1 header-height-2&quot;]/div[@class=&quot;header-middle header-middle-ptb-1 d-none d-lg-block&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;header-wrap&quot;]/div[@class=&quot;header-right&quot;]/div[@class=&quot;header-action-right&quot;]/div[@class=&quot;header-action-2&quot;]/div[@class=&quot;header-action-icon-2&quot;]/a[@class=&quot;mini-cart-icon&quot;]/span[@class=&quot;pro-count blue&quot;]</value>
+      <webElementGuid>79f88b20-566b-4bd0-a7fb-543a3200d389</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/span</value>
+      <webElementGuid>227bc2d0-60b0-4f4e-8131-208af8ec4aba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '9' or . = '9')]</value>
+      <webElementGuid>fb5c20c9-1395-4774-93d3-7aa589ba3bdd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

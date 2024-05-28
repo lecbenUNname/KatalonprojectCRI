@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Contact</name>
+   <tag></tag>
+   <elementGuidId>6b31aaea-5ade-4725-b09a-ada54186497d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.breadcrumb-item.d-inline-block.active > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div/div/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8441f899-672b-40db-980d-265c702c82b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemprop</name>
+      <type>Main</type>
+      <value>item</value>
+      <webElementGuid>a57d14d9-9c66-4845-b34e-3dd98088ddce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Contact
+                            </value>
+      <webElementGuid>ce833aca-e0bf-4d9d-ab71-a21b4a8debd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;page-header breadcrumb-wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;breadcrumb&quot;]/div[@class=&quot;breadcrumb-item d-inline-block active&quot;]/span[1]</value>
+      <webElementGuid>61fe7ce9-b5c2-4005-b9f2-55be27a0da1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div/div/div/div[2]/span</value>
+      <webElementGuid>13ab956a-ae29-45e5-92c5-1c20ef6c1d2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>b21c8c1c-46ba-4b60-a2ff-1dd7241cd6dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                                Contact
+                            ' or . = '
+                                Contact
+                            ')]</value>
+      <webElementGuid>825f4f9a-438f-4135-972e-01bd494e3b2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

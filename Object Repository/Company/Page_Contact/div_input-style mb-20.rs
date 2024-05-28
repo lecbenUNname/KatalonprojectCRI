@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_input-style mb-20</name>
+   <tag></tag>
+   <elementGuidId>fd1f4470-461f-4dfe-9582-2d4d88c3bea2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/section/div/section/div/div/div/div/form/div/div[5]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-lg-12.col-md-12 > div.input-style.mb-20</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3143fc3f-1656-45e8-8d37-e8722fbb12ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-style mb-20</value>
+      <webElementGuid>e89c5738-159c-4615-bd18-e337275f2b24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container&quot;]/section[@class=&quot;mt-60 mb-60&quot;]/div[@class=&quot;ck-content&quot;]/section[@class=&quot;mt-50 pb-50&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-8 col-lg-10 m-auto&quot;]/div[@class=&quot;contact-from-area  padding-20-row-col wow tmFadeInUp animated animated&quot;]/form[@class=&quot;contact-form-style text-center contact-form&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12&quot;]/div[@class=&quot;input-style mb-20&quot;]</value>
+      <webElementGuid>76036252-2994-48cc-b1fe-ae327ca7c4d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/section/div/section/div/div/div/div/form/div/div[5]/div</value>
+      <webElementGuid>383b3734-70c0-42df-b277-c3e42ed4ed33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[5]/div</value>
+      <webElementGuid>302344db-5bff-4d18-8da0-c49637f25374</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

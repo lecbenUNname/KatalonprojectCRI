@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>when the user clicks on the cart icon, the navigation should successfully leads to the cart page.</description>
+   <name>TC20</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>1529bea6-b3a6-461d-95b2-24ebb7f9be13</testCaseGuid>
+</TestCaseEntity>

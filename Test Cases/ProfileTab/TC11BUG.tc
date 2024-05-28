@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The Full name text field should not accept numbers</description>
+   <name>TC11BUG</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>91c47195-9684-4333-89a5-baed268e5f25</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When attempting to type &quot;-&quot; into the field, it should not appear in the field or have any effect.</description>
+   <name>TC31BUG</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef766d9a-f79f-4706-ba2e-ea3eeb3f2b88</testCaseGuid>
+</TestCaseEntity>

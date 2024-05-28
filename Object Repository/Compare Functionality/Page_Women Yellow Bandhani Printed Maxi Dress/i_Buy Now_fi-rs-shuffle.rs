@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Buy Now_fi-rs-shuffle</name>
+   <tag></tag>
+   <elementGuidId>4d3d1802-373e-4edf-ab08-6742027e0635</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fi-rs-shuffle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div/div/div/div/div[2]/div/form/div[3]/div[2]/a[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Add To Compare&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>333fc297-d171-43fe-8e0f-adf1016eda91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi-rs-shuffle</value>
+      <webElementGuid>9cb46464-6b61-4102-9351-073a7d323cb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9&quot;]/div[@class=&quot;product-detail accordion-detail&quot;]/div[@class=&quot;row mb-50 mt-30&quot;]/div[@class=&quot;col-md-6 col-sm-12 col-xs-12&quot;]/div[@class=&quot;detail-info pr-30 pl-30&quot;]/form[@class=&quot;add-to-cart-form&quot;]/div[@class=&quot;detail-extralink mb-50&quot;]/div[@class=&quot;product-extra-link2  has-buy-now-button&quot;]/a[@class=&quot;action-btn hover-up js-add-to-compare-button&quot;]/i[@class=&quot;fi-rs-shuffle&quot;]</value>
+      <webElementGuid>adaaecfd-0ca1-44c5-8a7b-5f19f3c9b6d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div/div/div/div[2]/div/form/div[3]/div[2]/a[2]/i</value>
+      <webElementGuid>10df16ee-ca59-46fc-9046-cf1e2dc73811</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[2]/i</value>
+      <webElementGuid>680cb1f2-a43e-46a6-9081-eac10ef44224</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

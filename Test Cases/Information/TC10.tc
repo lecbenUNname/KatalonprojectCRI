@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;breadcrumb&quot; should be highlight the privacy policy when the user clicks the privacy policy hyperlink</description>
+   <name>TC10</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c07a4d36-f78f-4aef-98f1-13dc18906fc2</testCaseGuid>
+</TestCaseEntity>

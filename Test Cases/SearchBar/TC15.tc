@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If there are more search results to load, the &quot;Load more&quot; button should continue to load additional results.Once all search results are loaded, the &quot;Load more&quot; button should no longer be visible.</description>
+   <name>TC15</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>dc285d40-2e9e-4591-82f3-ffaf6ffdc7f9</testCaseGuid>
+</TestCaseEntity>

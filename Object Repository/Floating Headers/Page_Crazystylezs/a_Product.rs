@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Product</name>
+   <tag></tag>
+   <elementGuidId>068812cf-78b0-4621-85cc-a8fd4d76fa7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Product')])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>nav > ul > li:nth-of-type(4) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4221a71e-5e5b-4bbd-8dfd-450afeca732b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/products</value>
+      <webElementGuid>aab72bea-534b-4a72-bd00-7723460ad504</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>f28a3877-403d-4eeb-958c-24c98a60565b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Product
+                                                                  </value>
+      <webElementGuid>47fed3c4-b5ed-47f5-ae60-906b0c9c38e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header-area header-style-1 header-height-2&quot;]/div[@class=&quot;header-bottom header-bottom-bg-color  sticky-bar&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;header-wrap header-space-between position-relative&quot;]/div[@class=&quot;header-nav d-none d-lg-flex&quot;]/div[@class=&quot;main-menu main-menu-padding-1 main-menu-lh-2 d-none d-lg-block font-heading&quot;]/nav[1]/ul[1]/li[4]/a[1]</value>
+      <webElementGuid>0d76c3dc-45a2-45d2-b082-0349fcdecaa4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Product')])[2]</value>
+      <webElementGuid>ecf8c5a5-422c-4c71-bdc5-c43dc73436ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://crazystylezs.com/products')])[6]</value>
+      <webElementGuid>45484fd7-225d-4f3a-bf8b-1fc8757a426b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[4]/a</value>
+      <webElementGuid>6a68262d-ec0b-435e-a801-f077e0c159f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://crazystylezs.com/products' and (text() = '
+                Product
+                                                                  ' or . = '
+                Product
+                                                                  ')]</value>
+      <webElementGuid>aee5103f-35b9-4cd8-9244-f76ba56d34a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>A &quot;See all results&quot; link or button should be visible at the bottom of the search results dropdown.</description>
+   <name>TC16</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>dda67309-9457-42c1-8f01-2c5d68d8b49a</testCaseGuid>
+</TestCaseEntity>

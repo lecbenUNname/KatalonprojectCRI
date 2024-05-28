@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The clicked thumbnail image smoothly and instantly becomes the main product image above.</description>
+   <name>TC05</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>13b65494-1eeb-44f0-bda3-05e87a9bf689</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Order return requests_1</name>
+   <tag></tag>
+   <elementGuidId>be809a1c-0314-40a5-b399-3e6b73273ade</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div/div/div/div[2]/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cbbf3656-1743-4fd6-a67a-1c723300bcd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://classicculture.in/customer/order-returns</value>
+      <webElementGuid>d21291a8-a938-41b7-a1c0-b28104b7310e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>dashboard</value>
+      <webElementGuid>140fea93-2275-42ba-b683-ae217e532c85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>9e57f18e-3c54-4a73-8a0f-abcbb06c1987</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link
+                                            </value>
+      <webElementGuid>b1f93d1e-4d36-4063-9330-8860cb25fa28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                                                        Order return requests
+                                        </value>
+      <webElementGuid>3a0c01e0-2a9f-486d-adb5-62123d2cc8f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;page-content pt-150 pb-150&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-10 m-auto&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;dashboard-menu&quot;]/ul[@class=&quot;nav flex-column&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>60c2c955-a195-4ac9-ba9d-41ac55608612</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div/div/div[2]/ul/li[4]/a</value>
+      <webElementGuid>b0c6175a-15c4-4981-868d-b17c54f18351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Order return requests')]</value>
+      <webElementGuid>75b9ae2e-6a03-4aee-a37e-96d45c7c7a4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders'])[1]/following::a[1]</value>
+      <webElementGuid>ae58f63d-9c29-4ab2-ae23-f9875c58f5b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::a[2]</value>
+      <webElementGuid>9dc4c14d-5390-4c4e-ade8-a36c3f746054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address books'])[1]/preceding::a[1]</value>
+      <webElementGuid>71840301-e88f-40f4-a9b8-192f2ae95c0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wishlist'])[2]/preceding::a[2]</value>
+      <webElementGuid>4309a823-7896-494b-9923-85d6a3ec2ab9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Order return requests']/parent::*</value>
+      <webElementGuid>c4ce1fc6-510d-4ae2-b653-7c432fd23ff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://classicculture.in/customer/order-returns')]</value>
+      <webElementGuid>ef9409c6-7336-4998-b31e-bfa1a92cb3f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[4]/a</value>
+      <webElementGuid>3ced1e80-6b0d-44bb-b221-26fe5e676e6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://classicculture.in/customer/order-returns' and (text() = '
+                                                                                        Order return requests
+                                        ' or . = '
+                                                                                        Order return requests
+                                        ')]</value>
+      <webElementGuid>4089310a-ff81-4f18-842c-ce3c74bca357</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

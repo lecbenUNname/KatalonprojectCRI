@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Filters   By Brands  ELEGANTE (11)   Sa_61255d</name>
+   <tag></tag>
+   <elementGuidId>1394f10c-e13f-4936-9ada-159adcdb44c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-lg-12.m-auto</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4dad2781-3656-4468-a4b6-d2694f6109e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-lg-12 m-auto</value>
+      <webElementGuid>fecc53dd-2a38-499f-a155-5507603f2272</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Filters   By Brands  ELEGANTE (11)   Samsung (11)   Allen Solly (26)   H&amp;M (33)   Lee Cooper (20)   Levis (35)   Max (37)   Nike (35)   Pepe Jeans (9)   Peter England (15)   Raymond (17)   U.S.polo (15)   Calvin Klien (23)   Van Heusen (16)   Louis Philippe (14)   Puma (32)   Adidas (33)   Wrong (7)   Campus Sutra (1)   Aurelia (3)   Biba (9)   Ahalyaa (4)   Libas (3)   Berrylush (6)   Sassafras (4)   Dressberry (6)   Bewakoof (3)   Chemistry (1)   Fabindia (5)   Forever21 (7)   Earthy Touch (0)   Gini &amp; Jony (5)   Indian Terrian (3)   Allen Solly (5)   Hrx (11)   Wildcraft (7)   Roshan (6)   Noise (1)   Fastrack (14)   Rolex (0)   Casio (5)   Nyka (8)   Mama Earth (7)   Turtle Dove (4)   Daniel Willington (4)   Vouge (5)   Carlton London (2)   Envy Wildstone (2)   Zebtronics (4)   Engage (3)   Faces Canada (0)   Taavi (4)   Maybellin Newyork (2)   Lakme (6)   Loreal Paris (9)   Crocs (1)   Sketchers (1)   Lifestyle (9)   Berrylush (2)   Sassafras (0)   Dressberry (0)   Bewakoof (1)   Chemistry (2)   Fabindia (1)   Forever21 (0)   Philips (0)   Butterfly (2)   Zodiac (1)   Ifb (5)   Preethi (0)   Lg (0)   Bosch (1)   Ifb (1)   Samsung (1)   Pothys (0)   Rmkv (1)   Fabindia (0)   Sabyasachi (0)   Nalli Sarees (0)   Deepam (0)   Noise (0)   Boat (2)   Sony (5)   Canon (3)   Nikkon (1)   Sethukrishna (4)   Ramraj (4)   Jansons (2)   POCO (2)   REDMI (0)   REDMI (2)   OPPO (2)   OnePlus (1)   IQOO (0)   Apple (1)  By tags  women's fashion (183)   men's fashion (126)   Clothes (19)   women's accessories (14)   Wallet (1)   Hand bag (1)   Bags (0)   Shoes (0)   Test 1 (0)   Test 2 (0)   Test 3 (0)   Test 4 (0)   Test 5 (0)   Test 6 (0)   Test 6 (0)  By Price    Range:  Rs.0.00 Rs.100,000.00 Advanced filters   By Color                                                             By Size   S   M   L   XL   XXL   7   8   9   10   11   12   0 - 6 Months   6 - 12 Months   12 - 18 Months   2 - 3 Years   3 - 6 Years   6 -  9 Years   9 - 13 Years  Filter  Clear All Filters   We found 10 items for you! Show:  12  12 24 36 Sort by:   Default Oldest Newest Price: low to high Price: high to low Name: A-Z Name : Z-A Rating: low to high Rating: high to low          Hot Sports Accessories Black Solid Non Slip Headband Rs.258.00  Add      New Sports Accessories Black Skipping Rope Rs.365.00  Add      Hot Sports Accessories Women Nude Solid UV Protection Arm Sleeves Rs.546.00  Add      Hot Sports Accessories Women White 3-Pack Sports Socks Rs.741.00  Add      Sale Sports Accessories Black Solid Boxing Leather Gloves Rs.1,552.00  Add      Hot Sports Accessories Set of 2 Black Boxing Gloves With Handwraps Rs.899.00  Add      Out Of Stock Sports Accessories The Lifestyle Co x Discovery Adventures Unisex Navy Blue Brand Logo Print Duffel Bag Rs.951.00  Add      Hot Sports Accessories Unisex Black &amp; White Brand Logo Embroidered Visor Cap Rs.1,010.00  Add      New Sports Accessories Black TR Ess Premium Grip Gloves Rs.741.00  Add      Sale Sports Accessories Unisex Black NSW H86 Futura Washed Solid Cap Rs.896.00  Add </value>
+      <webElementGuid>28c23676-effc-4d35-b3d1-80d4462099ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]</value>
+      <webElementGuid>f510f13c-8a8c-4be0-83b0-0de09c6b3160</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div</value>
+      <webElementGuid>53b99c72-29c7-457e-8777-a3ebebb45f97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div[2]/div/div</value>
+      <webElementGuid>8f9612ff-841e-4f2e-a047-e8da2a1ceca4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot; Filters   By Brands  ELEGANTE (11)   Samsung (11)   Allen Solly (26)   H&amp;M (33)   Lee Cooper (20)   Levis (35)   Max (37)   Nike (35)   Pepe Jeans (9)   Peter England (15)   Raymond (17)   U.S.polo (15)   Calvin Klien (23)   Van Heusen (16)   Louis Philippe (14)   Puma (32)   Adidas (33)   Wrong (7)   Campus Sutra (1)   Aurelia (3)   Biba (9)   Ahalyaa (4)   Libas (3)   Berrylush (6)   Sassafras (4)   Dressberry (6)   Bewakoof (3)   Chemistry (1)   Fabindia (5)   Forever21 (7)   Earthy Touch (0)   Gini &amp; Jony (5)   Indian Terrian (3)   Allen Solly (5)   Hrx (11)   Wildcraft (7)   Roshan (6)   Noise (1)   Fastrack (14)   Rolex (0)   Casio (5)   Nyka (8)   Mama Earth (7)   Turtle Dove (4)   Daniel Willington (4)   Vouge (5)   Carlton London (2)   Envy Wildstone (2)   Zebtronics (4)   Engage (3)   Faces Canada (0)   Taavi (4)   Maybellin Newyork (2)   Lakme (6)   Loreal Paris (9)   Crocs (1)   Sketchers (1)   Lifestyle (9)   Berrylush (2)   Sassafras (0)   Dressberry (0)   Bewakoof (1)   Chemistry (2)   Fabindia (1)   Forever21 (0)   Philips (0)   Butterfly (2)   Zodiac (1)   Ifb (5)   Preethi (0)   Lg (0)   Bosch (1)   Ifb (1)   Samsung (1)   Pothys (0)   Rmkv (1)   Fabindia (0)   Sabyasachi (0)   Nalli Sarees (0)   Deepam (0)   Noise (0)   Boat (2)   Sony (5)   Canon (3)   Nikkon (1)   Sethukrishna (4)   Ramraj (4)   Jansons (2)   POCO (2)   REDMI (0)   REDMI (2)   OPPO (2)   OnePlus (1)   IQOO (0)   Apple (1)  By tags  women&quot; , &quot;'&quot; , &quot;s fashion (183)   men&quot; , &quot;'&quot; , &quot;s fashion (126)   Clothes (19)   women&quot; , &quot;'&quot; , &quot;s accessories (14)   Wallet (1)   Hand bag (1)   Bags (0)   Shoes (0)   Test 1 (0)   Test 2 (0)   Test 3 (0)   Test 4 (0)   Test 5 (0)   Test 6 (0)   Test 6 (0)  By Price    Range:  Rs.0.00 Rs.100,000.00 Advanced filters   By Color                                                             By Size   S   M   L   XL   XXL   7   8   9   10   11   12   0 - 6 Months   6 - 12 Months   12 - 18 Months   2 - 3 Years   3 - 6 Years   6 -  9 Years   9 - 13 Years  Filter  Clear All Filters   We found 10 items for you! Show:  12  12 24 36 Sort by:   Default Oldest Newest Price: low to high Price: high to low Name: A-Z Name : Z-A Rating: low to high Rating: high to low          Hot Sports Accessories Black Solid Non Slip Headband Rs.258.00  Add      New Sports Accessories Black Skipping Rope Rs.365.00  Add      Hot Sports Accessories Women Nude Solid UV Protection Arm Sleeves Rs.546.00  Add      Hot Sports Accessories Women White 3-Pack Sports Socks Rs.741.00  Add      Sale Sports Accessories Black Solid Boxing Leather Gloves Rs.1,552.00  Add      Hot Sports Accessories Set of 2 Black Boxing Gloves With Handwraps Rs.899.00  Add      Out Of Stock Sports Accessories The Lifestyle Co x Discovery Adventures Unisex Navy Blue Brand Logo Print Duffel Bag Rs.951.00  Add      Hot Sports Accessories Unisex Black &amp; White Brand Logo Embroidered Visor Cap Rs.1,010.00  Add      New Sports Accessories Black TR Ess Premium Grip Gloves Rs.741.00  Add      Sale Sports Accessories Unisex Black NSW H86 Futura Washed Solid Cap Rs.896.00  Add &quot;) or . = concat(&quot; Filters   By Brands  ELEGANTE (11)   Samsung (11)   Allen Solly (26)   H&amp;M (33)   Lee Cooper (20)   Levis (35)   Max (37)   Nike (35)   Pepe Jeans (9)   Peter England (15)   Raymond (17)   U.S.polo (15)   Calvin Klien (23)   Van Heusen (16)   Louis Philippe (14)   Puma (32)   Adidas (33)   Wrong (7)   Campus Sutra (1)   Aurelia (3)   Biba (9)   Ahalyaa (4)   Libas (3)   Berrylush (6)   Sassafras (4)   Dressberry (6)   Bewakoof (3)   Chemistry (1)   Fabindia (5)   Forever21 (7)   Earthy Touch (0)   Gini &amp; Jony (5)   Indian Terrian (3)   Allen Solly (5)   Hrx (11)   Wildcraft (7)   Roshan (6)   Noise (1)   Fastrack (14)   Rolex (0)   Casio (5)   Nyka (8)   Mama Earth (7)   Turtle Dove (4)   Daniel Willington (4)   Vouge (5)   Carlton London (2)   Envy Wildstone (2)   Zebtronics (4)   Engage (3)   Faces Canada (0)   Taavi (4)   Maybellin Newyork (2)   Lakme (6)   Loreal Paris (9)   Crocs (1)   Sketchers (1)   Lifestyle (9)   Berrylush (2)   Sassafras (0)   Dressberry (0)   Bewakoof (1)   Chemistry (2)   Fabindia (1)   Forever21 (0)   Philips (0)   Butterfly (2)   Zodiac (1)   Ifb (5)   Preethi (0)   Lg (0)   Bosch (1)   Ifb (1)   Samsung (1)   Pothys (0)   Rmkv (1)   Fabindia (0)   Sabyasachi (0)   Nalli Sarees (0)   Deepam (0)   Noise (0)   Boat (2)   Sony (5)   Canon (3)   Nikkon (1)   Sethukrishna (4)   Ramraj (4)   Jansons (2)   POCO (2)   REDMI (0)   REDMI (2)   OPPO (2)   OnePlus (1)   IQOO (0)   Apple (1)  By tags  women&quot; , &quot;'&quot; , &quot;s fashion (183)   men&quot; , &quot;'&quot; , &quot;s fashion (126)   Clothes (19)   women&quot; , &quot;'&quot; , &quot;s accessories (14)   Wallet (1)   Hand bag (1)   Bags (0)   Shoes (0)   Test 1 (0)   Test 2 (0)   Test 3 (0)   Test 4 (0)   Test 5 (0)   Test 6 (0)   Test 6 (0)  By Price    Range:  Rs.0.00 Rs.100,000.00 Advanced filters   By Color                                                             By Size   S   M   L   XL   XXL   7   8   9   10   11   12   0 - 6 Months   6 - 12 Months   12 - 18 Months   2 - 3 Years   3 - 6 Years   6 -  9 Years   9 - 13 Years  Filter  Clear All Filters   We found 10 items for you! Show:  12  12 24 36 Sort by:   Default Oldest Newest Price: low to high Price: high to low Name: A-Z Name : Z-A Rating: low to high Rating: high to low          Hot Sports Accessories Black Solid Non Slip Headband Rs.258.00  Add      New Sports Accessories Black Skipping Rope Rs.365.00  Add      Hot Sports Accessories Women Nude Solid UV Protection Arm Sleeves Rs.546.00  Add      Hot Sports Accessories Women White 3-Pack Sports Socks Rs.741.00  Add      Sale Sports Accessories Black Solid Boxing Leather Gloves Rs.1,552.00  Add      Hot Sports Accessories Set of 2 Black Boxing Gloves With Handwraps Rs.899.00  Add      Out Of Stock Sports Accessories The Lifestyle Co x Discovery Adventures Unisex Navy Blue Brand Logo Print Duffel Bag Rs.951.00  Add      Hot Sports Accessories Unisex Black &amp; White Brand Logo Embroidered Visor Cap Rs.1,010.00  Add      New Sports Accessories Black TR Ess Premium Grip Gloves Rs.741.00  Add      Sale Sports Accessories Unisex Black NSW H86 Futura Washed Solid Cap Rs.896.00  Add &quot;))]</value>
+      <webElementGuid>678dbcb7-bd99-4078-abab-c1bb726b8b99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

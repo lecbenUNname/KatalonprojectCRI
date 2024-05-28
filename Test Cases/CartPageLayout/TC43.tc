@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;Continue Shopping&quot; button should effectively navigate the user to the product page.</description>
+   <name>TC43</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>d2d231d4-fe3f-4c24-889a-8aa689c1127e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user should not able to enter invalid email and login, if tries an alert toaster message popups &quot;These credentials do not match our records&quot;</description>
+   <name>TC10</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b559147e-8f63-4600-8898-d80d26cbdf7b</testCaseGuid>
+</TestCaseEntity>

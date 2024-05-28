@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Password fields should not accept blank space.</description>
+   <name>TC12</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b607d9da-fb9e-4d94-bdfe-70db7cc20221</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_M</name>
+   <tag></tag>
+   <elementGuidId>c0bdff0e-74da-4c69-94fb-ff892d4ee8a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div/div/div/div/div[2]/div/form/div/div/div[2]/div/ul/li[2]/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4b0f3429-b1ed-4d73-b9db-7a661e8d28e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>M</value>
+      <webElementGuid>514bb203-af02-49fe-9b6e-bc1716dd0ef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9&quot;]/div[@class=&quot;product-detail accordion-detail&quot;]/div[@class=&quot;row mb-50 mt-30&quot;]/div[@class=&quot;col-md-6 col-sm-12 col-xs-12&quot;]/div[@class=&quot;detail-info pr-30 pl-30&quot;]/form[@class=&quot;add-to-cart-form&quot;]/div[@class=&quot;pr_switch_wrap&quot;]/div[@class=&quot;product-attributes&quot;]/div[@class=&quot;text-swatches-wrapper attribute-swatches-wrapper attribute-swatches-wrapper form-group product__attribute product__color&quot;]/div[@class=&quot;attribute-values&quot;]/ul[@class=&quot;text-swatch attribute-swatch color-swatch&quot;]/li[@class=&quot;attribute-swatch-item&quot;]/div[1]/label[1]/span[1]</value>
+      <webElementGuid>4f21475d-ccb4-43df-b1a5-6cb59abf1111</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div/div/div/div[2]/div/form/div/div/div[2]/div/ul/li[2]/div/label/span</value>
+      <webElementGuid>571e9bde-06b0-454b-8bc4-8aae9a7c9137</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[1]/following::span[1]</value>
+      <webElementGuid>68af10fc-5405-4bef-8625-d3d605ec6ab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Size'])[1]/following::span[2]</value>
+      <webElementGuid>d3560d16-b0c9-47ed-917b-7c4d6b8ae27a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='L'])[1]/preceding::span[1]</value>
+      <webElementGuid>67c86e53-ca49-4785-acca-7544a757c7f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XL'])[1]/preceding::span[2]</value>
+      <webElementGuid>1e12b9de-d4fc-4cee-bfbe-735a5ad7c1b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='M']/parent::*</value>
+      <webElementGuid>9719c280-847c-462e-8548-46db277bbd99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li[2]/div/label/span</value>
+      <webElementGuid>e7134318-f9c8-4ab7-a786-87436b0f8122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'M' or . = 'M')]</value>
+      <webElementGuid>a78000a1-9ae1-4c5b-914f-c505edee406a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

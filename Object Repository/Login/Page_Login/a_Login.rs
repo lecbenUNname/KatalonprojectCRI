@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Login</name>
+   <tag></tag>
+   <elementGuidId>3e2a4447-1f5d-4d41-b48a-011a865f0e65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.cart-dropdown-wrap.cart-dropdown-hm2.account-dropdown > ul > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Login')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>01445e27-f75a-4f09-b1cf-9c36e82ec099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/login</value>
+      <webElementGuid>04db1194-6413-4739-8630-92fecb2c1266</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>585122f2-748d-4bab-aabd-47f751c8f4b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header-area header-style-1 header-height-2&quot;]/div[@class=&quot;header-middle header-middle-ptb-1 d-none d-lg-block&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;header-wrap&quot;]/div[@class=&quot;header-right&quot;]/div[@class=&quot;header-action-right&quot;]/div[@class=&quot;header-action-2&quot;]/div[@class=&quot;header-action-icon-2&quot;]/div[@class=&quot;cart-dropdown-wrap cart-dropdown-hm2 account-dropdown&quot;]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>5c92555d-b251-40ec-ada3-d33f3d17f97e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Login')]</value>
+      <webElementGuid>e7dffd70-6b7d-40ab-9b17-0bdf4a60faff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[1]/following::a[1]</value>
+      <webElementGuid>a2d4260e-d72e-4be9-a61b-41f0b73af513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No products in the cart.'])[1]/following::a[3]</value>
+      <webElementGuid>2ac76cfd-7f99-4c5b-8cf6-2b0248efe9d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/preceding::a[1]</value>
+      <webElementGuid>34c53fc2-943a-4abd-b2b4-492c1668d363</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse'])[1]/preceding::a[3]</value>
+      <webElementGuid>b6f105e2-269f-4ac0-8022-25ef0da20a6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://crazystylezs.com/login')]</value>
+      <webElementGuid>149abbc1-7b59-43d5-bb4b-c0f286e355dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/ul/li/a</value>
+      <webElementGuid>d846208e-8311-499c-8fcb-d60ee054c595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://crazystylezs.com/login' and (text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>46e02ec2-d738-47b8-943a-54cdfd38ddf9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

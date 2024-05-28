@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_No products in the cart_svgInject round_9519e2</name>
+   <tag></tag>
+   <elementGuidId>7b0cf423-abc7-45c0-b71e-e9399f33cd05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.svgInject.rounded-circle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Account']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e67022a9-1fb3-47dc-92c8-8aabd91820b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svgInject rounded-circle</value>
+      <webElementGuid>f1830b35-4cc7-499d-a090-be310e616519</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Account</value>
+      <webElementGuid>973fc861-41fa-4667-9842-a057cf950f70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/themes/nest/imgs/theme/icons/icon-user.svg</value>
+      <webElementGuid>b1806d04-aa7b-4474-aaa5-fc4016e5e987</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header-area header-style-1 header-height-2&quot;]/div[@class=&quot;header-middle header-middle-ptb-1 d-none d-lg-block&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;header-wrap&quot;]/div[@class=&quot;header-right&quot;]/div[@class=&quot;header-action-right&quot;]/div[@class=&quot;header-action-2&quot;]/div[@class=&quot;header-action-icon-2&quot;]/a[1]/img[@class=&quot;svgInject rounded-circle&quot;]</value>
+      <webElementGuid>10d7dc1d-14b5-44e1-bbda-f1a156a8d1de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Account']</value>
+      <webElementGuid>3ead18d7-0fdb-496d-8f54-cb3f21a7c02d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/img</value>
+      <webElementGuid>0329785f-7368-4dfd-ba6b-63faad74278c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Account' and @src = 'https://crazystylezs.com/themes/nest/imgs/theme/icons/icon-user.svg']</value>
+      <webElementGuid>eec2f922-6f5a-4fae-b32c-fa96128fd38c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

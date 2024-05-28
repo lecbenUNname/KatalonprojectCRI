@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Show_fi-rs-angle-small-down</name>
+   <tag></tag>
+   <elementGuidId>8066ce7f-217a-49e4-835b-0333785a61b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span > i.fi-rs-angle-small-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[2]/div[2]/div/div/div[2]/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>578d4718-c149-4262-8297-7dfa8a924462</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi-rs-angle-small-down</value>
+      <webElementGuid>26fbe3fe-b2a9-4900-8367-a61e43b8ebe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;shop-product-filter&quot;]/div[@class=&quot;sort-by-product-area&quot;]/div[@class=&quot;sort-by-cover mr-10 products_sortby&quot;]/div[@class=&quot;sort-by-product-wrap&quot;]/div[@class=&quot;sort-by-dropdown-wrap&quot;]/span[1]/i[@class=&quot;fi-rs-angle-small-down&quot;]</value>
+      <webElementGuid>088efc33-12e2-4b64-af08-d0754c385b54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[2]/div[2]/div/div/div[2]/span/i</value>
+      <webElementGuid>f9f8562f-bc30-44b5-98f4-34360160aea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/i</value>
+      <webElementGuid>1af147a0-da24-4623-b12b-aea3f6863207</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

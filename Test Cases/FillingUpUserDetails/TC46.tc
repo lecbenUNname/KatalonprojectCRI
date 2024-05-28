@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should not able to click the register button twice at the same time. Should able to click once.</description>
+   <name>TC46</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>32738524-f705-4f90-9315-50024b4ba27a</testCaseGuid>
+</TestCaseEntity>

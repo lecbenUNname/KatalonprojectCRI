@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should able to view the &quot;Password changed successfully&quot; Toaster message when the password is changed.</description>
+   <name>TC20</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd26b96e-47b3-4c8c-a2df-79588a44d1a5</testCaseGuid>
+</TestCaseEntity>

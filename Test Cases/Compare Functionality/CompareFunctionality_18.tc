@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to see the success alert when add the product in the cart through the compare page.</description>
+   <name>CompareFunctionality_18</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>9cd1c144-be93-481d-98ce-61076a1e8273</testCaseGuid>
+</TestCaseEntity>

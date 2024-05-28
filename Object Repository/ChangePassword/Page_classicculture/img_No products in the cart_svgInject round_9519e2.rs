@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_No products in the cart_svgInject round_9519e2</name>
+   <tag></tag>
+   <elementGuidId>ee643874-d5bc-46cc-ba0a-680e5dd27678</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.svgInject.rounded-circle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Account']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>36e7374e-1cf1-4688-b77b-ad6194dafb17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svgInject rounded-circle</value>
+      <webElementGuid>76697465-1fd9-48cd-99e9-d8af55e7e707</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Account</value>
+      <webElementGuid>5e4195d9-584c-4756-a66f-4f45337c0493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://classicculture.in/themes/nest/imgs/theme/icons/icon-user.svg</value>
+      <webElementGuid>4a6a549b-a132-4aa0-b484-b4486c81601d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header-area header-style-1 header-height-2 header-style-5&quot;]/div[@class=&quot;header-middle header-middle-ptb-1 d-none d-lg-block&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;header-wrap&quot;]/div[@class=&quot;header-right&quot;]/div[@class=&quot;header-action-right&quot;]/div[@class=&quot;header-action-2&quot;]/div[@class=&quot;header-action-icon-2&quot;]/a[1]/img[@class=&quot;svgInject rounded-circle&quot;]</value>
+      <webElementGuid>1ef3a081-bd5a-4c86-a18a-f37e90ddacd9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Account']</value>
+      <webElementGuid>d1750a62-4c0d-4162-8d62-7c558485ff02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/img</value>
+      <webElementGuid>a6d49e67-a2ee-48c2-ab99-51175dc87639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Account' and @src = 'https://classicculture.in/themes/nest/imgs/theme/icons/icon-user.svg']</value>
+      <webElementGuid>4aae17f7-a449-40dc-bd7c-c9c1ec271698</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

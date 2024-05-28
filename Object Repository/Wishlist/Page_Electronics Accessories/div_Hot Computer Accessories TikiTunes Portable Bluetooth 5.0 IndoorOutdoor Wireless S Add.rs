@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hot Computer Accessories TikiTunes Portable Bluetooth 5.0 IndoorOutdoor Wireless S Add</name>
+   <tag></tag>
+   <elementGuidId>96ee4d82-c3e9-48c2-8990-c4372ffdb0c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c11714bb-578c-4fcd-861c-5687e8188786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-cart-wrap mb-30</value>
+      <webElementGuid>e046d9fb-7486-4d6d-a15b-b365bd515066</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>     Hot Computer Accessories TikiTunes Portable Bluetooth 5.0 Indoor/Outdoor Wireless Speakers, LED Torch Atmospheric Lighting Effect, 5-Watt Audio USB Speakers, 2000 mAh Battery Rs.2,368.00  Add</value>
+      <webElementGuid>5a2882a2-17cf-454b-a99f-f7a4f9c5e3f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;row product-grid&quot;]/div[@class=&quot;col-xxl-3 col-xl-3 col-lg-4 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]</value>
+      <webElementGuid>eeb8fb7f-ea49-4ac9-812b-ae3a23782ee8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[3]/div</value>
+      <webElementGuid>0ba5b1bc-7ebc-4f2f-89a4-19c5cb30636f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[2]/following::div[2]</value>
+      <webElementGuid>549b8ea3-2771-40e0-b229-dd92e8fea8f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.5,369.00'])[1]/following::div[3]</value>
+      <webElementGuid>cdb811c6-1285-4e39-9ca3-5776b76a000d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div</value>
+      <webElementGuid>023abd8b-7839-45dd-a877-6f82aefddefe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '     Hot Computer Accessories TikiTunes Portable Bluetooth 5.0 Indoor/Outdoor Wireless Speakers, LED Torch Atmospheric Lighting Effect, 5-Watt Audio USB Speakers, 2000 mAh Battery Rs.2,368.00  Add' or . = '     Hot Computer Accessories TikiTunes Portable Bluetooth 5.0 Indoor/Outdoor Wireless Speakers, LED Torch Atmospheric Lighting Effect, 5-Watt Audio USB Speakers, 2000 mAh Battery Rs.2,368.00  Add')]</value>
+      <webElementGuid>683d5e1d-9854-411b-8029-b29b96ae7cc3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

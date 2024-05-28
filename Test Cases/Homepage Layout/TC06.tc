@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The header should display the promotional content when a user enters the homepage on crazystylez.com.</description>
+   <name>TC06</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>9d5fd1c3-02e3-4c88-8092-86dbb64ec109</testCaseGuid>
+</TestCaseEntity>

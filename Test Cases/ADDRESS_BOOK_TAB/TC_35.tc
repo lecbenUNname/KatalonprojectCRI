@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the user types a partial letters the related country name should be selected in the dropdown</description>
+   <name>TC_35</name>
+   <tag>Regression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>bfce053c-cf7a-4077-8734-4a72b638f111</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e2a1248d-38c1-4956-a0c4-8389f12233c3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Ind'</defaultValue>
+      <description></description>
+      <id>e2a1248d-38c1-4956-a0c4-8389f12233c3</id>
+      <masked>false</masked>
+      <name>Country_keyword</name>
+   </variable>
+</TestCaseEntity>

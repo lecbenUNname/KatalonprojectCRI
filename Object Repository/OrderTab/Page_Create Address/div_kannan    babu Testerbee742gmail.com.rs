@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_kannan    babu Testerbee742gmail.com</name>
+   <tag></tag>
+   <elementGuidId>4cd8084c-444d-4d08-8d1d-29871ed9d9a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-8</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6cddd235-564e-4f6d-8ad7-f26a49cc8ccb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-8</value>
+      <webElementGuid>ad48bdb2-a008-4855-8c8b-7d752848b428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>kannan    babu Testerbee742@gmail.com</value>
+      <webElementGuid>a6251ae6-040d-4f31-81c9-a34a68b1f716</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;page-content pt-150 pb-150&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-10 m-auto&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-8&quot;]</value>
+      <webElementGuid>90cdcf48-13d1-4ad4-a654-001e88f318bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>c6aa3281-5dcb-4592-9dea-e350531d03b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::div[1]</value>
+      <webElementGuid>5e02db4f-a876-4306-a2b9-28b35b93055d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::div[1]</value>
+      <webElementGuid>60ef8746-f349-4d92-ac00-4bd8ba727b0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>ff5c0693-0935-46b3-bc2b-52d3c23c0946</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'kannan    babu Testerbee742@gmail.com' or . = 'kannan    babu Testerbee742@gmail.com')]</value>
+      <webElementGuid>1a29fb90-4105-482e-a477-4be411a2673b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

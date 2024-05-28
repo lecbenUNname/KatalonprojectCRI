@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Clicking on the Date of Birth input field results in the display of the date picker.</description>
+   <name>TC22</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e77bebf5-bae3-41f1-85ae-b2adf7883e84</testCaseGuid>
+</TestCaseEntity>

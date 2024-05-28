@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Users should be able to click the &quot;Orders&quot; previous and next arrow should be active.</description>
+   <name>TC18</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>5ee67090-b1bb-417e-8d5d-6ce38a19d449</testCaseGuid>
+</TestCaseEntity>

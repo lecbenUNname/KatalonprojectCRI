@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Loading_mfp-arrow mfp-arrow-left mfp_a49da0</name>
+   <tag></tag>
+   <elementGuidId>a0f8d2a6-83db-40b2-b354-b68811c7eb60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.slick-next.slick-arrow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>21931ae5-4144-4096-92d3-2c3bf5ce833f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Previous (Left arrow key)</value>
+      <webElementGuid>93b01571-1060-44a6-bc9a-8e36702f9c40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dd3ae52d-c998-4668-a757-65d4e136bf58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slick-next slick-arrow</value>
+      <webElementGuid>a33eca09-b316-4a41-8c97-1b7283d84726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9&quot;]/div[@class=&quot;product-detail accordion-detail&quot;]/div[@class=&quot;row mb-50 mt-30&quot;]/div[@class=&quot;col-md-6 col-sm-12 col-xs-12 mb-md-0 mb-sm-5&quot;]/div[@class=&quot;detail-gallery&quot;]/div[@class=&quot;slider-nav-thumbnails slick-initialized slick-slider&quot;]/button[@class=&quot;slick-next slick-arrow&quot;]</value>
+      <webElementGuid>7b8b5e71-31a5-4227-86ff-7dfb65d45749</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>158a5738-b343-407e-92b1-51f7cfe310b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>21ec256e-8c7e-4036-8d89-32e4435ba37e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div/div/div/div/div/div[2]/button[2]</value>
+      <webElementGuid>5abfe956-1e61-48b7-b718-072e0c123914</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing Product'])[2]/following::button[2]</value>
+      <webElementGuid>59266a7d-3e74-4deb-81ee-fcc08222528c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Women'])[4]/following::button[2]</value>
+      <webElementGuid>25409e0c-7da3-41c8-96d5-9251d16710eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hot'])[1]/preceding::button[1]</value>
+      <webElementGuid>9fbbe86c-23de-4959-8ee9-7ac13fc305cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/preceding::button[1]</value>
+      <webElementGuid>ae2b3653-4224-4cd5-a93e-b186a2065c28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>6806a2a7-9a35-435c-af34-0c4104e7a726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>ea5df6ea-addd-414b-a17b-89c0c96205fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>74710a79-9f7c-4610-bf6a-3be1a3da7f40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Previous (Left arrow key)' and @type = 'button']</value>
+      <webElementGuid>09213858-e061-4326-b8d5-c8851d8ca354</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

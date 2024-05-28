@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To check &quot;Order Return Request Tab&quot; should be visible in Profile page</description>
+   <name>TC01</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b4dc621b-8fa8-4844-935e-3add991477a9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>when the availability status is set to &quot;In stock,&quot; the &quot;Add to cart&quot; button should be enabled.</description>
+   <name>TC18</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>0b0d92d4-6872-4e67-aa9e-aa60036030e6</testCaseGuid>
+</TestCaseEntity>

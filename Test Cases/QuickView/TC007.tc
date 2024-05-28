@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>when the user clicks the right-side arrow in the carousel image, it should accurately navigate forward.</description>
+   <name>TC007</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>5095731f-2bef-43b2-b59c-19a9e62bc3b8</testCaseGuid>
+</TestCaseEntity>

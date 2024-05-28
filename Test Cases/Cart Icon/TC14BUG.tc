@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Users are able to access the scroll bar option when adding more products in the cart.</description>
+   <name>TC14BUG</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>ed19631a-23fe-4c7f-9f31-d9084f0876eb</testCaseGuid>
+</TestCaseEntity>

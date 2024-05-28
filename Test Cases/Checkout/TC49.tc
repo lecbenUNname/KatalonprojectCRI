@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Address text field should not accept single character.</description>
+   <name>TC49</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>583af697-bc2e-4214-892b-1cfc4a77363a</testCaseGuid>
+</TestCaseEntity>

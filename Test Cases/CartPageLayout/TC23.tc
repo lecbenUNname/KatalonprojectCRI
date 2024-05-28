@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If a user has not added any products to the cart, the message &quot;Your cart is empty!&quot; should be displayed.</description>
+   <name>TC23</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>ca31cc68-3693-4bcf-ade5-362a817876c5</testCaseGuid>
+</TestCaseEntity>

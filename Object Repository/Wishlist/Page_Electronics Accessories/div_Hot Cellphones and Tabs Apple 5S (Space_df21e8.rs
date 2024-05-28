@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hot Cellphones and Tabs Apple 5S (Space_df21e8</name>
+   <tag></tag>
+   <elementGuidId>79b71328-0ecf-44fb-a09c-4b5bd1ec9944</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[12]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8a2b743a-3be2-48de-9c9b-8b72b0b23848</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-cart-wrap mb-30</value>
+      <webElementGuid>b4aeaedf-6acb-4ad4-8201-d9bc5fd09cf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>     Hot Cellphones and Tabs Apple 5S (Space Grey, 16GB) iPhone Rs.11,499.00  Add</value>
+      <webElementGuid>a028904a-64a1-4478-ba45-1eac02e0d3c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;row product-grid&quot;]/div[@class=&quot;col-xxl-3 col-xl-3 col-lg-4 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]</value>
+      <webElementGuid>c149b1a1-c7b0-4091-b443-e3a7f724f10e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[12]/div</value>
+      <webElementGuid>68a18960-39e2-4250-9ce3-0543ad29459e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[11]/following::div[2]</value>
+      <webElementGuid>54a89dd2-d11c-4362-89ab-5c905b201308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.18,999.00'])[1]/following::div[3]</value>
+      <webElementGuid>efca4a6f-32ef-4577-81a0-18a98c2ad635</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div</value>
+      <webElementGuid>8c97dbf2-3ec9-43de-a26f-560be6307389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '     Hot Cellphones and Tabs Apple 5S (Space Grey, 16GB) iPhone Rs.11,499.00  Add' or . = '     Hot Cellphones and Tabs Apple 5S (Space Grey, 16GB) iPhone Rs.11,499.00  Add')]</value>
+      <webElementGuid>d8077b24-450d-4a68-b695-2f4246b5d88f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

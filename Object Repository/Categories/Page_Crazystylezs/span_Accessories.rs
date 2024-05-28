@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Accessories</name>
+   <tag></tag>
+   <elementGuidId>ffdb85f4-24d3-468e-a1a3-272f7a274e32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/ul/ul/li[3]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>864e3717-8d3f-47a2-880d-dd099fff6a72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accessories</value>
+      <webElementGuid>67beea7f-4059-4363-855a-c40c6dd73082</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[@class=&quot;main&quot;]/section[@class=&quot;section-padding footer-mid&quot;]/div[@class=&quot;container pt-15 pb-20&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;footer-link-widget col wow animate__ animate__fadeInUp animated&quot;]/ul[@class=&quot;footer-list mb-sm-5 mb-md-0&quot;]/ul[@class=&quot;footer-list wow fadeIn animated mb-sm-5 mb-md-0 animated&quot;]/li[3]/a[1]/span[1]</value>
+      <webElementGuid>c5617869-ac9a-47bd-9ee0-89e98bb724a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/ul/li[3]/a/span</value>
+      <webElementGuid>873421b4-2e42-472d-8843-708782d6229b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Accessories' or . = 'Accessories')]</value>
+      <webElementGuid>09c3e60e-b64d-4d37-9e1a-70922594b0dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

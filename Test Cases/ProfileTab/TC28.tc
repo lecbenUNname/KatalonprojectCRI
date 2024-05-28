@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When attempting to click update button with an empty required input field, a &quot;Field Required&quot; alert should be displayed.</description>
+   <name>TC28</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb149f4f-efac-408e-bfcb-a420e4b57f80</testCaseGuid>
+</TestCaseEntity>

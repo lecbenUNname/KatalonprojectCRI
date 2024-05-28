@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>1a863e26-fe21-4be2-b3cc-b95fce25365e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div/section/div/div/div[2]/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Delivered to your home&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ad7251cf-513f-48d5-b006-8a0b89885b7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/storage/sliders/banner-right.png</value>
+      <webElementGuid>0f0fa07d-e29f-4420-871e-27e9bcc7abe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Delivered to your home</value>
+      <webElementGuid>86b692b1-9fc9-4d83-aff4-d843ef11c78f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;ck-content&quot;]/section[@class=&quot;home-slider style-2 position-relative mb-50&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4 d-none d-xl-block&quot;]/div[@class=&quot;banner-img wow animate__ animate__fadeInUp  animated&quot;]/img[1]</value>
+      <webElementGuid>1edd5050-7fc1-49f3-8a06-bfc0d86a7115</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div/section/div/div/div[2]/div/img</value>
+      <webElementGuid>c26e368e-82f0-4f04-abdf-4fa445e72e47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Delivered to your home']</value>
+      <webElementGuid>d8ac9966-e317-4ca4-86f6-4c7510ce6bd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/img</value>
+      <webElementGuid>1c3a8ad9-b7df-4432-b68f-80a231ac58da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://crazystylezs.com/storage/sliders/banner-right.png' and @alt = 'Delivered to your home']</value>
+      <webElementGuid>4db00e24-9ebd-4038-8ccc-2f9250e40811</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

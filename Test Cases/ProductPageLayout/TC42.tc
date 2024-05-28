@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can not able to add the product to cart by clicking add to cart button when given the inappropriate product count and unavailable product size and color</description>
+   <name>TC42</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>d7cc7e84-04f6-4158-9299-df2ad2bcc82c</testCaseGuid>
+</TestCaseEntity>

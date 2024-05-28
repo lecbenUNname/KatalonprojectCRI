@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Al the product details should show properly in the compare page</description>
+   <name>CompareFunctionality_15</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>41a78e31-f367-4531-8f8a-8db793497de0</testCaseGuid>
+</TestCaseEntity>

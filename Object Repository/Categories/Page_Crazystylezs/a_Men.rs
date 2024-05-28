@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Men</name>
+   <tag></tag>
+   <elementGuidId>f1960386-4988-4a41-a0f9-5ea2199babce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@class=&quot;  current &quot;]//a//span//text()</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f140cba7-6ce6-467a-85a7-2bc651ff6c1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/product-categories/mens</value>
+      <webElementGuid>cdf33f8d-33c5-4721-bb57-94ada0f23ba8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                 Men
+            </value>
+      <webElementGuid>ee9c9465-0e64-4f0b-9d01-2d638869232c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[@class=&quot;main&quot;]/section[@class=&quot;section-padding footer-mid&quot;]/div[@class=&quot;container pt-15 pb-20&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;footer-link-widget col wow animate__ animate__fadeInUp animated&quot;]/ul[@class=&quot;footer-list mb-sm-5 mb-md-0&quot;]/ul[@class=&quot;footer-list wow fadeIn animated mb-sm-5 mb-md-0 animated&quot;]/li[1]/a[1]</value>
+      <webElementGuid>bba03bee-77c9-44e6-9998-c6a7a5b873ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://crazystylezs.com/product-categories/mens')])[14]</value>
+      <webElementGuid>66c63f9f-c886-49f2-ab40-5f403805233f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/ul/li/a</value>
+      <webElementGuid>c4773611-c9a7-44b4-85dc-45e6c7a17b12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://crazystylezs.com/product-categories/mens' and (text() = '
+                 Men
+            ' or . = '
+                 Men
+            ')]</value>
+      <webElementGuid>2ca925f5-b908-4f64-8d19-e531cef3fb40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

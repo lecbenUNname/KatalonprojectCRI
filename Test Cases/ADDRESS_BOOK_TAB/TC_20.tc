@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Email ID Text field should not accept the space.</description>
+   <name>TC_20</name>
+   <tag>Regression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>e47ee283-c109-434b-9c04-3f835d8daf4b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>State text field should not accept single character.</description>
+   <name>TC36</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e49846a1-b3c9-439a-91a6-8975f8175436</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_View cart_svgInject rounded-circle</name>
+   <tag></tag>
+   <elementGuidId>234aad4c-e856-4126-b3bb-09d5672667c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.svgInject.rounded-circle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Account']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>53401234-1ca4-4c49-9c89-bc884ce1b240</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svgInject rounded-circle</value>
+      <webElementGuid>810911ff-6372-4d6d-8590-a37e97817c66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Account</value>
+      <webElementGuid>6a856d97-8781-446e-8e2d-4ad713b8fb15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://classicculture.in/storage/customers/microsoftteams-image-1-150x150.png</value>
+      <webElementGuid>a218f584-3039-44db-965b-677aabacb667</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header-area header-style-1 header-height-2 header-style-5&quot;]/div[@class=&quot;header-middle header-middle-ptb-1 d-none d-lg-block&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;header-wrap&quot;]/div[@class=&quot;header-right&quot;]/div[@class=&quot;header-action-right&quot;]/div[@class=&quot;header-action-2&quot;]/div[@class=&quot;header-action-icon-2&quot;]/a[1]/img[@class=&quot;svgInject rounded-circle&quot;]</value>
+      <webElementGuid>b8dec851-1f76-4594-aada-204d7ebc078f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Account']</value>
+      <webElementGuid>71398d47-acba-469a-9c7a-e16effb276ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/img</value>
+      <webElementGuid>54d36d83-4d41-4f12-a0e8-94b5f5f5f29e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Account' and @src = 'https://classicculture.in/storage/customers/microsoftteams-image-1-150x150.png']</value>
+      <webElementGuid>554336b1-e655-4d4d-a62f-3349df0edf90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

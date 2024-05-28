@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Status</name>
+   <tag></tag>
+   <elementGuidId>1328ec41-35e8-4b82-8622-aae5fa4f9cc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//th[text() = 'Status']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th:nth-of-type(4)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>5508f9f2-3cf4-46b1-8771-e546db888bf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Status</value>
+      <webElementGuid>be0438cb-a695-48b4-905d-80fced6f7f59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table&quot;]/thead[1]/tr[1]/th[4]</value>
+      <webElementGuid>da49fbc4-2f7b-4170-abb4-17e2ab138ab7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div/div/div[2]/div/table/thead/tr/th[4]</value>
+      <webElementGuid>a1bbeee7-bd5d-4d68-8b5f-be67e688f5b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::th[1]</value>
+      <webElementGuid>c029c7a3-055f-4bde-b40f-aebd80843fbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[1]/following::th[2]</value>
+      <webElementGuid>31cdd475-2fa2-4639-a644-77b07b3bdccb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/preceding::th[1]</value>
+      <webElementGuid>6771c067-9184-46ef-a7af-905283e8da4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#10000704'])[1]/preceding::th[2]</value>
+      <webElementGuid>7a4a5aaa-da55-4c57-96ef-a49b587644e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Status']/parent::*</value>
+      <webElementGuid>2654e12a-6c2e-4617-997b-0dcc3b204fcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[4]</value>
+      <webElementGuid>226ae15d-ac1c-49fe-a74e-966f08bb5721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Status' or . = 'Status')]</value>
+      <webElementGuid>51422d3c-068a-4f2b-b3a5-5e310de5fd98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

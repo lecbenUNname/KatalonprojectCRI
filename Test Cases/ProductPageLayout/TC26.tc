@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to see the product price with Rs.</description>
+   <name>TC26</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>7ba39941-7e15-4f5e-8e4d-9e65b727334c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;The phone number format is invalid&quot; Toaster message and alert should come when the phone number field is invalid</description>
+   <name>TC29BUG</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe909671-fb76-47df-a2c2-2e6702c176a0</testCaseGuid>
+</TestCaseEntity>

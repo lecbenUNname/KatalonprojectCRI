@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The cart page should display the size and colour of the product.</description>
+   <name>TC50(A)BUG</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>800b201a-5616-471e-9a77-b53f4ca87469</testCaseGuid>
+</TestCaseEntity>

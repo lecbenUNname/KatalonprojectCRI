@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add_action-btn hover-up js-add-to-wishlis_21ef64</name>
+   <tag></tag>
+   <elementGuidId>f6c6accf-3446-4fc0-ae78-e4a41d79af48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[2]/div/div/div[2]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ede79dcc-edb0-41e4-a715-4d09ae6bcb91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Add To Wishlist</value>
+      <webElementGuid>7200404e-8721-4b45-b9d2-3f7dc18a0a19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>8f64caf9-643b-4f5c-8b33-b0913beb33d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-url</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/wishlist/1821</value>
+      <webElementGuid>08ce46fe-f21c-48ef-9948-0f77b83573a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action-btn hover-up js-add-to-wishlist-button</value>
+      <webElementGuid>837eddb6-02ac-4370-9bab-7499c3f21de6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;row product-grid&quot;]/div[@class=&quot;col-xxl-3 col-xl-3 col-lg-4 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]/div[@class=&quot;product-img-action-wrap&quot;]/div[@class=&quot;product-action-1&quot;]/a[@class=&quot;action-btn hover-up js-add-to-wishlist-button&quot;]</value>
+      <webElementGuid>d0e16c2a-32e1-464e-a488-c0e5716ae665</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[2]/div/div/div[2]/a[2]</value>
+      <webElementGuid>1753bdcd-385b-4eb5-8925-9a09f36a7327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/following::a[3]</value>
+      <webElementGuid>b5535f9e-eb2a-4e9d-b429-6d32206fa575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.0.00'])[2]/following::a[4]</value>
+      <webElementGuid>a625669a-c4e5-4bc1-b719-b97fc204cd2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hot'])[1]/preceding::a[2]</value>
+      <webElementGuid>63379449-cc8f-43a7-bbbf-1143c98b8762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/preceding::a[2]</value>
+      <webElementGuid>e5bdcae1-6053-4108-8f5a-d4d28c628068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[13]</value>
+      <webElementGuid>9c501b33-732d-4c42-8772-cc8a3dc82750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div[2]/a[2]</value>
+      <webElementGuid>99fe9f28-c640-44ee-967e-369810006c78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#']</value>
+      <webElementGuid>855ed876-dd23-4794-8742-f9b42f5a7d92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

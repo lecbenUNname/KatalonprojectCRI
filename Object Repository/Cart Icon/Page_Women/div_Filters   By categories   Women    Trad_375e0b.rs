@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Filters   By categories   Women    Trad_375e0b</name>
+   <tag></tag>
+   <elementGuidId>26d0431d-ee86-4540-8e3a-782563e9af37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-lg-12.m-auto</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d99dda49-4140-45cd-b846-0d0dfc4dac7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-lg-12 m-auto</value>
+      <webElementGuid>bfdb26f6-ce10-4b54-a6d4-8238d35e572c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Filters   By categories   Women      Traditional Wear        Lehanga Choli        Maxi Dress        Sarees      Ethnic Wear        Kurtas And Salwar        Dress Materials        Tops and Tunics  By Brands  ELEGANTE (11)   Samsung (11)   Allen Solly (26)   H&amp;M (31)   Lee Cooper (20)   Levis (35)   Max (37)   Nike (36)   Pepe Jeans (10)   Peter England (16)   Raymond (19)   U.S.polo (15)   Calvin Klien (23)   Van Heusen (16)   Louis Philippe (14)   Puma (32)   Adidas (34)   Wrong (7)   Campus Sutra (1)   Aurelia (2)   Biba (9)   Ahalyaa (4)   Libas (3)   Berrylush (6)   Sassafras (4)   Dressberry (6)   Bewakoof (3)   Chemistry (1)   Fabindia (5)   Forever21 (6)   Earthy Touch (0)   Gini &amp; Jony (5)   Indian Terrian (3)   Allen Solly (5)   Hrx (11)   Wildcraft (7)   Roshan (7)   Noise (1)   Fastrack (14)   Rolex (0)   Casio (5)   Nyka (8)   Mama Earth (7)   Turtle Dove (4)   Daniel Willington (4)   Vouge (5)   Carlton London (2)   Envy Wildstone (2)   Zebtronics (4)   Engage (3)   Faces Canada (0)   Taavi (4)   Maybellin Newyork (2)   Lakme (6)   Loreal Paris (9)   Crocs (1)   Sketchers (1)   Lifestyle (9)   Berrylush (2)   Sassafras (0)   Dressberry (0)   Bewakoof (1)   Chemistry (2)   Fabindia (1)   Forever21 (0)   Philips (0)   Butterfly (2)   Zodiac (1)   Ifb (5)   Preethi (0)   Lg (0)   Bosch (1)   Ifb (1)   Samsung (1)   Pothys (0)   Rmkv (1)   Fabindia (0)   Sabyasachi (0)   Nalli Sarees (0)   Deepam (0)   Noise (0)   Boat (2)   Sony (5)   Canon (3)   Nikkon (1)   Sethukrishna (4)   Ramraj (4)   Jansons (2)   POCO (2)   REDMI (0)   REDMI (2)   OPPO (2)   OnePlus (1)   IQOO (0)   Apple (1)  By tags  women's fashion (184)   men's fashion (126)   Clothes (19)   women's accessories (15)   Wallet (1)   Hand bag (1)   New Arrivals (1)   Bags (0)   Shoes (0)   headset (0)   Mobile (0)   glass (0)   wa (0)   undisputed (0)  By Price    Range:  Rs.0.00 Rs.100,000.00 By Color                                                             By Size   S   M   L   XL   XXL   7   8   9   10   11   12   0 - 6 Months   6 - 12 Months   12 - 18 Months   2 - 3 Years   3 - 6 Years   6 -  9 Years   9 - 13 Years  Filter  Clear All Filters   We found 88 items for you! Show:  12  12 24 36 Sort by:   Default Oldest Newest Price: low to high Price: high to low Name: A-Z Name : Z-A Rating: low to high Rating: high to low          Hot Sale Trending Women Product 1 Rs.800.00 Rs.1,000.00  Add      Hot Women Testing Product Rs.400.00 Rs.600.00  Add      Hot Women Testing Product 2  (12) Rs.400.00 Rs.600.00  Add      Hot Kurtas And Salwar Printed Straight Kurta  (2) Rs.750.00 Rs.1,200.00  Add      Hot Maternity Wear Women Blue Maternity Shirt Midi Dress Rs.1,623.00 Rs.2,799.00  Add      Hot Maternity Wear Navy Blue Floral Maternity Midi Dress Rs.991.00 Rs.1,599.00  Add      Hot Maternity Wear Brown Floral Maternity Midi Dress Rs.1,455.00 Rs.2,799.00  Add      New Maternity Wear Green Tie and Dye Dyed Maternity Kaftan Midi Dress Rs.849.00 Rs.1,699.00  Add      New T-shirts and Tops Woman Regular V-Neck Top Rs.1,319.00 Rs.1,649.00  Add      Hot Makeup Lash Sensational Mascara Rs.425.00  Add      Hot Makeup Flawless Finish Primer Rs.499.00  Add      Hot Makeup Photoready Compact Powder Rs.1,375.00  Add  1 2 3 4 5 6 7 8 </value>
+      <webElementGuid>01ac9d76-e626-4fbd-ac2d-759d84ad86b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]</value>
+      <webElementGuid>aa2156db-0bff-4f7a-83de-c89ac0999189</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div</value>
+      <webElementGuid>bdaba7dd-f5a1-43d2-9c6c-dd1c60d13ade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div[2]/div/div</value>
+      <webElementGuid>df123418-a741-4146-9637-2d15e4c38e85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot; Filters   By categories   Women      Traditional Wear        Lehanga Choli        Maxi Dress        Sarees      Ethnic Wear        Kurtas And Salwar        Dress Materials        Tops and Tunics  By Brands  ELEGANTE (11)   Samsung (11)   Allen Solly (26)   H&amp;M (31)   Lee Cooper (20)   Levis (35)   Max (37)   Nike (36)   Pepe Jeans (10)   Peter England (16)   Raymond (19)   U.S.polo (15)   Calvin Klien (23)   Van Heusen (16)   Louis Philippe (14)   Puma (32)   Adidas (34)   Wrong (7)   Campus Sutra (1)   Aurelia (2)   Biba (9)   Ahalyaa (4)   Libas (3)   Berrylush (6)   Sassafras (4)   Dressberry (6)   Bewakoof (3)   Chemistry (1)   Fabindia (5)   Forever21 (6)   Earthy Touch (0)   Gini &amp; Jony (5)   Indian Terrian (3)   Allen Solly (5)   Hrx (11)   Wildcraft (7)   Roshan (7)   Noise (1)   Fastrack (14)   Rolex (0)   Casio (5)   Nyka (8)   Mama Earth (7)   Turtle Dove (4)   Daniel Willington (4)   Vouge (5)   Carlton London (2)   Envy Wildstone (2)   Zebtronics (4)   Engage (3)   Faces Canada (0)   Taavi (4)   Maybellin Newyork (2)   Lakme (6)   Loreal Paris (9)   Crocs (1)   Sketchers (1)   Lifestyle (9)   Berrylush (2)   Sassafras (0)   Dressberry (0)   Bewakoof (1)   Chemistry (2)   Fabindia (1)   Forever21 (0)   Philips (0)   Butterfly (2)   Zodiac (1)   Ifb (5)   Preethi (0)   Lg (0)   Bosch (1)   Ifb (1)   Samsung (1)   Pothys (0)   Rmkv (1)   Fabindia (0)   Sabyasachi (0)   Nalli Sarees (0)   Deepam (0)   Noise (0)   Boat (2)   Sony (5)   Canon (3)   Nikkon (1)   Sethukrishna (4)   Ramraj (4)   Jansons (2)   POCO (2)   REDMI (0)   REDMI (2)   OPPO (2)   OnePlus (1)   IQOO (0)   Apple (1)  By tags  women&quot; , &quot;'&quot; , &quot;s fashion (184)   men&quot; , &quot;'&quot; , &quot;s fashion (126)   Clothes (19)   women&quot; , &quot;'&quot; , &quot;s accessories (15)   Wallet (1)   Hand bag (1)   New Arrivals (1)   Bags (0)   Shoes (0)   headset (0)   Mobile (0)   glass (0)   wa (0)   undisputed (0)  By Price    Range:  Rs.0.00 Rs.100,000.00 By Color                                                             By Size   S   M   L   XL   XXL   7   8   9   10   11   12   0 - 6 Months   6 - 12 Months   12 - 18 Months   2 - 3 Years   3 - 6 Years   6 -  9 Years   9 - 13 Years  Filter  Clear All Filters   We found 88 items for you! Show:  12  12 24 36 Sort by:   Default Oldest Newest Price: low to high Price: high to low Name: A-Z Name : Z-A Rating: low to high Rating: high to low          Hot Sale Trending Women Product 1 Rs.800.00 Rs.1,000.00  Add      Hot Women Testing Product Rs.400.00 Rs.600.00  Add      Hot Women Testing Product 2  (12) Rs.400.00 Rs.600.00  Add      Hot Kurtas And Salwar Printed Straight Kurta  (2) Rs.750.00 Rs.1,200.00  Add      Hot Maternity Wear Women Blue Maternity Shirt Midi Dress Rs.1,623.00 Rs.2,799.00  Add      Hot Maternity Wear Navy Blue Floral Maternity Midi Dress Rs.991.00 Rs.1,599.00  Add      Hot Maternity Wear Brown Floral Maternity Midi Dress Rs.1,455.00 Rs.2,799.00  Add      New Maternity Wear Green Tie and Dye Dyed Maternity Kaftan Midi Dress Rs.849.00 Rs.1,699.00  Add      New T-shirts and Tops Woman Regular V-Neck Top Rs.1,319.00 Rs.1,649.00  Add      Hot Makeup Lash Sensational Mascara Rs.425.00  Add      Hot Makeup Flawless Finish Primer Rs.499.00  Add      Hot Makeup Photoready Compact Powder Rs.1,375.00  Add  1 2 3 4 5 6 7 8 &quot;) or . = concat(&quot; Filters   By categories   Women      Traditional Wear        Lehanga Choli        Maxi Dress        Sarees      Ethnic Wear        Kurtas And Salwar        Dress Materials        Tops and Tunics  By Brands  ELEGANTE (11)   Samsung (11)   Allen Solly (26)   H&amp;M (31)   Lee Cooper (20)   Levis (35)   Max (37)   Nike (36)   Pepe Jeans (10)   Peter England (16)   Raymond (19)   U.S.polo (15)   Calvin Klien (23)   Van Heusen (16)   Louis Philippe (14)   Puma (32)   Adidas (34)   Wrong (7)   Campus Sutra (1)   Aurelia (2)   Biba (9)   Ahalyaa (4)   Libas (3)   Berrylush (6)   Sassafras (4)   Dressberry (6)   Bewakoof (3)   Chemistry (1)   Fabindia (5)   Forever21 (6)   Earthy Touch (0)   Gini &amp; Jony (5)   Indian Terrian (3)   Allen Solly (5)   Hrx (11)   Wildcraft (7)   Roshan (7)   Noise (1)   Fastrack (14)   Rolex (0)   Casio (5)   Nyka (8)   Mama Earth (7)   Turtle Dove (4)   Daniel Willington (4)   Vouge (5)   Carlton London (2)   Envy Wildstone (2)   Zebtronics (4)   Engage (3)   Faces Canada (0)   Taavi (4)   Maybellin Newyork (2)   Lakme (6)   Loreal Paris (9)   Crocs (1)   Sketchers (1)   Lifestyle (9)   Berrylush (2)   Sassafras (0)   Dressberry (0)   Bewakoof (1)   Chemistry (2)   Fabindia (1)   Forever21 (0)   Philips (0)   Butterfly (2)   Zodiac (1)   Ifb (5)   Preethi (0)   Lg (0)   Bosch (1)   Ifb (1)   Samsung (1)   Pothys (0)   Rmkv (1)   Fabindia (0)   Sabyasachi (0)   Nalli Sarees (0)   Deepam (0)   Noise (0)   Boat (2)   Sony (5)   Canon (3)   Nikkon (1)   Sethukrishna (4)   Ramraj (4)   Jansons (2)   POCO (2)   REDMI (0)   REDMI (2)   OPPO (2)   OnePlus (1)   IQOO (0)   Apple (1)  By tags  women&quot; , &quot;'&quot; , &quot;s fashion (184)   men&quot; , &quot;'&quot; , &quot;s fashion (126)   Clothes (19)   women&quot; , &quot;'&quot; , &quot;s accessories (15)   Wallet (1)   Hand bag (1)   New Arrivals (1)   Bags (0)   Shoes (0)   headset (0)   Mobile (0)   glass (0)   wa (0)   undisputed (0)  By Price    Range:  Rs.0.00 Rs.100,000.00 By Color                                                             By Size   S   M   L   XL   XXL   7   8   9   10   11   12   0 - 6 Months   6 - 12 Months   12 - 18 Months   2 - 3 Years   3 - 6 Years   6 -  9 Years   9 - 13 Years  Filter  Clear All Filters   We found 88 items for you! Show:  12  12 24 36 Sort by:   Default Oldest Newest Price: low to high Price: high to low Name: A-Z Name : Z-A Rating: low to high Rating: high to low          Hot Sale Trending Women Product 1 Rs.800.00 Rs.1,000.00  Add      Hot Women Testing Product Rs.400.00 Rs.600.00  Add      Hot Women Testing Product 2  (12) Rs.400.00 Rs.600.00  Add      Hot Kurtas And Salwar Printed Straight Kurta  (2) Rs.750.00 Rs.1,200.00  Add      Hot Maternity Wear Women Blue Maternity Shirt Midi Dress Rs.1,623.00 Rs.2,799.00  Add      Hot Maternity Wear Navy Blue Floral Maternity Midi Dress Rs.991.00 Rs.1,599.00  Add      Hot Maternity Wear Brown Floral Maternity Midi Dress Rs.1,455.00 Rs.2,799.00  Add      New Maternity Wear Green Tie and Dye Dyed Maternity Kaftan Midi Dress Rs.849.00 Rs.1,699.00  Add      New T-shirts and Tops Woman Regular V-Neck Top Rs.1,319.00 Rs.1,649.00  Add      Hot Makeup Lash Sensational Mascara Rs.425.00  Add      Hot Makeup Flawless Finish Primer Rs.499.00  Add      Hot Makeup Photoready Compact Powder Rs.1,375.00  Add  1 2 3 4 5 6 7 8 &quot;))]</value>
+      <webElementGuid>02c0b7fc-62cc-457a-848f-f4fcda022f00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

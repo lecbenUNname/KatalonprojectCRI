@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Rating high to low_hover-img</name>
+   <tag></tag>
+   <elementGuidId>a7c5a649-b8b4-4408-a8a6-c302e84c2661</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.hover-img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@class , 'default-img')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1132abd4-039b-48d8-b21f-5b47e66bd303</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.myshopings.in/storage/products/4-154-400x400.jpg</value>
+      <webElementGuid>5af3e758-f903-45e6-a281-aa30a17cd11c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Test 01</value>
+      <webElementGuid>36fc2f84-549c-4b50-98a0-ba7d21be8c9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hover-img</value>
+      <webElementGuid>5e8a3385-c7ef-432b-9196-65ce8d87970b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;row product-grid&quot;]/div[@class=&quot;col-xxl-3 col-xl-3 col-lg-4 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]/div[@class=&quot;product-img-action-wrap&quot;]/div[@class=&quot;product-img product-img-zoom&quot;]/a[1]/img[@class=&quot;hover-img&quot;]</value>
+      <webElementGuid>795c07ef-b1e2-4bee-8cf4-827d59e78369</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div/div/div/div/a/img[2]</value>
+      <webElementGuid>805bd1e5-1925-49b6-978b-016224433320</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Test 01'])[2]</value>
+      <webElementGuid>4bf3d776-a6e5-4108-a3d2-ffc057f39a54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img[2]</value>
+      <webElementGuid>8038ac61-73c2-4843-8f34-207f5614d267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://www.myshopings.in/storage/products/4-154-400x400.jpg' and @alt = 'Test 01']</value>
+      <webElementGuid>453972e1-254b-4552-9173-4eb6fb533fde</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

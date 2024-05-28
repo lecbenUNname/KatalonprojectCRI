@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should able to view the &quot;Order Tab&quot; displays &quot;No orders&quot; message while any order not placed.</description>
+   <name>TC04</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b48f789f-4065-4d3a-815a-e80157e49aea</testCaseGuid>
+</TestCaseEntity>

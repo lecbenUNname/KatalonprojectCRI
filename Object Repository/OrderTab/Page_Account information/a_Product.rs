@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Product</name>
+   <tag></tag>
+   <elementGuidId>d3f97969-e58f-494c-bd01-3bc561a956d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nav > ul > li:nth-of-type(4) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Product')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a057392b-e65a-48fe-b163-295f1689246e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://classicculture.in/products</value>
+      <webElementGuid>f946b253-9db0-4995-9238-d3a90dadc563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>dff83dbe-1d8e-4059-94cb-a45d0be0fc7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Product
+                                                                  </value>
+      <webElementGuid>e468532e-dab2-4092-a648-51944acfef4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header-area header-style-1 header-height-2&quot;]/div[@class=&quot;header-bottom header-bottom-bg-color  sticky-bar&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;header-wrap header-space-between position-relative&quot;]/div[@class=&quot;header-nav d-none d-lg-flex&quot;]/div[@class=&quot;main-menu main-menu-padding-1 main-menu-lh-2 d-none d-lg-block font-heading&quot;]/nav[1]/ul[1]/li[4]/a[1]</value>
+      <webElementGuid>96f792a1-0ebc-4ceb-84de-5cd681c35244</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Product')])[2]</value>
+      <webElementGuid>34f0ffca-01ee-41e0-bfa3-a99eccbffbe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stores - Grid'])[1]/following::a[1]</value>
+      <webElementGuid>d05d4340-b75c-41f2-a813-f6e44ce18bda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stores - List'])[1]/following::a[2]</value>
+      <webElementGuid>a9d68043-1e89-442d-8ad8-9801358a8c6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Women'])[2]/preceding::a[1]</value>
+      <webElementGuid>b6844910-912e-4cf5-afa6-e4b17c0ddf53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Traditional Wear'])[1]/preceding::a[2]</value>
+      <webElementGuid>e8869ff5-23a6-4999-b2ad-59282787fce2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Product']/parent::*</value>
+      <webElementGuid>7ea34899-bb03-4406-bdbd-69f3762e8ee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://classicculture.in/products')])[6]</value>
+      <webElementGuid>d78fb191-3f57-40e2-9953-467b15d51c18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[4]/a</value>
+      <webElementGuid>6bc01dd1-6ed2-4875-91ed-1c1524a55e1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://classicculture.in/products' and (text() = '
+                Product
+                                                                  ' or . = '
+                Product
+                                                                  ')]</value>
+      <webElementGuid>e56a8241-f63c-435a-a43c-1ea38e2682f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

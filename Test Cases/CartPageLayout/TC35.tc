@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Under the &quot;Remove&quot; title, a delete icon should be displayed. Upon clicking the icon, the product should be successfully removed from the cart.</description>
+   <name>TC35</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>0ed1ed61-8f3b-48e8-a54f-5e1dd3702e49</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>4f8f24e8-8c87-44e3-a6e6-0c6ee5f73d3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div/div[2]/table/tbody/tr/td/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Women Olive Poly-Silk Volume Control Ethnic Dress&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8cdcf73a-4bc2-411e-bc64-db2e45d82fcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Women Olive Poly-Silk Volume Control Ethnic Dress</value>
+      <webElementGuid>494dee4d-2d7a-41fb-b77e-46698901b3a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/storage/products/2-105-150x150.jpg</value>
+      <webElementGuid>d2821f86-6edd-4f57-b674-1948fcf089b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;mb-30 mt-50&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;table-responsive shopping-summery&quot;]/table[@class=&quot;table table-wishlist&quot;]/tbody[1]/tr[@class=&quot;pt-30&quot;]/td[@class=&quot;image product-thumbnail pt-40 pl-30&quot;]/img[1]</value>
+      <webElementGuid>30f7bdf1-e560-4a28-b88f-8aee1cfac39b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div[2]/table/tbody/tr/td/img</value>
+      <webElementGuid>6a2c2998-19c0-4c6e-8a29-f0105829574b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Women Olive Poly-Silk Volume Control Ethnic Dress']</value>
+      <webElementGuid>4e4e4288-db7b-4a7c-84ab-a86b113ec300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/img</value>
+      <webElementGuid>7020645d-990b-473f-a7fd-b8faff266105</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Women Olive Poly-Silk Volume Control Ethnic Dress' and @src = 'https://crazystylezs.com/storage/products/2-105-150x150.jpg']</value>
+      <webElementGuid>f08e0149-9fde-4261-95d6-69ff7f1c748e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

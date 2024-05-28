@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Drop Us a Line</name>
+   <tag></tag>
+   <elementGuidId>c5340a7d-347a-473b-9a5f-ab973905ac1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.mb-10.text-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/section/div/section/div/div/div/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>749d55ad-80a1-4600-b451-416d4776f33d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-10 text-center</value>
+      <webElementGuid>2c9da3a1-ff05-4083-889a-7efb69aae855</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Drop Us a Line</value>
+      <webElementGuid>579ec7b3-4f6a-41b7-a349-5fcccb16da97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container&quot;]/section[@class=&quot;mt-60 mb-60&quot;]/div[@class=&quot;ck-content&quot;]/section[@class=&quot;mt-50 pb-50&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-8 col-lg-10 m-auto&quot;]/div[@class=&quot;contact-from-area  padding-20-row-col wow tmFadeInUp animated animated&quot;]/h3[@class=&quot;mb-10 text-center&quot;]</value>
+      <webElementGuid>3c57133d-4140-4cff-86e8-2c58b1f07dc4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/section/div/section/div/div/div/div/h3</value>
+      <webElementGuid>d997bed4-9ea0-4fe4-ab4c-dca224987e96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>9fb80dae-3309-4a5b-a546-befb0ebb2bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Drop Us a Line' or . = 'Drop Us a Line')]</value>
+      <webElementGuid>499e696d-81de-41ce-8a03-73aea1b40916</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

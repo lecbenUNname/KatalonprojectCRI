@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Send message</name>
+   <tag></tag>
+   <elementGuidId>e949def3-db0a-4793-8a03-d079d5918ac5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.submit.submit-auto-width.mt-30</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Send message&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>25a60d86-2e45-49b1-a746-b12a65c3b930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>0b56755e-79b7-4191-93a9-9f71cf99b5e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>submit submit-auto-width mt-30</value>
+      <webElementGuid>ee474b1e-5923-454c-a819-28ec2351df56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Send message</value>
+      <webElementGuid>831bf9b4-a6f3-4ea2-a571-68786eeb68df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container&quot;]/section[@class=&quot;mt-60 mb-60&quot;]/div[@class=&quot;ck-content&quot;]/section[@class=&quot;mt-50 pb-50&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-8 col-lg-10 m-auto&quot;]/div[@class=&quot;contact-from-area  padding-20-row-col wow tmFadeInUp animated animated&quot;]/form[@class=&quot;contact-form-style text-center contact-form&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12&quot;]/button[@class=&quot;submit submit-auto-width mt-30&quot;]</value>
+      <webElementGuid>049842cc-4473-4b0f-9f84-527803a9c88a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[2]</value>
+      <webElementGuid>93525ea1-cdaa-4233-8e48-e039bcd4b6f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/section/div/section/div/div/div/div/form/div/div[7]/button</value>
+      <webElementGuid>2591dbbe-ee67-421d-92e0-dd66a5d8750d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drop Us a Line'])[1]/following::button[1]</value>
+      <webElementGuid>840c22bd-7e67-4bf4-8a10-9f0c47cf7ca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View map'])[1]/following::button[1]</value>
+      <webElementGuid>6aedd45b-35d2-4baa-8908-f02b9695b369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe'])[1]/preceding::button[1]</value>
+      <webElementGuid>a43c47e6-fff1-4e55-a7be-f391f0d5019a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Super Secure Payment'])[1]/preceding::button[2]</value>
+      <webElementGuid>8ef5e114-3878-4390-8a54-0f9e7971e963</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Send message']/parent::*</value>
+      <webElementGuid>a45d52db-6480-4418-aa06-ad28e78b09e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/button</value>
+      <webElementGuid>44d8c79d-453a-4d6b-8b3a-972d2e13bb40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Send message' or . = 'Send message')]</value>
+      <webElementGuid>059afbc0-2d8f-4919-9cb6-97cc13ab4227</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

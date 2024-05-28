@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to see the related product which is relatable to the browsed products</description>
+   <name>TC53</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>ccfd7be1-64c0-4f8e-8b60-d2cad47f97f7</testCaseGuid>
+</TestCaseEntity>

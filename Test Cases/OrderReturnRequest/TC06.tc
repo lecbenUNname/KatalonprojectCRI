@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to check &quot;Date and time&quot; of the product ordered</description>
+   <name>TC06</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e30d15d4-2646-4f14-ad64-813a704aeb09</testCaseGuid>
+</TestCaseEntity>

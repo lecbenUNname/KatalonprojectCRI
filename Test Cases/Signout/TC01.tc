@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To check that user able to see the Sign out button</description>
+   <name>TC01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d17e281f-6ad5-4532-a377-c452bc0bd927</testCaseGuid>
+</TestCaseEntity>

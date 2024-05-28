@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>All UI, TEXTS, and  ICONS  should be aligned properly on the change password</description>
+   <name>TC03.1_bug</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0ac3f40-f1b4-4687-afd2-dde6b8c677f4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The passord field is encrypted.</description>
+   <name>TC16</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>cafec437-8a75-44f2-84d8-ad51e1fff0ea</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user clicks on the 12-page size number it should be reflected on the home page</description>
+   <name>TC06</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a3596e1-f6a5-445c-9808-b7a104143535</testCaseGuid>
+</TestCaseEntity>

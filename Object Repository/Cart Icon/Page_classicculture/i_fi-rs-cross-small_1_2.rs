@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_fi-rs-cross-small_1_2</name>
+   <tag></tag>
+   <elementGuidId>fee442b9-c56d-4cab-b82b-6a4eaba7fda2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(4) > div.shopping-cart-delete > a.remove-cart-item > i.fi-rs-cross-small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[4]/div[3]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1cc595b7-1407-4188-9458-74d6c3407282</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi-rs-cross-small</value>
+      <webElementGuid>a14a5c42-6c5a-4eef-b72f-c1c901a3c30d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header-area header-style-1 header-height-2 header-style-5&quot;]/div[@class=&quot;header-middle header-middle-ptb-1 d-none d-lg-block&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;header-wrap&quot;]/div[@class=&quot;header-right&quot;]/div[@class=&quot;header-action-right&quot;]/div[@class=&quot;header-action-2&quot;]/div[@class=&quot;header-action-icon-2&quot;]/div[@class=&quot;cart-dropdown-wrap cart-dropdown-hm2 cart-dropdown-panel&quot;]/ul[1]/li[4]/div[@class=&quot;shopping-cart-delete&quot;]/a[@class=&quot;remove-cart-item&quot;]/i[@class=&quot;fi-rs-cross-small&quot;]</value>
+      <webElementGuid>514a113a-e804-49b7-b100-0e603ffa8387</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div[3]/a/i</value>
+      <webElementGuid>757a6154-3a81-4980-9399-2f55ebb07294</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

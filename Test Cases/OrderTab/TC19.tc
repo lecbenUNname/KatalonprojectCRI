@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If there is no page for next then the side arrow should be hided</description>
+   <name>TC19</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>0d379c1a-a9b9-45cc-ad1d-3797594bcab6</testCaseGuid>
+</TestCaseEntity>

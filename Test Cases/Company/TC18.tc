@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The name field should accept alphabets, numbers, and special characters when users enter their credentials</description>
+   <name>TC18</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>a74c9b15-8341-42c3-9eb0-69c1a606f46e</testCaseGuid>
+</TestCaseEntity>

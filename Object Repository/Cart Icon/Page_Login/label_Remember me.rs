@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Remember me</name>
+   <tag></tag>
+   <elementGuidId>e05748fd-27a0-4098-94eb-ab9a169526d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.form-check-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div/div/div[2]/div/div/form/div[3]/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a93f3e9a-e187-4eed-8e8d-4ff582bb8dd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>remember-checkbox</value>
+      <webElementGuid>649d9896-6506-459c-b0dc-3c56a4921c8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check-label</value>
+      <webElementGuid>749e3cd7-7230-4b5b-aa51-b999698ef826</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Remember me</value>
+      <webElementGuid>5f904d9e-5ef7-400c-bb0f-721764e736b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;page-content pt-150 pb-150&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-8 col-lg-10 col-md-12 m-auto&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-8&quot;]/div[@class=&quot;login_wrap widget-taber-content background-white&quot;]/div[@class=&quot;padding_eight_all bg-white&quot;]/form[1]/div[@class=&quot;login_footer form-group mb-50&quot;]/div[@class=&quot;chek-form&quot;]/div[@class=&quot;custome-checkbox&quot;]/label[@class=&quot;form-check-label&quot;]</value>
+      <webElementGuid>367215ca-6835-44d6-b358-5553a91cc8e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div/div[2]/div/div/form/div[3]/div/div/label</value>
+      <webElementGuid>81b77ad0-ade0-4a60-ae13-14621e184f28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>e2b94dde-d251-4124-873f-db6ebfe81950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Remember me' or . = 'Remember me')]</value>
+      <webElementGuid>b1cca114-dd7c-4a54-8a04-a33cd6c7ac83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

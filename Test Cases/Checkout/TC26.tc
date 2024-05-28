@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Phone number field should not accept blank or space.</description>
+   <name>TC26</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>1c529918-e35a-41c3-9996-824809130c35</testCaseGuid>
+</TestCaseEntity>

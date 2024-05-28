@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;Name field is required&quot; alert should appear when the update button is clicked after leaving the Full Name field empty.</description>
+   <name>TC14BUG</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>a3efe0bb-26bb-4c98-90b2-ba54678343cc</testCaseGuid>
+</TestCaseEntity>

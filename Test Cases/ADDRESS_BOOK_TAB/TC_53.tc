@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Address text field should not accept minimum of single character.</description>
+   <name>TC_53</name>
+   <tag>Regresssion, mk</tag>
+   <comment></comment>
+   <testCaseGuid>a6cd1f77-5455-4d4a-a63f-d9fad67b9ae4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Password should not accept when the password mismatch for the both fields.</description>
+   <name>TC35</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>5855eb23-097f-4b4c-a1b0-72b944646a13</testCaseGuid>
+</TestCaseEntity>

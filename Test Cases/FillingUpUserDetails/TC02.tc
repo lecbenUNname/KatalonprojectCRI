@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Register page layout, font size and icons Should aligned correctly.</description>
+   <name>TC02</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b5e58827-a329-4581-bbf4-d749a11a3314</testCaseGuid>
+</TestCaseEntity>

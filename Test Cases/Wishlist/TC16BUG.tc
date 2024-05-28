@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>After deleting the product the count should not changed on your wishlist message when the user clicks the delete button</description>
+   <name>TC16BUG</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>7148a120-a4ac-4e38-91af-d3357263f640</testCaseGuid>
+</TestCaseEntity>

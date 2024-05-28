@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Login Dont have an account Create one  _dc4618</name>
+   <tag></tag>
+   <elementGuidId>51023b66-63ad-40ef-9401-13cbd10ff484</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.padding_eight_all.bg-white</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>78fba572-9932-4ae0-a054-bf322e04fa11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>padding_eight_all bg-white</value>
+      <webElementGuid>9c5db71d-1e6a-4917-bb38-20d3ce2e7cf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login Don't have an account? Create one     Remember me Forgot password? Login </value>
+      <webElementGuid>3d17513b-e9cc-437d-843a-c7c41fa241de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;page-content pt-150 pb-150&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-8 col-lg-10 col-md-12 m-auto&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-8&quot;]/div[@class=&quot;login_wrap widget-taber-content background-white&quot;]/div[@class=&quot;padding_eight_all bg-white&quot;]</value>
+      <webElementGuid>19155575-e54d-4a54-b4ed-1409dbd3c358</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>d3871b16-354d-4a86-a50f-4413c5b050fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[3]/following::div[9]</value>
+      <webElementGuid>ff522cbb-4039-429f-9056-aee2cfeb0141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::div[10]</value>
+      <webElementGuid>a825a01e-b8ce-473c-90a4-09ff4e072d0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>b09172c8-7f15-476c-967c-60cf47347aee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Login Don&quot; , &quot;'&quot; , &quot;t have an account? Create one     Remember me Forgot password? Login &quot;) or . = concat(&quot;Login Don&quot; , &quot;'&quot; , &quot;t have an account? Create one     Remember me Forgot password? Login &quot;))]</value>
+      <webElementGuid>9e9996e1-5e7c-4d2a-b0f7-e3fd6dafae4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Password text field should accept combination of alphabets and special characters.</description>
+   <name>TC23</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>99327c02-f21a-463e-a594-c82352a56336</testCaseGuid>
+</TestCaseEntity>

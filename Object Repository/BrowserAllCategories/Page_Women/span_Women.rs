@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Women</name>
+   <tag></tag>
+   <elementGuidId>53c78125-ac5c-4210-8ead-31c1e18d8733</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div/div/div/div[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.breadcrumb-item.d-inline-block.active > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ff0ad0ef-47cc-4b13-a7be-05049e929f6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemprop</name>
+      <type>Main</type>
+      <value>item</value>
+      <webElementGuid>8da84495-29ca-4717-bd48-ce3c0d18f9a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Women
+                            </value>
+      <webElementGuid>2d1080e1-ff83-4419-8b1a-9ff408498b35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;page-header breadcrumb-wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;breadcrumb&quot;]/div[@class=&quot;breadcrumb-item d-inline-block active&quot;]/span[1]</value>
+      <webElementGuid>6c024b91-509a-4567-a90c-904e74cd02ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div/div/div/div[3]/span</value>
+      <webElementGuid>8d7075b5-6542-4fe9-85fe-0591dafd5a1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[1]/following::span[2]</value>
+      <webElementGuid>30c3bea5-7234-44cd-9fc6-439883829079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::span[3]</value>
+      <webElementGuid>47b64eff-d952-41e1-a0a1-a746e28a9d52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[1]/preceding::span[2]</value>
+      <webElementGuid>9a833334-7b7d-4f33-93ea-d7612d30b753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='By categories'])[1]/preceding::span[3]</value>
+      <webElementGuid>c33f62d7-76da-4036-ac30-98f422731f5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div[3]/span</value>
+      <webElementGuid>6d8b3c91-1d9c-46a5-9f66-6032f3dcd93e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                                Women
+                            ' or . = '
+                                Women
+                            ')]</value>
+      <webElementGuid>df21ba68-f661-49a6-a607-0bd1ef18bcf4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

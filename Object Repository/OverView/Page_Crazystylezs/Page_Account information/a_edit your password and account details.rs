@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_edit your password and account details</name>
+   <tag></tag>
+   <elementGuidId>0470ccfe-e81f-4556-b4f2-ee141a39790b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div/div/div[2]/p/a[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(3)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5f147b85-444e-49f9-943a-6651c088e951</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/customer/edit-account</value>
+      <webElementGuid>0781f23d-d0a0-4f7a-8087-04fec9c34bfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>edit your password and account details.</value>
+      <webElementGuid>9af5d3c8-7b66-4e38-81e2-556628ce7014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/p[1]/a[3]</value>
+      <webElementGuid>44aded99-fa7b-4990-b0d3-7ae84fa55927</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div/div/div[2]/p/a[3]</value>
+      <webElementGuid>f92940a8-3787-44ac-8207-2ccbf8c34e91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'edit your password and account details.')]</value>
+      <webElementGuid>37bd21f7-7ea0-413e-a911-7ae1d998080b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='shipping and billing addresses'])[1]/following::a[1]</value>
+      <webElementGuid>9594afd2-7f49-456b-9d45-601c29294520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='recent orders'])[1]/following::a[2]</value>
+      <webElementGuid>1b83a771-9260-4b06-93a0-b77b7c7dbe8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe'])[1]/preceding::a[1]</value>
+      <webElementGuid>b85c1bf7-b725-4b14-a927-b515fdafaa33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Super Secure Payment'])[1]/preceding::a[1]</value>
+      <webElementGuid>b533ddef-8592-4889-8fff-d4cea6f157d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='edit your password and account details.']/parent::*</value>
+      <webElementGuid>39f01a01-7319-4230-a3d2-72d7a0ca7234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://crazystylezs.com/customer/edit-account')])[3]</value>
+      <webElementGuid>4f61ef3f-9942-45a9-825f-1edc23b96457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>93fd4fe8-6846-4e0e-9a83-2caac390ac1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://crazystylezs.com/customer/edit-account' and (text() = 'edit your password and account details.' or . = 'edit your password and account details.')]</value>
+      <webElementGuid>5c4f077e-3773-4e2c-a113-0c62ba065656</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

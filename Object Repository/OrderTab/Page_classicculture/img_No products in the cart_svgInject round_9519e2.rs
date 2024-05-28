@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_No products in the cart_svgInject round_9519e2</name>
+   <tag></tag>
+   <elementGuidId>a931ff75-d243-4d43-8cde-444b6ee8848c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Account']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.svgInject.rounded-circle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6daa839d-cd33-4349-ae91-681a5bbe9296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svgInject rounded-circle</value>
+      <webElementGuid>b5b0f18f-2a6c-4b5a-a870-abb31a06b7ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Account</value>
+      <webElementGuid>a3961783-8bec-40eb-9256-974145a06167</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://classicculture.in/themes/nest/imgs/theme/icons/icon-user.svg</value>
+      <webElementGuid>d0500afc-5e8b-42f7-91b2-b7fc5c065623</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header-area header-style-1 header-height-2 header-style-5&quot;]/div[@class=&quot;header-middle header-middle-ptb-1 d-none d-lg-block&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;header-wrap&quot;]/div[@class=&quot;header-right&quot;]/div[@class=&quot;header-action-right&quot;]/div[@class=&quot;header-action-2&quot;]/div[@class=&quot;header-action-icon-2&quot;]/a[1]/img[@class=&quot;svgInject rounded-circle&quot;]</value>
+      <webElementGuid>8c87fc4e-2e90-4bf5-85bd-d43af9c113a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Account']</value>
+      <webElementGuid>50b3b55e-e993-4b8b-8bc3-1fd59d9ffece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/img</value>
+      <webElementGuid>d059d9c5-3529-4e7a-985c-63437c636ab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Account' and @src = 'https://classicculture.in/themes/nest/imgs/theme/icons/icon-user.svg']</value>
+      <webElementGuid>7b7979ea-d79f-41f0-8cd5-8931560b3a74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Account' and @src = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPoAAAD6CAYAAACI7Fo9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAOTElEQVR4nO3de4xcZRnH8d+Z22673VJri4C0pVAotFhiYsAroHghamI0oRoh0Xg3MUZANIYQQgiaSoxG0RCvkChqiWJEIhqNRowKGsUgpdBSbsUC21Jod7c7O5fjH+u2u+3uzpmZ87znPef9fpL+R3aHc97vPucycyaK41gohsrWsdR3ZnPzUJT2z4R7EaHnh0XI/eIPQT4Quod8DLpb/AHwC6F7oAhhd0L42SL0DIQQdieE7xahO0DYnRG+LUI3Qty9I/r0EXqKiDt9RJ8OQk8Bgdsj+P4Qeo+IOztE3z1C7xKB+4PgkyP0hAjcXwTfGaF3QOD5QfDzI/Q5EHf+Ef1spaxfgG+IvBjYj7Mx0f+PhVFcTHdCJ/CAhBx8sKETeLhCDD7Ic3QiD1uI+z+oiR7iDsbCQpnuQYRO4Oik6MEX/tCdyJFE0ddJYSd60Xcc7BRxuhdyohM5+lHE9VO40Iu4k+Be0dZRYQ7di7Zj4I8iHMoXYqITOSwVYX3lPvQi7AT4L+/rLNeh533jI1/yvN5yeY6e5w2OYsjbeXvuJjqRwwd5W4e5Cj1vGxfFlqf1mJvQ87RREY68rMtchJ6XjYkw5WF9eh96HjYi4Ps69Tp03zceMJPP69Xb0H3eaMB8fF23Xobu68YCkvBx/XoXuo8bCeiWb+vYq9B92zhAP3xaz96E7tNGAdLiy7r2InRfNgZgwYf1nXnoPmwEwFrW6zzT0LP+nwdcynK9ZxY6kSNEWa37TEIncoQsi/Wf+Tk6AHvOQ2eaA+47cBo6kQNHuOzBWehEDhzLVRdOQidyYH4u+uBiHBAA89CZ5kBn1p2Yhk7kQHKWvZiFTuRA96y64RwdCIBJ6ExzoHcW/aQeOpED/Uu7Iw7dgQCkGjrTHEhPmj0x0YEApBY60xxIX1pdpRI6kQN20uiLQ3cgAH2HzjQH7PXbGRMdCEBfoTPNAXf66Y2JDgSg59CZ5oB7vXbXU+hEDmSnl/44dAcCUMn6BRTBJavK+vFrBrN+GQuabMWabEsTbWmiFWuiJT1Xj/XMxNS/kYlYO0fb2nYg1vYDbdXbWb9ipKnr0Dlsz6daOVKtLC2RJEWSpHXDc/+37TjWk+Ox7tvX1j0jLf1ppKUHD7DbfVLZOhY3Nw9Fif97yxeDfCpFkU4ZinTKUEmbV08tkefrsX61p6nbn2rpt8+01KL7XIniOPkeY5rPLQ+H7ml6YTLWT55s6hs7Gnr4IEsiS0mnOhfj0LVltUifWFfVAxcv0i9fP6ALVrKMfJd4DzHNcbRSFOntJ1X0+zdOBX/6ksSnjEhJ0i75U4xUvP2kiv79tkX68jk1VVlV3km0S5jmSKJWjnTF+qruffMirR9muruSpE/+9iJ1m5aV9Pe3LNKla8pZvxT8H6HDxOJKpB+cO6Ar11ezfilQgtA5bEevSlGkLefU9MVNxG6tU6dMdJj73Jk1XX4G783K0oKhM82Rli3n1PTul3PObmmhXpnocKIURbr1vAGdxr32TBA6nJm+QAf35g2dw3ZYeO2KMufrhubrlokO567ZWNNxXIh3itDh3NJqxP11x+b8mCqH7d2x+pjq3nqsVXeOp/KzaiVpsCQtr0U6YTDSGcMlbTyupPNXlrRpWUmlyO1FstFGrLV3jWv/pNNfG4yjP77KyZLnGik90qnRlsYk7ZuMtWM01j17j/zglQPSZWsq+uhpVZ0x7OYgb0k10vtXV/TNnU0nvy90HLpDI3Xpq480tfHXh/Th++p6vu7mgO7SNcwZVwgdh8WSbn28qY13j+sve1vmv+/cl5b5DLsjx4TO+TlG6tJFf5zQ3XvsD6svPpF3y1k4umMmOubUaEuX/KWu+/fbTvY3rCR0Fwgd8zrUki79W10Tho98PZ/QnSB0LOjhg7G+9kjD7OevGIi0ZjHn6dZmhc75OeZy4/aGxpt2S2Mdj50yMbNnJjo6erEh/eRJuwtzpw6xDK2xhZHIHU/bXZRbyy02c4SORP400lK7i2/16cayKqFbOxw65+dYyFhT2m70RYtLKoRuZbprJjoS2zVm813KS3gnrDlCR2L/PWQz0Qe5lW6O0JHYuNH1uEmbAwXMQOhIrNm2megT9p+fCR6hI7HFRhfNRg3fjIMpJYkr7kjm+AGb0J9z9Pn3UFW2jsVMdCR2qtEbW541usiHIwgdiVRL0oalNstl5yihWyN0JPLq5SUNlm0m+iMHuexujdCRyCWrbd7VMt6MmegOEDo6Gq5MPSXWwj/2t0Xm9ggdHV11ZlVLjT548ucRbqK7QOhY0FlLI33W8FtV7vovobtQ4h465jNckX72ukHVjC7CPTcR697nuRDnAhMdcxquSL+5YND0m1tuM3xqDWbjA4I4xvrhSHe83jZySfreLruHTmI2QsdhAyXpivVVXb2hanbPfNrde5p6yOhBFjgWoUOrFkf64CkVfXJdVccPunnayw3bmOYuEXogIk094GHFQKSTBiOdubSkc5aV9KaXlXX2cW4v1fx8d1N/3cdFOJcI3WMrBiI1Nw9l/TJSNd6MdeX9fCm6a1x1h1NX3j+pp8Y5N3eN0OHMz3c39Z1d3FLLAqHDiX/ub+kD99azfhnBInSY23mwrXfdU9ch3u2aGUKHqV2jbV30xwntmeC8PEuEDjP37Wvpdb8/pKd5VFTmCB0mbnuiqTf+YUIjnJZ7gfvoSNV4M9bl/5rU9x7j6rpPCB2p+d0zLX38H3U9wX1y7xA6+rZrtK2rH5jU7U9xWd1XhI6e7R5v68btDX17V1MN3rruNUJHT36xu6n3/rWuFkfpucBVd/TkwuPLfK95jhA6erKsFumqM+0eGol0lZqbh9w8aQCF8+nTq1o5kPWrQBJMdPRscSXS1RtqWb8MJEDo6MvHTq1o1WIOCn3H5RSP7a3HWnXneN8/Z/XiSA+8bZHJ89lr5UjXbqzqI3/nqTE+Y6J7rtHu/9+jo7FuedzuLamXralo/TBT3WeEHogbtjU0aXTTu1KKdP0rOFf3GaEH4ulDsb5r+EGT95xc0SuXsZx8xZ4JyJe2NTRh+Fa2GzZxX91XJUniXnoY9kzE+q7hwxnfekJFb1jB7PBNc/NQxF4JzJcesp7qnKv7iNAD8+xErJsftZvqr11R1jtOLJv9fPSG0AO05aFJjTftpjpX4P1D6AEaqUvf2mn3JYeblpX03lVMdZ8QeqBu3N7QaMNuql93dk1c4fXH4dC58h6WfZPSTYZTfd1wSR9ayzusszbdNRM9YF95uKEDhlP9mo1VVVlhXmA3BGz/pPT1HXZT/eTFJX1qHVPdB4QeuK8+3NALk3ZT/fNn1TRE65mbFTrn6eF5sWE71VcMRLriDN4am4WZPTPRYT7VL19f1Uu4tZ4pQocONqdit7K0GunzPEgyU4QOSdLXdjT0fN1uqn/q9KpOHOTMMCvHhM55epjGmlO326wMliNds5Gp7srRHTPRcdjXdzS013Cqf2htRWuZI5kgdBx2qDX11lgrlVKk687mqlwWCB2z3LSjoecm7Kb6+1aXtXEpU921OUPnPD1c9fbUx1itlKKIh1MYm6tfJjqOcfOjTT1zyO57kN95UkXnLWfpucTWxjHqbWmL4bm6xCOnXJs3dA7fw3bzo03tHreb6hceX9ZFL2POpG2+btnSmFOjLW15yHiq88gpZwgd8/r2rqaeHLOb6q9aXta7X84jp1xYMHQO38PWiqceD22JR06lZ6FemehY0Pcfa+pxw6m+4biSLlvDB9atdQydqR62Vjz1BY2Wrj27KoNvdA5Kp06Z6Ojolsea2jVqN9VPGSrpY6cy1S0ROjqKJV3/oO1Uv3pDVQOsRjOJNi2H7/jhE009ctBuqp+wqKTP8MipniTpk7+hSCSWdMM2u/fAS9KV66sa5gjeROLQmer40RMtbT9gN9WXD0S6ikdOdSVpl0x0dOX6B22n+qdPr2rlgOmvCFJXoTPV8dOnWvrPi3ZTfUk10hfO4q2xSXTTIxMdXbOe6uevZFmmLYrj7p8mUtk6ZvcIEgAddXt0zZ9OIACEDgSgp9C5KAdkp5f+ep7oxA6412t3HLoDAegrdKY64E4/vTHRgQD0HTpTHbDXb2dMdCAAqYTOVAfspNFXahOd2IH0pdUVh+5AAFINnakOpCfNnpjoQABSD52pDvQv7Y5MJjqxA72z6IdDdyAAZqEz1YHuWXVjOtGJHUjOshfzQ3diBzqz7oRzdCAATkJnqgPzc9GHs4lO7MCxXHXh9NCd2IEjXPbg/Byd2AH3HXAxDghAJqEz1RGyLNZ/ZhOd2BGirNZ9pofuxI6QZLneMz9HJ3aEIOt1nnnoUvYbAbDkw/r2InTJj40BpM2Xde1N6JI/GwVIg0/r2avQJb82DtAr39axd6FL/m0koBs+rl8vQ5f83FhAJ76uW29Dl/zdaMBcfF6vXocu+b3xgGm+r1PvQ5f834gIWx7WZy5Cl/KxMRGevKzL3IQu5WejIgx5Wo+5Cl3K18ZFceVtHUZxHGf9GnpW2TqW3xePXMpb4NNyN9FnyutGRz7leb3lOnQp3xsf+ZH3dZb70KX87wT4rQjrK9fn6HPhvB1pKULg0wox0Wcq0s5Bdoq2jgoXulS8nQS3irh+CnfofjQO5ZFUEQOfVsiJPlORdx7SU/R1UviJPhPTHUcreuDTggp9GsEjlMCnFf7QfS6h7WTMFuL+D3Kiz8R0D0eIgU8LPvRpBF9cIQc+jdCPQvDFQeBHBHmOvhAWRzGwH2djonfAhM8P4p4foSdE8P4i8M4IvUsE7w8CT47Qe0Tw2SHw7hF6CojeHnH3h9BTRPDpI/B0ELoRou8dcaeP0B0g+s6I2xahZ4DwCds1QvdACOETdrYI3UNFCJ+w/ULoOeLjHwCCzof/AYEcR6KzIWCxAAAAAElFTkSuQmCC']</value>
+      <webElementGuid>d2173947-f62a-46ee-88c8-98542b9e9205</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

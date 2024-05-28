@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>City text field should not accept only blank or space.</description>
+   <name>TC41</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>a6e6c211-5a33-4467-934b-b2225b2635bc</testCaseGuid>
+</TestCaseEntity>

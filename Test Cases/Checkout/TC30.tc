@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Phone number field should not accept null and dummy number.</description>
+   <name>TC30</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>f4b0ad7f-e6cf-4682-81be-ca17773efbf1</testCaseGuid>
+</TestCaseEntity>

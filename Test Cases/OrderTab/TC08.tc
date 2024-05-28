@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view &quot;Customer information&quot; displays Full Name, Phone, Address, City, State, Country</description>
+   <name>TC08</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>fa5eb9b3-f5df-41c7-895a-dcaffa7ec23b</testCaseGuid>
+</TestCaseEntity>

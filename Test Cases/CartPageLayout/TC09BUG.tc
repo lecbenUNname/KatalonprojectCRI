@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the product is &quot;out of stock,&quot; the &quot;Add&quot; button should be disabled for the particular product.</description>
+   <name>TC09BUG</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>be0c3d92-7718-42a8-ac11-db60608c6c71</testCaseGuid>
+</TestCaseEntity>

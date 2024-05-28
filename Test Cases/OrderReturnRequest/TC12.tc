@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to see the last breadcrumb of the order return request page contains order return request number's last number</description>
+   <name>TC12</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>361ab36d-bc5c-4c4f-b3e9-998696c1be57</testCaseGuid>
+</TestCaseEntity>

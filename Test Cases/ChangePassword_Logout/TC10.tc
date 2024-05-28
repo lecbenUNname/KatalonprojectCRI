@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should able to set the password with minimum 6 character.</description>
+   <name>TC10</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>251d997f-d7a8-4669-8a48-5f9d2ddc7fb3</testCaseGuid>
+</TestCaseEntity>

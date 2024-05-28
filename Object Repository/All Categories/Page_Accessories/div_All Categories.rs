@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_All Categories</name>
+   <tag></tag>
+   <elementGuidId>c0e61d97-4644-4084-b59d-994b73fd1ed0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.product-cat-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>94f50f92-fd73-4edf-9f2f-bd4a48d86537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-cat-label</value>
+      <webElementGuid>c18ef4ab-fe08-4ebf-b6fc-d7ae313ddfb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Categories</value>
+      <webElementGuid>b486ac98-1f42-47b4-9429-ad4c01e2f15e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header-area header-style-1 header-height-2&quot;]/div[@class=&quot;header-middle header-middle-ptb-1 d-none d-lg-block&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;header-wrap&quot;]/div[@class=&quot;header-right&quot;]/div[@class=&quot;search-style-2&quot;]/form[@class=&quot;form--quick-search&quot;]/div[@class=&quot;form-group--icon position-relative&quot;]/div[@class=&quot;product-cat-label&quot;]</value>
+      <webElementGuid>b2b8bfb3-bee3-444e-a722-c7e08f778586</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div</value>
+      <webElementGuid>ba193360-5753-460c-96a0-c7c3f1d3f441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'All Categories' or . = 'All Categories')]</value>
+      <webElementGuid>f587223a-5207-4305-b2d0-9fd95d8aee42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

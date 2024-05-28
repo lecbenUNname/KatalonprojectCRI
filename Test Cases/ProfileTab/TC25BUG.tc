@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The phone number field should not accept input containing special characters.</description>
+   <name>TC25BUG</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e458c5c-473c-4f6d-9841-b2256ac5c5b0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Women Pretty Pink Solid Top</name>
+   <tag></tag>
+   <elementGuidId>4208e926-1126-4d83-b3af-d0069e5e80c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[2]/div/div[2]/h2/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ca8d95a2-3e6c-4da9-b950-461eeb145574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/products/women-pretty-pink-solid-top-1</value>
+      <webElementGuid>936d1691-833b-4e6d-82c7-3ff7aa867e03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Women Pretty Pink Solid Top</value>
+      <webElementGuid>94113a3a-14b5-4ceb-81fd-83934b10cf9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;row product-grid&quot;]/div[@class=&quot;col-xxl-3 col-xl-3 col-lg-4 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]/div[@class=&quot;product-content-wrap&quot;]/h2[1]/a[1]</value>
+      <webElementGuid>9cb8b987-9999-47bc-a514-778e5e35d78e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[2]/div/div[2]/h2/a</value>
+      <webElementGuid>82e8d888-1bb5-41ae-b73d-1a0349b8921f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Women Pretty Pink Solid Top')]</value>
+      <webElementGuid>271c1244-b044-4d95-ba5a-b03b4119810c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tops and Tunics'])[4]/following::a[1]</value>
+      <webElementGuid>890232f7-a3ff-47c3-bb3e-5e74a7e1bb5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/following::a[6]</value>
+      <webElementGuid>e899ab43-d54f-4399-acee-a24acee7bcd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.599.00'])[1]/preceding::a[1]</value>
+      <webElementGuid>0c886696-8907-4ba9-a472-172d2432f569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.799.00'])[2]/preceding::a[1]</value>
+      <webElementGuid>b7655b70-e2d8-4973-9a6c-7eec7e43f873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Women Pretty Pink Solid Top']/parent::*</value>
+      <webElementGuid>8497d562-7ffa-40f6-bc95-05e82c1c94d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://crazystylezs.com/products/women-pretty-pink-solid-top-1')])[2]</value>
+      <webElementGuid>c1df3616-e41e-447a-b097-596d772140a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/h2/a</value>
+      <webElementGuid>5fd2d6fc-02af-4009-9ed1-c2a9c481b567</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://crazystylezs.com/products/women-pretty-pink-solid-top-1' and (text() = 'Women Pretty Pink Solid Top' or . = 'Women Pretty Pink Solid Top')]</value>
+      <webElementGuid>f4a5b5f5-8bc9-49dd-8a30-995f47bf62e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

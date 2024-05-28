@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Password field should accept both upper and lower case letters</description>
+   <name>TC28</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>db9c26f9-2919-4cc7-a8a1-85a0b7253708</testCaseGuid>
+</TestCaseEntity>

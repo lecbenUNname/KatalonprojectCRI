@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User able to view the &quot;Advanced Filter&quot; option available within the &quot;Filter&quot; menu</description>
+   <name>Filters_14</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>833bdaa4-db7a-4a81-888f-0e9924353639</testCaseGuid>
+</TestCaseEntity>

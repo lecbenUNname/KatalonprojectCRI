@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The product should be added to the wishlist page when the user clicks the wishlist button on the products and product page</description>
+   <name>TC09</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>ed1c783b-091f-47c4-bff1-745c56050d2b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Rs.672.00 for 1 item(s)</name>
+   <tag></tag>
+   <elementGuidId>f5914482-8a6b-417e-aea8-5be633023ced</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//td[contains(text(),'item')])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>10b7b981-fd2a-4b51-9290-cd5a40c11df7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rs.672.00 for 1 item(s)</value>
+      <webElementGuid>6ed0dec8-1e62-4b97-9a6d-c9d13940c6e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[1]/td[3]</value>
+      <webElementGuid>2e815f89-e95c-4e10-a5b4-045d294c575f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div/div/div[2]/div/table/tbody/tr/td[3]</value>
+      <webElementGuid>d6ea3903-27d0-4d67-a24e-92a3fd734327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#10000704'])[1]/following::td[2]</value>
+      <webElementGuid>39881c1c-2958-4de8-85e9-f7ba78d820a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::td[3]</value>
+      <webElementGuid>acb8a3a6-c6be-4fe9-8735-7d5f1757cbf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[1]/preceding::td[1]</value>
+      <webElementGuid>dfe6118a-a3b0-4b8a-ae79-5db1f81af64a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/preceding::td[2]</value>
+      <webElementGuid>0d6b5a01-746f-4903-8214-fd2b5363836d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rs.672.00 for 1 item(s)']/parent::*</value>
+      <webElementGuid>c0da215e-ddb2-413b-821f-fb3e7f8049d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>52b6399d-f8cb-4151-b092-88efa328fe25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Rs.672.00 for 1 item(s)' or . = 'Rs.672.00 for 1 item(s)')]</value>
+      <webElementGuid>3552966a-5e2e-4c8c-8ea3-3465e07d5610</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

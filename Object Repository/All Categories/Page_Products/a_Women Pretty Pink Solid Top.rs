@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Women Pretty Pink Solid Top</name>
+   <tag></tag>
+   <elementGuidId>629aa63f-64e1-4c1e-ba7c-e2aaa9aba7da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[2]/div/div[2]/h2/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>03cdc8dd-d5aa-4bed-add5-830832c64b15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/products/women-pretty-pink-solid-top-1</value>
+      <webElementGuid>d67aea25-cc1e-4f2d-9b85-9b1e0b1d98d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Women Pretty Pink Solid Top</value>
+      <webElementGuid>daed339f-2d85-4e18-9bbc-c55b7cb47d18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;row product-grid&quot;]/div[@class=&quot;col-xxl-3 col-xl-3 col-lg-4 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]/div[@class=&quot;product-content-wrap&quot;]/h2[1]/a[1]</value>
+      <webElementGuid>2dcb79b8-a9d5-42eb-a8e1-ea37fa32dd8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[2]/div/div[2]/h2/a</value>
+      <webElementGuid>678f4fe1-33ae-471b-b219-465562e16e52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Women Pretty Pink Solid Top')]</value>
+      <webElementGuid>6e6ee91c-1c6b-42c8-b8e3-d1711d33cc9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://crazystylezs.com/products/women-pretty-pink-solid-top-1')])[2]</value>
+      <webElementGuid>630a6f18-6db9-46a3-b36e-c0f70f5d1f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/h2/a</value>
+      <webElementGuid>4fc13174-8511-4bb5-aa92-5ce942504ea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://crazystylezs.com/products/women-pretty-pink-solid-top-1' and (text() = 'Women Pretty Pink Solid Top' or . = 'Women Pretty Pink Solid Top')]</value>
+      <webElementGuid>273c7c33-7588-4497-b113-1ad32d24d3d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

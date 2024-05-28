@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to view the full name of product in the right side of the product image.</description>
+   <name>TC23</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>600ead99-0fb0-42a4-8826-bb1865b5f3a6</testCaseGuid>
+</TestCaseEntity>

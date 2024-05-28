@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>While clicking on &quot;Browse all categories&quot; the accordian icon should move in an upward and downward direction smoothly.</description>
+   <name>TC04</name>
+   <tag>Regressin</tag>
+   <comment></comment>
+   <testCaseGuid>aa10274d-b65a-4465-bb4a-8e33f7de8740</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Address text field should accept numbers.</description>
+   <name>TC_56</name>
+   <tag>Regression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>f5e11053-263f-4375-81a0-41d524df5143</testCaseGuid>
+</TestCaseEntity>

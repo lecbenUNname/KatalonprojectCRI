@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the user increases the quantity of a product, the corresponding change should be reflected in the &quot;Subtotal,&quot; and a toast message should appear, stating &quot;Update cart successfully!&quot;</description>
+   <name>TC33</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>85657292-8183-484c-ae9a-2bddfeb64bc1</testCaseGuid>
+</TestCaseEntity>

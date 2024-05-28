@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be view the Order notes tab is active and the user can add their commands.</description>
+   <name>TC54</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>a143b1f0-3969-42c4-a5fa-1fb0f8dba59c</testCaseGuid>
+</TestCaseEntity>

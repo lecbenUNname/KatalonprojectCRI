@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_rajarajakannapparprasanthkumarvarman</name>
+   <tag></tag>
+   <elementGuidId>7a640fe7-4ffb-478f-96e6-8881fa162ad4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.profile-usertitle-name.pt-2 > strong</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div/div/div/div/div[2]/div/strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>c7a87d0e-fc94-40bc-a8f5-5765992e06e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>rajarajakannapparprasanthkumarvarman</value>
+      <webElementGuid>cac35521-e117-48d5-b50c-a1634988f152</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;page-content pt-150 pb-150&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-10 m-auto&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-8&quot;]/div[@class=&quot;profile-usertitle-name pt-2&quot;]/strong[1]</value>
+      <webElementGuid>725198a8-be08-44f4-ade0-c1fec08f7a55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div/div/div/div[2]/div/strong</value>
+      <webElementGuid>b2bedfea-4779-4707-aa07-4db8e0871aa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/strong</value>
+      <webElementGuid>1c1968dc-ada4-4e53-82fb-2b921c9e0cb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'rajarajakannapparprasanthkumarvarman' or . = 'rajarajakannapparprasanthkumarvarman')]</value>
+      <webElementGuid>af16d17d-0a05-4f9d-9b3d-178b48bf5738</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

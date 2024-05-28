@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>While clicking the &quot;Add&quot; button,  when the user adds the same product multiple times, a warning message should be displayed with the text 'This product already exists.'</description>
+   <name>TC06BUG</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>df6c3f09-b494-4f3b-9416-6feab58c193a</testCaseGuid>
+</TestCaseEntity>

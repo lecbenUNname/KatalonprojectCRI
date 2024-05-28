@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;breadcrumb and secondary header&quot; should highlight Blog when the user clicks the Blog hyperlink in the company</description>
+   <name>TC14</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c13e2dc8-e60c-4749-9b39-e85f432779c3</testCaseGuid>
+</TestCaseEntity>

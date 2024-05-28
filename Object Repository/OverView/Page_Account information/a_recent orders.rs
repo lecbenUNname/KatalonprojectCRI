@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_recent orders</name>
+   <tag></tag>
+   <elementGuidId>8f1a0877-d7bf-4a67-a7b3-e34ba33adfc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div/div/div[2]/p/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a88f10b2-28a8-4949-9067-2283e497f8ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/customer/orders</value>
+      <webElementGuid>a60c82e0-f6c2-4009-8315-865182b7c019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>recent orders</value>
+      <webElementGuid>1f31af91-6a5c-4a2c-ba85-c365c07f8fde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/p[1]/a[1]</value>
+      <webElementGuid>72eb95af-6c89-45b1-b773-b2afbc237445</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div/div/div[2]/p/a</value>
+      <webElementGuid>249550e6-902b-4dac-97c1-9f82507586ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'recent orders')]</value>
+      <webElementGuid>8bacfac5-c4d3-4361-9c3b-e8b40353c3d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hello Rick willson!'])[1]/following::a[1]</value>
+      <webElementGuid>3c0dbe22-2ffa-4784-bb37-c5f18f60f1a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::a[1]</value>
+      <webElementGuid>ea22b290-b1ab-489e-bbd6-72f83884a07b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='shipping and billing addresses'])[1]/preceding::a[1]</value>
+      <webElementGuid>177b09df-394b-4ea5-8da5-3347f4acf7af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='edit your password and account details.'])[1]/preceding::a[2]</value>
+      <webElementGuid>ad93fa60-3c05-4798-a225-1e83c3e120d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='recent orders']/parent::*</value>
+      <webElementGuid>748b45cf-9b3c-42b0-b9a4-10d6b18ff2f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://crazystylezs.com/customer/orders')])[2]</value>
+      <webElementGuid>2fd9c0a8-f312-4a05-961a-d80648efde42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>a5023739-d537-4ef9-8fb2-3a1e2269ab20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://crazystylezs.com/customer/orders' and (text() = 'recent orders' or . = 'recent orders')]</value>
+      <webElementGuid>b1232d74-284d-49c8-beae-1b8c92ccc476</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

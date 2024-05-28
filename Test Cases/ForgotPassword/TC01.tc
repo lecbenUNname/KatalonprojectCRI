@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open the browser and enter the URL</description>
+   <name>TC01</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e3a76f18-86a6-4811-9f6b-e795cbebcffd</testCaseGuid>
+</TestCaseEntity>

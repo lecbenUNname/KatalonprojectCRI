@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The home page banners, contents, and footer should come with the animation for the first time and with every home page refresh.</description>
+   <name>TC05</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>185dd9e4-7fdf-4d19-a092-889542e5047c</testCaseGuid>
+</TestCaseEntity>

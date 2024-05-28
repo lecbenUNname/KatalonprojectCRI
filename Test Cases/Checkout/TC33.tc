@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>State text Field should accept Alphebets</description>
+   <name>TC33</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>cd2a2e7f-bb76-4995-8d82-977cb9dd40aa</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_11</name>
+   <tag></tag>
+   <elementGuidId>f21e6976-4d7e-4264-b1c7-e8bd52d53120</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.mini-cart-icon > span.pro-count.blue</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7469b6df-9c04-4258-91f8-5c4bba1db51d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pro-count blue</value>
+      <webElementGuid>3fe5abd4-07d9-4424-a91d-61fc1e0392dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>11</value>
+      <webElementGuid>3a6e4de0-d6b9-4781-91e3-cdacff623998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header-area header-style-1 header-height-2 header-style-5&quot;]/div[@class=&quot;header-middle header-middle-ptb-1 d-none d-lg-block&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;header-wrap&quot;]/div[@class=&quot;header-right&quot;]/div[@class=&quot;header-action-right&quot;]/div[@class=&quot;header-action-2&quot;]/div[@class=&quot;header-action-icon-2&quot;]/a[@class=&quot;mini-cart-icon&quot;]/span[@class=&quot;pro-count blue&quot;]</value>
+      <webElementGuid>bd961736-c5a1-4686-87ce-0820731ceb96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/span</value>
+      <webElementGuid>d127fb1c-c93b-4f8a-b9ed-d858b96e2184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '11' or . = '11')]</value>
+      <webElementGuid>40a15302-a734-48ad-9bc1-244317d7356d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

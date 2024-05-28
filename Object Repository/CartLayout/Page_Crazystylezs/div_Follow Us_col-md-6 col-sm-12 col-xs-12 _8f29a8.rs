@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Follow Us_col-md-6 col-sm-12 col-xs-12 _8f29a8</name>
+   <tag></tag>
+   <elementGuidId>67b9eaf2-fe88-4160-9a5f-dbd7fb06a061</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-6.col-sm-12.col-xs-12.mb-md-0.mb-sm-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='quick-view-modal']/div/div/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a0142af5-043a-4412-bd78-406071d9c039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-6 col-sm-12 col-xs-12 mb-md-0 mb-sm-5</value>
+      <webElementGuid>37c13ddb-0de5-462b-b86d-87323fd01f3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;quick-view-modal&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;quick-view-content&quot;]/div[@class=&quot;product-detail accordion-detail&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-sm-12 col-xs-12 mb-md-0 mb-sm-5&quot;]</value>
+      <webElementGuid>eee04a63-816b-4dc1-8677-8e7217cdd5e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='quick-view-modal']/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>df8cd11f-13bb-40fc-ad8c-ce7a000d7991</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow Us'])[2]/following::div[11]</value>
+      <webElementGuid>16686d02-b8c6-4986-86ff-b8217b6a13e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call Us'])[1]/following::div[21]</value>
+      <webElementGuid>bc680e7c-5d96-4aac-8675-a0caee2a7fd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hot'])[9]/preceding::div[12]</value>
+      <webElementGuid>59c3d294-0201-4b95-bc06-0fd61aa16986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Women Yellow Bandhani Printed Maxi Dress'])[4]/preceding::div[13]</value>
+      <webElementGuid>4704bb25-a664-4459-adcb-aa57eec38406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>6b274f2f-65e4-48cc-a477-7df2564a0c32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

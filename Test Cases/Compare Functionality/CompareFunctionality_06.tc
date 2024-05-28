@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to see the Tooltip when hovering on the compare Icon in the product Quick view page</description>
+   <name>CompareFunctionality_06</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>07054f37-feaa-4d06-8577-3b94aa48d31a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>38263b34-e51d-4fa7-8dcf-503614b0faa4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>38263b34-e51d-4fa7-8dcf-503614b0faa4</id>
+      <masked>false</masked>
+      <name>ToolTipAddToCompare</name>
+   </variable>
+</TestCaseEntity>

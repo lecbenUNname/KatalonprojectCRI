@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User able to click the login and it should redirects to the Login page.</description>
+   <name>TC05</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>925ce33c-2eb7-4672-8d53-0bb8c031a71d</testCaseGuid>
+</TestCaseEntity>

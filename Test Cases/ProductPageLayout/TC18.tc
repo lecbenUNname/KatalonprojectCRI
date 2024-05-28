@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tool tip(Close(Esc)) should come for the close button in the carousel view when the mouse hover.</description>
+   <name>TC18</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>f04ba277-b81a-4b37-8b42-e26827f82c5b</testCaseGuid>
+</TestCaseEntity>

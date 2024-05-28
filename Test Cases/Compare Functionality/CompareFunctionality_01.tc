@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to add the products in the compare list when clicking on the compare icon in the product list.</description>
+   <name>CompareFunctionality_01</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>68a967c5-5932-4c94-bd4c-90330e941e67</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8b824121-66d0-47f2-9212-f0233e82b862</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8b824121-66d0-47f2-9212-f0233e82b862</id>
+      <masked>false</masked>
+      <name>AlertText</name>
+   </variable>
+</TestCaseEntity>

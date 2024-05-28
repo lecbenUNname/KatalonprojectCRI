@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If a product is added to the cart on the cart page, a product count message should be displayed (e.g., &quot;There is 1 product in your cart&quot;).</description>
+   <name>TC24</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>d60701cf-ccdd-42ad-89ff-151b063b6e89</testCaseGuid>
+</TestCaseEntity>

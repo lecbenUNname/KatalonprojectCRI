@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Click on actions &quot;View button&quot; redirect to the Return product information</description>
+   <name>TC07</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>bc3c7bc0-e0a0-465a-b1cf-044a49e27101</testCaseGuid>
+</TestCaseEntity>

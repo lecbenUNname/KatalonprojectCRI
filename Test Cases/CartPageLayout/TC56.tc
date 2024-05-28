@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When in the &quot;Quick view&quot; popup, the user clicks the &quot;Add to cart&quot; button for an &quot;In stock&quot; product multiple times, it should trigger the appearance of a warning message stating &quot;This product is already exists!&quot;</description>
+   <name>TC56</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>a3c15188-70ed-4a13-b0d6-08fd9ef4b51b</testCaseGuid>
+</TestCaseEntity>

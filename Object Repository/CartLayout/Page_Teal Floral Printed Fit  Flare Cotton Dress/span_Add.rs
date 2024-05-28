@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add</name>
+   <tag></tag>
+   <elementGuidId>b371eece-1371-4f39-949f-e65731e4207f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div//a[contains(@aria-label , 'Add To Cart')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>69e26b92-3c1c-477e-9e0f-6940f5d764bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-inline-block</value>
+      <webElementGuid>fe9837da-967b-4405-8f2c-86ccde37ef73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add</value>
+      <webElementGuid>90541678-2d53-4678-9cae-48fe729bcd68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;related-products&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]/div[@class=&quot;product-content-wrap&quot;]/div[@class=&quot;product-card-bottom&quot;]/div[@class=&quot;add-cart&quot;]/a[@class=&quot;action-btn add-to-cart-button add&quot;]/span[@class=&quot;d-inline-block&quot;]</value>
+      <webElementGuid>9dc4873d-1537-4da5-b8b4-2e8a09f29cbb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='related-products']/div[2]/div[4]/div/div[2]/div[2]/div[2]/a/span</value>
+      <webElementGuid>d1f81bed-0bd9-4b6d-b769-0e2d942d586e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.799.00'])[2]/following::span[1]</value>
+      <webElementGuid>95820ce1-fc3b-4c46-85c7-a072cca70bf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.599.00'])[1]/following::span[2]</value>
+      <webElementGuid>64c177c6-ea67-4f73-9969-72d904b38165</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Categories'])[1]/preceding::span[1]</value>
+      <webElementGuid>d360e0f5-dae5-4281-bd29-cd038b27b92e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Women'])[7]/preceding::span[1]</value>
+      <webElementGuid>590132c5-9491-486b-ba04-e560f1a9c93c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/a/span</value>
+      <webElementGuid>210869ae-2230-4d3f-948d-776be4093beb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add' or . = 'Add')]</value>
+      <webElementGuid>7bec9e4c-54ae-45c4-97f6-97b19d294c99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

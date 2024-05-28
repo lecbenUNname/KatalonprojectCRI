@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Forgot password</name>
+   <tag></tag>
+   <elementGuidId>01208950-3cbf-49b6-a2d2-9fdde891c29c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div/div/div[2]/div/div/form/div[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.text-muted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>866883a8-1aa9-47df-80ea-b63e44f8cba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/password/reset</value>
+      <webElementGuid>17a3cebf-d098-4f4c-9f2a-99ca64d71759</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-muted</value>
+      <webElementGuid>670c16bc-e7a6-4c6f-83de-5b43770c99a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Forgot password?</value>
+      <webElementGuid>a52774b6-6296-42ad-a1c1-824cfbf9ea34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;page-content pt-150 pb-150&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-8 col-lg-10 col-md-12 m-auto&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-8&quot;]/div[@class=&quot;login_wrap widget-taber-content background-white&quot;]/div[@class=&quot;padding_eight_all bg-white&quot;]/form[1]/div[@class=&quot;login_footer form-group mb-50&quot;]/a[@class=&quot;text-muted&quot;]</value>
+      <webElementGuid>bbb6f67f-0407-45cd-ad37-da2fcead13fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div/div[2]/div/div/form/div[3]/a</value>
+      <webElementGuid>23883ac6-046a-4b1c-b19f-b230632006de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Forgot password?')]</value>
+      <webElementGuid>d51036df-73fa-46cc-9c37-cc8cd8c7ff4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember me'])[1]/following::a[1]</value>
+      <webElementGuid>bcbf8849-644d-46f0-9b2a-f5a6315920ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create one'])[1]/following::a[1]</value>
+      <webElementGuid>95f3ec63-1bc4-4393-8c14-41ec3d7b483c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[5]/preceding::a[1]</value>
+      <webElementGuid>d855b842-eb6c-4e0e-9621-d57defc28929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe'])[1]/preceding::a[1]</value>
+      <webElementGuid>2a65d55c-17b6-4dfa-ae82-201e8a3e14b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Forgot password?']/parent::*</value>
+      <webElementGuid>d6b160d4-3d7a-4ac4-b1b7-caf2fa8b148a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://crazystylezs.com/password/reset')]</value>
+      <webElementGuid>ddc8671c-003b-4ed2-a9b8-063671a4cbda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/a</value>
+      <webElementGuid>3c346c94-902d-4364-8382-529d781e8f7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://crazystylezs.com/password/reset' and (text() = 'Forgot password?' or . = 'Forgot password?')]</value>
+      <webElementGuid>97836288-add1-440c-98f4-3c51e459fc49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

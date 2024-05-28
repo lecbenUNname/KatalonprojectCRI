@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>After the page refresh, the content remains at the exact same scroll position as before the refresh, confirming that the page successfully retains its position after reloading.</description>
+   <name>TC10</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>de9fe622-78bd-4c0b-96c6-1398765fd21b</testCaseGuid>
+</TestCaseEntity>

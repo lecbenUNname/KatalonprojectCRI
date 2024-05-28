@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_Remember me Forgot password Login</name>
+   <tag></tag>
+   <elementGuidId>86c7486b-3262-45ef-8303-6e42e3da74e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.padding_eight_all.bg-white > form</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@action='https://crazystylezs.com/login']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>d5938550-4488-4335-9ba7-fb9f3008d00d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>method</name>
+      <type>Main</type>
+      <value>POST</value>
+      <webElementGuid>2085bc8b-28d3-457c-99b2-2c7545936cb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>action</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/login</value>
+      <webElementGuid>6f7d2943-cc85-4a42-b56e-babc478d64a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>    Remember me Forgot password? Login </value>
+      <webElementGuid>f7750b9a-8e6c-4881-8dbc-638942a75571</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;page-content pt-150 pb-150&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-8 col-lg-10 col-md-12 m-auto&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-8&quot;]/div[@class=&quot;login_wrap widget-taber-content background-white&quot;]/div[@class=&quot;padding_eight_all bg-white&quot;]/form[1]</value>
+      <webElementGuid>7019bb49-ca30-421d-9268-35530daca080</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//form[@action='https://crazystylezs.com/login']</value>
+      <webElementGuid>e7633d4a-806a-4754-b164-c2d6041f19ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div/div[2]/div/div/form</value>
+      <webElementGuid>bf55d4e5-04c0-46b7-a06f-7d52da1a3c39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create one'])[1]/following::form[1]</value>
+      <webElementGuid>5bebd66c-b256-4096-ab9e-df9854d77282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[4]/following::form[1]</value>
+      <webElementGuid>428a87c5-40cf-446e-9549-e3aa90fe5d6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/form</value>
+      <webElementGuid>f2fd5b06-7ed3-43b8-bf3a-4d18362d73bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[(text() = '    Remember me Forgot password? Login ' or . = '    Remember me Forgot password? Login ')]</value>
+      <webElementGuid>71413fe8-e763-493f-999f-264c7309053d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

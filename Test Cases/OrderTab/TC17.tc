@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should not be able to view the &quot;Return Button&quot; or &quot;cancel button&quot; after cancellation or return of product.</description>
+   <name>TC17</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>39cb5817-a691-407b-9db0-2a49b6fd9a00</testCaseGuid>
+</TestCaseEntity>

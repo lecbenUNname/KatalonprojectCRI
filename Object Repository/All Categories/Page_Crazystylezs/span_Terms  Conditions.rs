@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Terms  Conditions</name>
+   <tag></tag>
+   <elementGuidId>6f28a84b-c055-473d-a702-001421126d4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/ul/ul/li/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c91966c6-a5f8-4215-89cb-df8b9d2a0c10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terms &amp; Conditions</value>
+      <webElementGuid>2a485e95-3339-4155-884a-c5585346595b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[@class=&quot;main&quot;]/section[@class=&quot;section-padding footer-mid&quot;]/div[@class=&quot;container pt-15 pb-20&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;footer-link-widget col wow animate__ animate__fadeInUp animated&quot;]/ul[@class=&quot;footer-list mb-sm-5 mb-md-0&quot;]/ul[@class=&quot;footer-list wow fadeIn animated mb-sm-5 mb-md-0 animated&quot;]/li[1]/a[1]/span[1]</value>
+      <webElementGuid>70def7fa-dbe9-455e-b200-3d05fbdcd666</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/ul/li/a/span</value>
+      <webElementGuid>abd3e2f5-aae1-493e-be07-fecbdeb4d478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Terms &amp; Conditions' or . = 'Terms &amp; Conditions')]</value>
+      <webElementGuid>edc14be4-fae9-4cf1-a587-4f4b1dd76fba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

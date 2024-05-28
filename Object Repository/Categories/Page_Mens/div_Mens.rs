@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mens</name>
+   <tag></tag>
+   <elementGuidId>71f7ab0a-a38a-41a7-ac6e-01fa3b311247</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.breadcrumb-item.d-inline-block.active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5719a523-1ece-448b-a363-5ff2dd2c8026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemprop</name>
+      <type>Main</type>
+      <value>itemListElement</value>
+      <webElementGuid>bb71be3e-6e2d-4c18-8c27-8f8ebea7eb53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemscope</name>
+      <type>Main</type>
+      <value>itemscope</value>
+      <webElementGuid>83c62d96-782a-4734-8908-9df372a5b153</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemtype</name>
+      <type>Main</type>
+      <value>http://schema.org/ListItem</value>
+      <webElementGuid>baeb2b1d-3aed-4a68-a9ac-f28d8a1dd661</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>breadcrumb-item d-inline-block active</value>
+      <webElementGuid>6c1d27a4-552f-4605-99b2-4922bb60381a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Men's
+                              </value>
+      <webElementGuid>6a8db1a8-8e6d-476f-a4db-c46c84b3b850</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;page-header breadcrumb-wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;breadcrumb&quot;]/div[@class=&quot;breadcrumb-item d-inline-block active&quot;]</value>
+      <webElementGuid>e1612a8a-8f5a-4dc1-99d9-b7f42e7f69a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div/div/div/div[3]</value>
+      <webElementGuid>7a591b6f-143a-42cb-ad51-c0ab58a8d8ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div[3]</value>
+      <webElementGuid>71cd3d34-c1f9-43f2-9b66-8bea19aa36f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;
+                                Men&quot; , &quot;'&quot; , &quot;s
+                              &quot;) or . = concat(&quot;
+                                Men&quot; , &quot;'&quot; , &quot;s
+                              &quot;))]</value>
+      <webElementGuid>bd4377eb-9c3f-47eb-8682-87de725ea515</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to add the product in the cart when clicking on the &quot;add cart&quot; button in the compare list</description>
+   <name>CompareFunctionality_17</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>a4797c3a-a044-4b2c-b018-e0d563ec8ad0</testCaseGuid>
+</TestCaseEntity>

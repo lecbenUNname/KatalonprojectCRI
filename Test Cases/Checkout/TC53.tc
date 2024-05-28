@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>phone number should not accept without selecting the country code</description>
+   <name>TC53</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c98c0733-ce07-4cad-98c3-e65a59085933</testCaseGuid>
+</TestCaseEntity>

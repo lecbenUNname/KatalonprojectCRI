@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user selects the &quot;Show&quot; option, the &quot;default&quot; setting displays the previous size number.</description>
+   <name>TC03</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9be49f2f-e39b-4010-8083-00647d3de539</testCaseGuid>
+</TestCaseEntity>

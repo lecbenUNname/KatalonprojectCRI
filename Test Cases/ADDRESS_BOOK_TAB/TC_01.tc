@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User not able to open the Address book when the user does not login.</description>
+   <name>TC_01</name>
+   <tag>Regression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>dff041bf-f01e-4a44-b2c2-9a544debc062</testCaseGuid>
+</TestCaseEntity>

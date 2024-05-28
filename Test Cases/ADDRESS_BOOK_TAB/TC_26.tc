@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Phone number field should not accept below 8 digits</description>
+   <name>TC_26</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>1b53b278-a8d2-448f-bcde-ef8f15fff3f8</testCaseGuid>
+</TestCaseEntity>

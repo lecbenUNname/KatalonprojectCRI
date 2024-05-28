@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Users should be able to view the confirmation popup when clicking on the Remove hyperlink and the confirmation popup should have &quot;Do you really want to delete this address?&quot; text with the Cancel and Delete buttons.</description>
+   <name>TC_61</name>
+   <tag>Regression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>d597719c-1acd-45cf-bbe7-bcfc50aa97cf</testCaseGuid>
+</TestCaseEntity>

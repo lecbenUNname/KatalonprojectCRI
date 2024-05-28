@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_In stock_fi-rs-trash</name>
+   <tag></tag>
+   <elementGuidId>0c6f6122-953e-415a-9a98-0000e4b83549</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@data-title='Remove']//a[contains(@class,'remove')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fi-rs-trash</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5b6cc8c5-028f-4320-9b88-4a3f589a1364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi-rs-trash</value>
+      <webElementGuid>d34ad0bc-1598-4f86-b925-e6f5b019a9d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;mb-30 mt-50&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;table-responsive shopping-summery&quot;]/table[@class=&quot;table table-wishlist&quot;]/tbody[1]/tr[@class=&quot;pt-30&quot;]/td[@class=&quot;action&quot;]/a[@class=&quot;js-remove-from-wishlist-button&quot;]/i[@class=&quot;fi-rs-trash&quot;]</value>
+      <webElementGuid>80917b14-e9a2-40f7-be0f-ad4f6ba4e99f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div[2]/table/tbody/tr/td[6]/a/i</value>
+      <webElementGuid>09af7fd2-144c-4c25-8697-856c7bcef706</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/a/i</value>
+      <webElementGuid>ebff72fd-e75d-4ba5-8248-b04a6069eb0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

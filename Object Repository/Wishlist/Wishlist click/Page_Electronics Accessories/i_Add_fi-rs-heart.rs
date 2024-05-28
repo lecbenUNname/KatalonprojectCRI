@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Add_fi-rs-heart</name>
+   <tag></tag>
+   <elementGuidId>ca2f60c1-f46d-4779-8ddb-9c9511b5c822</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[12]/div/div/div[2]/a[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.action-btn.hover-up.wis_added.js-remove-from-wishlist-button > i.fi-rs-heart</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>99af23e3-bd4e-4958-851e-0164a78ad9fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi-rs-heart</value>
+      <webElementGuid>94554adf-51db-46fa-85ff-e8704c2d2353</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;row product-grid&quot;]/div[@class=&quot;col-xxl-3 col-xl-3 col-lg-4 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]/div[@class=&quot;product-img-action-wrap&quot;]/div[@class=&quot;product-action-1&quot;]/a[@class=&quot;action-btn hover-up wis_added js-remove-from-wishlist-button&quot;]/i[@class=&quot;fi-rs-heart&quot;]</value>
+      <webElementGuid>377cff2e-bd26-46ad-a80c-a0d991fd4bc1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[12]/div/div/div[2]/a[2]/i</value>
+      <webElementGuid>cf29ea85-685b-498b-9970-db90f0b80e7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/div/div[2]/a[2]/i</value>
+      <webElementGuid>ef5b5660-5853-49a3-8ee9-c17e08bbd8e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

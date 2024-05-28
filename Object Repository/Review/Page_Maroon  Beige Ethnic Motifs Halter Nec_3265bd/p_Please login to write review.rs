@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Please login to write review</name>
+   <tag></tag>
+   <elementGuidId>864a2fb9-750e-4490-b0b1-0816fd8a8eaf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@class='text-danger']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-danger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b9f8f1ab-b381-439f-af81-53a54457c11b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-danger</value>
+      <webElementGuid>0483159f-e924-445c-9e7d-cae9b87fd4b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please login to write review!</value>
+      <webElementGuid>7fc0e299-60f8-46cf-af4b-7e14440a5b9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Reviews&quot;)/div[@class=&quot;comment-form&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-8 col-md-12&quot;]/form[@class=&quot;form-contact comment_form form-review-product&quot;]/p[@class=&quot;text-danger&quot;]</value>
+      <webElementGuid>aa076e78-3c35-4e02-bf63-29eaf70f71e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Reviews']/div/div[2]/div/form/p</value>
+      <webElementGuid>d8f5c4d0-f9fe-41df-acc0-8d1f17b01b63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add a review'])[1]/following::p[1]</value>
+      <webElementGuid>ccc93542-3850-4428-a94c-6e08d519022b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Machine Wash'])[1]/following::p[2]</value>
+      <webElementGuid>f15054e4-08a4-400b-91b3-ae727b209a45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality'])[1]/preceding::p[1]</value>
+      <webElementGuid>e721b84a-5287-441c-9054-a82c4c8a14c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please']/parent::*</value>
+      <webElementGuid>8a366a1f-b118-4471-bbd5-5e21b13fc940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/p</value>
+      <webElementGuid>566b2da8-dde2-474a-b8c7-1f5c65a299e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Please login to write review!' or . = 'Please login to write review!')]</value>
+      <webElementGuid>21d2a8d5-8e8c-431d-a81f-0f0537045e69</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

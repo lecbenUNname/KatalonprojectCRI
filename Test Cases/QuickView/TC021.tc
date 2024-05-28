@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The product label should be shown and highlighted with the selected colour on the right side of the product image.</description>
+   <name>TC021</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>5bbf1013-9b35-4350-b777-9522317561fa</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>users can add the product to the wishlist when clicking the wishlist button.</description>
+   <name>TC48</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>06c5138d-d6db-47c8-a54e-f66f06874b27</testCaseGuid>
+</TestCaseEntity>

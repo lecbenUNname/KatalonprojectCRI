@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;address&quot; field should Accept Alphabets, special characters, and numbers when the user enters the Address field</description>
+   <name>TC32</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e9b01cac-516c-4b54-8084-32a37306d29f</testCaseGuid>
+</TestCaseEntity>

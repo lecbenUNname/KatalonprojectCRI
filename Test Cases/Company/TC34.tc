@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;subject&quot; field should accept the alphabet, special characters, numbers</description>
+   <name>TC34</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>d60b7d56-2b38-4ba7-adbb-2e6f3496f5ff</testCaseGuid>
+</TestCaseEntity>

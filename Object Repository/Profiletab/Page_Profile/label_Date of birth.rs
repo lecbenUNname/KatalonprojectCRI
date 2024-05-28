@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Date of birth</name>
+   <tag></tag>
+   <elementGuidId>f6bbde90-faaa-451b-9a21-7ecd885263e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[(text() = 'Date of birth:' or . = 'Date of birth:')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a00e21b3-745b-4233-a018-8a435c631751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>date_of_birth</value>
+      <webElementGuid>8564c076-e9cf-4fc0-8d72-d3077e9d38ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Date of birth:</value>
+      <webElementGuid>0d4fe616-db92-4f99-a761-e4321d22286c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;form-group col-md-12&quot;]/label[1]</value>
+      <webElementGuid>c6b3fafa-3d2b-4439-bda6-073c04cd1e4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div/div/div[2]/form/div/div[2]/label</value>
+      <webElementGuid>ddf4fd72-0dfa-4a14-b5bb-6a79b8f08c6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label</value>
+      <webElementGuid>ff16dae1-3f6f-47e0-8dfc-72e9d30488ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Date of birth:' or . = 'Date of birth:')]</value>
+      <webElementGuid>1c180205-2ef4-4a28-a7d9-55c408c28d90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

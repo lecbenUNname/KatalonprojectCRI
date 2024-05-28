@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;Register&quot; button should clicked when clicking on the &quot;ENTER&quot; key on the keyboard.</description>
+   <name>TC43.1</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>93fe9087-00ed-46d2-82ca-f48c4411bcd1</testCaseGuid>
+</TestCaseEntity>

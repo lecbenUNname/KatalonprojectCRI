@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>password should visible and hided when clicking on eye icon in the password text field.</description>
+   <name>TC32</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>1a7dd8b9-d56d-4ac2-9a69-3fedd6d3bab1</testCaseGuid>
+</TestCaseEntity>

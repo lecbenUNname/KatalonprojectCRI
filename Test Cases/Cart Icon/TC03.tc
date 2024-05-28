@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view the list of products that have been added to the cart within the dropdown menu by hovering the mouse over the cart icon</description>
+   <name>TC03</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>47d2f391-263b-41e9-8ff8-5bf21c785c0f</testCaseGuid>
+</TestCaseEntity>

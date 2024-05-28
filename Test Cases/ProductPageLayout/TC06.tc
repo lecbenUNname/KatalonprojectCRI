@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should able to see all the images of the product in a sequential order under the main main product image .</description>
+   <name>TC06</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>6f080f09-8e6b-4668-9509-4446a705d800</testCaseGuid>
+</TestCaseEntity>

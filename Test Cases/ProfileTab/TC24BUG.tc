@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The phone number field should only accept numerical input and should prevent the entry of alphabetic characters.</description>
+   <name>TC24BUG</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f312c771-1eb3-4b1f-8782-cb5e075e8866</testCaseGuid>
+</TestCaseEntity>

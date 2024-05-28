@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The page navigation should work properly when the user clicks the browser back arrow button</description>
+   <name>TC21</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>f8e7da9a-d3be-4b57-8630-75107ca3c43a</testCaseGuid>
+</TestCaseEntity>

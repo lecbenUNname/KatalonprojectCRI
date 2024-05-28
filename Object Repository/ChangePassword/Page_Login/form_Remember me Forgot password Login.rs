@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_Remember me Forgot password Login</name>
+   <tag></tag>
+   <elementGuidId>360e875a-7f0c-44f7-879f-24135f3b202b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.padding_eight_all.bg-white > form</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@action='https://classicculture.in/login']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>d43028c9-a6de-41f4-9179-04eacc931d34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>method</name>
+      <type>Main</type>
+      <value>POST</value>
+      <webElementGuid>a75cc0c1-f6d4-4c46-854c-21ffbb743a8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>action</name>
+      <type>Main</type>
+      <value>https://classicculture.in/login</value>
+      <webElementGuid>7da2b5fd-e94d-41eb-9358-f7bf85fbe279</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>    Remember me Forgot password? Login </value>
+      <webElementGuid>786fed24-5e58-4dd3-beb9-4578158f1d84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;page-content pt-150 pb-150&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-8 col-lg-10 col-md-12 m-auto&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-8&quot;]/div[@class=&quot;login_wrap widget-taber-content background-white&quot;]/div[@class=&quot;padding_eight_all bg-white&quot;]/form[1]</value>
+      <webElementGuid>cacada04-e6e8-44a9-adb6-fd190a83c62d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//form[@action='https://classicculture.in/login']</value>
+      <webElementGuid>7e316027-b595-49bd-b012-e8a4906cd1a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div/div[2]/div/div/form</value>
+      <webElementGuid>5984127d-93a8-431f-b8eb-6468849952a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create one'])[1]/following::form[1]</value>
+      <webElementGuid>f7dc662c-7602-4b21-b092-69c5912ffacc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[4]/following::form[1]</value>
+      <webElementGuid>323d6646-26d3-4b03-9f34-aa8dbecbb31a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/form</value>
+      <webElementGuid>c8f8f796-d433-47a9-b6f2-ca0fc852ae9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[(text() = '    Remember me Forgot password? Login ' or . = '    Remember me Forgot password? Login ')]</value>
+      <webElementGuid>b118cf34-353e-4d2b-b66d-bea8ceb7d641</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

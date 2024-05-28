@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Customer reviews  3.00 out of 5 5 star _295b51</name>
+   <tag></tag>
+   <elementGuidId>d41e5e73-55e2-4c95-8196-abf040364a6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-lg-4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Reviews']/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>06a6effb-34b0-4f47-87e1-356cf0ee35ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-lg-4</value>
+      <webElementGuid>245d1abc-3e34-484c-8b55-20b7f01521e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Customer reviews  3.00 out of 5 5 star 0% 4 star 0% 3 star 100% 2 star 0% 1 star 0%</value>
+      <webElementGuid>484f266c-1f8c-4178-a368-747af55cecb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Reviews&quot;)/div[@class=&quot;comments-area&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4&quot;]</value>
+      <webElementGuid>1dedefdb-dd31-48a7-be8e-9825c9db5a85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Reviews']/div/div/div[2]</value>
+      <webElementGuid>faf76826-fd70-4ac3-9f0d-ad7b7eb0c77d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rick willson'])[1]/following::div[7]</value>
+      <webElementGuid>6b1bbc0a-f5d8-4965-90dd-2f3efc2d2f75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer questions &amp; answers'])[1]/following::div[11]</value>
+      <webElementGuid>b01d8b33-93c9-4cdd-b158-939d58cb7156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add a review'])[1]/preceding::div[14]</value>
+      <webElementGuid>aee50fd9-8135-4560-96a7-e7d76707afa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>db03be0f-f350-45a7-bb9e-8185e6bed354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Customer reviews  3.00 out of 5 5 star 0% 4 star 0% 3 star 100% 2 star 0% 1 star 0%' or . = 'Customer reviews  3.00 out of 5 5 star 0% 4 star 0% 3 star 100% 2 star 0% 1 star 0%')]</value>
+      <webElementGuid>77ebda28-ce05-409b-86f0-0dbb4ce485a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

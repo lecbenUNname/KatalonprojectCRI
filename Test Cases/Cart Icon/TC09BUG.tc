@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The cart icon dropdown should display the size and colour of the product.</description>
+   <name>TC09BUG</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>64c9c462-1ae6-4081-b54d-44bd1b0ef635</testCaseGuid>
+</TestCaseEntity>

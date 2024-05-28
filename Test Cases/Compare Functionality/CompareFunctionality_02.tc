@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to add the products in the compare list when clicking on the compare icon in the quick view</description>
+   <name>CompareFunctionality_02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55aaeae0-6b78-4ce8-84df-215a6b0641e5</testCaseGuid>
+</TestCaseEntity>

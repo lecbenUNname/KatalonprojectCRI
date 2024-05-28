@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login page should navigates when clicking on the &quot;Have an account already?, Login&quot; link which is placed in the Register page.</description>
+   <name>TC45</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>9d2f9fb4-9642-47c1-aaed-fd09f3f7ad7e</testCaseGuid>
+</TestCaseEntity>

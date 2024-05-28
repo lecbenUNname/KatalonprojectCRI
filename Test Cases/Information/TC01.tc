@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can navigate to the crazystylezs web application</description>
+   <name>TC01</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>3a76dda0-7f06-44ba-910a-6df17590ed32</testCaseGuid>
+</TestCaseEntity>

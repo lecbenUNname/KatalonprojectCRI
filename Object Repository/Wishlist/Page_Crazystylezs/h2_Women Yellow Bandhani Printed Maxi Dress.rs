@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Women Yellow Bandhani Printed Maxi Dress</name>
+   <tag></tag>
+   <elementGuidId>6d51e2a6-b430-40f0-9900-cd6d45649818</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div/section[4]/div/div[2]/div/div/div/div/div[2]/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>95a851c5-3e41-41a5-b419-8211c5ce3abc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Women Yellow Bandhani Printed Maxi Dress</value>
+      <webElementGuid>0112472f-9a8a-47c5-be8a-6eab4f6cfaf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;ck-content&quot;]/section[@class=&quot;bg-grey-9 section-padding-60&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;tab-content wow fadeIn animated animated&quot;]/div[@class=&quot;tab-pane fade show active&quot;]/div[@class=&quot;row product-grid-4&quot;]/div[@class=&quot;col-lg-3 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]/div[@class=&quot;product-content-wrap&quot;]/h2[1]</value>
+      <webElementGuid>7d0ee281-150f-4be9-8d31-8aa2116fa1a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div/section[4]/div/div[2]/div/div/div/div/div[2]/h2</value>
+      <webElementGuid>f1106fd3-51a7-4aae-abac-659f2c52f752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maxi Dress'])[4]/following::h2[1]</value>
+      <webElementGuid>c68f3dfc-decc-49bd-8f69-eb3b50d69069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hot'])[1]/following::h2[1]</value>
+      <webElementGuid>b334e193-c190-4aca-b1d8-4f8ba4876890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.2,299.00'])[1]/preceding::h2[1]</value>
+      <webElementGuid>059d4a85-37ad-47aa-8220-e5d27adc0a51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>bdc67b0d-791f-4ed6-a7b1-ecfe91a07d41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Women Yellow Bandhani Printed Maxi Dress' or . = 'Women Yellow Bandhani Printed Maxi Dress')]</value>
+      <webElementGuid>30eae456-748b-4663-941a-dd7f6475c0a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

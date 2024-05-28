@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The search bar may handle invalid characters appropriately (e.g., ignore special characters) or display a message indicating an invalid query.</description>
+   <name>TC06</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b80058ce-466d-4a46-bff1-6f40fec2e7de</testCaseGuid>
+</TestCaseEntity>

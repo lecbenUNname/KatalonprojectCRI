@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Green Tie and Dye Dyed Maternity Kaftan _7ad4b6</name>
+   <tag></tag>
+   <elementGuidId>37b3d574-dc2c-4067-8c42-bfb619b59231</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/form/div/div/div/table/tbody/tr[2]/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>f310a5d4-636d-4f9d-852e-6ee41919b4e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-des product-name</value>
+      <webElementGuid>6701395a-1e00-4d1c-bc0a-8de0b32918a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Green Tie and Dye Dyed Maternity Kaftan Midi Dress   </value>
+      <webElementGuid>2e9e71f3-47db-4dc9-850e-e8633b35cf11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;mb-80 mt-50 section--shopping-cart&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-8&quot;]/div[@class=&quot;table-responsive shopping-summery&quot;]/table[@class=&quot;table table-wishlist table--cart&quot;]/tbody[1]/tr[@class=&quot;pt-30&quot;]/td[@class=&quot;product-des product-name&quot;]</value>
+      <webElementGuid>65c72466-dcc7-4201-9da4-3719253a13d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/form/div/div/div/table/tbody/tr[2]/td[2]</value>
+      <webElementGuid>c179c5cb-1889-4089-b058-95bbcc077d7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]</value>
+      <webElementGuid>d56af630-dc2d-4797-88bb-07a24c018cd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Green Tie and Dye Dyed Maternity Kaftan Midi Dress   ' or . = 'Green Tie and Dye Dyed Maternity Kaftan Midi Dress   ')]</value>
+      <webElementGuid>1066b457-c926-4c4f-97a6-b05328617ae5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

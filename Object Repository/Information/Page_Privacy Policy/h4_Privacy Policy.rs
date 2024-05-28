@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Privacy Policy</name>
+   <tag></tag>
+   <elementGuidId>78848e8b-f546-41e3-a150-b9110d27934d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/section/div/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>c21d2d18-7cce-46cb-a8e6-70a5274885f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Privacy Policy   </value>
+      <webElementGuid>edefc136-aa8e-46bf-98d9-4cd5008f2ade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container&quot;]/section[@class=&quot;mt-60 mb-60&quot;]/div[@class=&quot;ck-content&quot;]/h4[1]</value>
+      <webElementGuid>250aa348-9119-4b64-a9e2-d6edfab60fa8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/section/div/h4</value>
+      <webElementGuid>c20d2dc8-d4e2-46d2-926d-09d082ec4d1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>d24f7b9c-6a7d-448e-8b47-877be229bfec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Privacy Policy   ' or . = 'Privacy Policy   ')]</value>
+      <webElementGuid>8307e7f6-7137-4f4c-9341-52aafbcef149</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

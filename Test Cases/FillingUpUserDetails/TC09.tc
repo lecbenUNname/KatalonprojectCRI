@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Name text field should accept space in between first name and last name</description>
+   <name>TC09</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e609c4d3-6b5f-429f-a4ae-bac74ca3dc5c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;No item in Wishlist&quot; message should be displayed when the wishlist page is empty.</description>
+   <name>TC07</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>d252a08e-24f2-4c72-b518-38ce354571a3</testCaseGuid>
+</TestCaseEntity>

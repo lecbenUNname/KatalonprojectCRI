@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When a user adds categories in the admin panel, those same categories should be accurately reflected in the &quot;Browse all categories&quot; dropdown.</description>
+   <name>TC13</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>5199e2c3-7e13-407b-8279-a3f836faba7a</testCaseGuid>
+</TestCaseEntity>

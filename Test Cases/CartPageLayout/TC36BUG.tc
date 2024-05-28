@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When a user hovers their mouse over the product name on the cart page, it should be highlighted.</description>
+   <name>TC36BUG</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c4d74c6f-62fb-44e3-8ced-b727486b1c16</testCaseGuid>
+</TestCaseEntity>

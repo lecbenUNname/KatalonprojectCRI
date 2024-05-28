@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Login Dont have an account Create one  _dc4618</name>
+   <tag></tag>
+   <elementGuidId>a108b7f9-9940-4d63-a7d3-74817512126e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.page-content.pt-150.pb-150 > div.container > div.row</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fe957a71-832f-4fe2-b786-d59089ea9052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>58516169-daef-42b1-9e53-beaa9b017f8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Login Don't have an account? Create one     Remember me Forgot password? Login </value>
+      <webElementGuid>2be0f4e9-b269-44e7-af6d-32167db11a12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;page-content pt-150 pb-150&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]</value>
+      <webElementGuid>667cded4-798a-4865-9986-a15cd5801684</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div</value>
+      <webElementGuid>1fdf4f0b-549f-494a-9c62-b85ed48cbc98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[3]/following::div[3]</value>
+      <webElementGuid>6a9d2411-b81c-4544-ab1a-db6f1acf7f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::div[4]</value>
+      <webElementGuid>b639cefe-d997-45df-b8bd-34d779253124</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div[2]/div/div</value>
+      <webElementGuid>fbc2eb36-aa06-49da-8c64-19ecf92bfd19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot; Login Don&quot; , &quot;'&quot; , &quot;t have an account? Create one     Remember me Forgot password? Login &quot;) or . = concat(&quot; Login Don&quot; , &quot;'&quot; , &quot;t have an account? Create one     Remember me Forgot password? Login &quot;))]</value>
+      <webElementGuid>cc8ed59b-443d-4e4f-8977-645ea839d8d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

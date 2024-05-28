@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_New Home and Kitchen Condiment Squeeze _74d33f</name>
+   <tag></tag>
+   <elementGuidId>f8f229d9-2471-4861-8e65-1cf459941894</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[10]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2f85a7b4-5a91-4ae3-8fa8-c14a98c56a75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-cart-wrap mb-30</value>
+      <webElementGuid>67630493-494c-41b7-8cd5-5ea6b51e6368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>     New Home and Kitchen Condiment Squeeze Bottle Wide Mouth, Ondiomn 2 Pack 180ml Clear Squeeze Bottles for Condiments, Paint, Ketchup, Mustard, Oil, Sauces, Resin, Baking, C Rs.851.00  Add</value>
+      <webElementGuid>468b854e-8ece-4b6c-bd72-f5e1e639e20a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;row product-grid&quot;]/div[@class=&quot;col-xxl-3 col-xl-3 col-lg-4 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]</value>
+      <webElementGuid>3c07a605-347a-400e-95e1-71904b063659</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[10]/div</value>
+      <webElementGuid>17d5b455-e812-40cb-b32e-c8395f181e02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[9]/following::div[2]</value>
+      <webElementGuid>a2fb7eb4-a53e-4f55-b4a6-a7b34ded2a52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.25,000.00'])[1]/following::div[3]</value>
+      <webElementGuid>d74f90a2-9d6c-4e91-b254-ba267bf7befa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div</value>
+      <webElementGuid>2d9bbc4c-cfff-4ac2-ba6a-56dde6065114</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '     New Home and Kitchen Condiment Squeeze Bottle Wide Mouth, Ondiomn 2 Pack 180ml Clear Squeeze Bottles for Condiments, Paint, Ketchup, Mustard, Oil, Sauces, Resin, Baking, C Rs.851.00  Add' or . = '     New Home and Kitchen Condiment Squeeze Bottle Wide Mouth, Ondiomn 2 Pack 180ml Clear Squeeze Bottles for Condiments, Paint, Ketchup, Mustard, Oil, Sauces, Resin, Baking, C Rs.851.00  Add')]</value>
+      <webElementGuid>ef644c1e-1091-4db2-8d8f-b573cdb41f65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

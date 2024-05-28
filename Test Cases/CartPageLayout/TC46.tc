@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensuring the utmost accuracy, it's imperative to verify that the total amount inclusively accounts for both the tax and the subtotal. For instance, in a scenario where the subtotal equals 300 and the tax amounts to 54, the accurate total should indeed amount to 354.</description>
+   <name>TC46</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>3b8d81c5-8dda-455d-be1f-40b1b4ef3797</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User name text field Should not accept below 3 character. Error message should throw like&quot;Username must be minimum of 3 characters&quot;.</description>
+   <name>TC04.1</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e3986124-34a0-48a7-a573-dc5b49031189</testCaseGuid>
+</TestCaseEntity>

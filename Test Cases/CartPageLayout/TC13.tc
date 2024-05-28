@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the user clicks the &quot;Add to cart&quot; button on the product detail page, the product should be successfully added to the cart.</description>
+   <name>TC13</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>9dd927d7-f0c2-442e-8c30-ca6f0def1fcf</testCaseGuid>
+</TestCaseEntity>

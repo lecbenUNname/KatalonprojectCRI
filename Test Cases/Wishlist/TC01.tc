@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;wishlist &quot;button should be displayed on the right side of the primary header on the crazystylesz homepage</description>
+   <name>TC01</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e850bde2-0e15-4cd7-9283-7d697ccba7c6</testCaseGuid>
+</TestCaseEntity>

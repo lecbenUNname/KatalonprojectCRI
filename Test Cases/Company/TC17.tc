@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;Drop us a line&quot; should be visible on the contact page when the user scrolls down on the company.</description>
+   <name>TC17</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b327f156-a79c-4276-a2e3-c1ab85c94f79</testCaseGuid>
+</TestCaseEntity>

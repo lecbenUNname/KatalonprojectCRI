@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The quantity only accepts an integer not a negative values,Null value, Empty space, decimal values, alphabets.</description>
+   <name>TC40</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>a5d960f3-12a8-47fc-9c84-1f8e0c11f9eb</testCaseGuid>
+</TestCaseEntity>

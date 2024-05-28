@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Password should accept only alphabets.</description>
+   <name>TC17</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eadd2b3e-3253-4d8e-9788-ec1f0720cd41</testCaseGuid>
+</TestCaseEntity>

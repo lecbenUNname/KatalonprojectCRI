@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The Crazystylez home page should be visible</description>
+   <name>TC01</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>cbc58af8-4cd4-4624-a4f1-e0ee2f67bdf4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the user clicks the &quot;Add to cart&quot; button for the same product with the same size and color, a warning message should be displayed (e.g., &quot;This product already exists!&quot;).</description>
+   <name>TC15</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c88ca81c-6709-48dc-ac47-c6971c0e4cf8</testCaseGuid>
+</TestCaseEntity>

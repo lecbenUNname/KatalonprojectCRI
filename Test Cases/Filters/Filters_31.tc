@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view the &quot;By Tag&quot;  filter displays the Tag name</description>
+   <name>Filters_31</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c8893fd7-fe76-4b73-9cf5-e10e7bc1dbf2</testCaseGuid>
+</TestCaseEntity>

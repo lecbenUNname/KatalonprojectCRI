@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to redirect to the product page by clicking on &quot;Products&quot; menu</description>
+   <name>Filters_2</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>f987b603-de56-4b87-a1af-a9fa772bdb8d</testCaseGuid>
+</TestCaseEntity>

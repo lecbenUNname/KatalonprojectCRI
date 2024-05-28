@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Stock Status</name>
+   <tag></tag>
+   <elementGuidId>dc83a139-0c23-4a22-a4c0-11b28979486c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div/div[2]/table/thead/tr/th[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th:nth-of-type(3)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>46a582e4-f6f7-41d1-abe1-30a949d7fc52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scope</name>
+      <type>Main</type>
+      <value>col</value>
+      <webElementGuid>23925748-ef82-49e4-85e4-7583792ceeb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Stock Status</value>
+      <webElementGuid>eeb4ebd2-0890-4120-97df-b13747959b89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;mb-30 mt-50&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;table-responsive shopping-summery&quot;]/table[@class=&quot;table table-wishlist&quot;]/thead[1]/tr[@class=&quot;main-heading&quot;]/th[3]</value>
+      <webElementGuid>f33e9eb6-346e-4b14-baaa-02f14b97d099</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div[2]/table/thead/tr/th[3]</value>
+      <webElementGuid>9a35e2a1-f0de-4f8a-a5a9-70eae49a0393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price'])[1]/following::th[1]</value>
+      <webElementGuid>af63dab4-2018-4272-b169-a8b46323943a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product'])[3]/following::th[2]</value>
+      <webElementGuid>6e183759-54b4-467b-ae6b-b1bcb9310512</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/preceding::th[1]</value>
+      <webElementGuid>17f23412-ca8f-4794-8e7c-c4ceb54478d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/preceding::th[2]</value>
+      <webElementGuid>2c2545a6-8aa9-4ef4-ae6b-ac1a62ceaca5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Stock Status']/parent::*</value>
+      <webElementGuid>454ca54a-0992-485b-b130-0e288e169e3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[3]</value>
+      <webElementGuid>c4c1d2c3-4e03-4dc3-8ac8-736561e52d21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Stock Status' or . = 'Stock Status')]</value>
+      <webElementGuid>15595bf0-fd4f-4847-96d7-ae92b93629be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

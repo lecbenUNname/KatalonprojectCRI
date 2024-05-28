@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>8f72c722-557a-49c8-b4b7-c9f00ea9dd85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>figure.border-radius-10.slick-slide.slick-current.slick-active > a > img[alt=&quot;Embroidered Semi-Stitched Lehenga Choli With Dupptta&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div/div/div/div/div/div/div/div/div/figure[2]/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9d255d37-8145-44d4-8a63-98abec11dac3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/storage/products/3-65-800x800.jpg</value>
+      <webElementGuid>901a3e28-7e02-4945-a6ce-24f65fba79f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Embroidered Semi-Stitched Lehenga Choli With Dupptta</value>
+      <webElementGuid>8538c871-da25-4c16-9148-5cb64d9c5610</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9&quot;]/div[@class=&quot;product-detail accordion-detail&quot;]/div[@class=&quot;row mb-50 mt-30&quot;]/div[@class=&quot;col-md-6 col-sm-12 col-xs-12 mb-md-0 mb-sm-5&quot;]/div[@class=&quot;detail-gallery&quot;]/div[@class=&quot;product-image-slider slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/figure[@class=&quot;border-radius-10 slick-slide slick-current slick-active&quot;]/a[1]/img[1]</value>
+      <webElementGuid>39121ee3-a438-4b77-a09a-ce075ffaa62f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div/div/div/div/div/div/div/div/figure[2]/a/img</value>
+      <webElementGuid>48298299-8cef-4516-9781-71ee1d973b60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Embroidered Semi-Stitched Lehenga Choli With Dupptta'])[2]</value>
+      <webElementGuid>1f704a04-794f-4e72-819d-13528b08d027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//figure[2]/a/img</value>
+      <webElementGuid>ac17240a-a79c-48a7-8755-12e2177e358d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://crazystylezs.com/storage/products/3-65-800x800.jpg' and @alt = 'Embroidered Semi-Stitched Lehenga Choli With Dupptta']</value>
+      <webElementGuid>cec995b1-3cba-414b-9b4f-62bed67395bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

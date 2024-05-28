@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Sarees_fi-rs-heart_1</name>
+   <tag></tag>
+   <elementGuidId>9c1268b0-c326-4242-b925-0b545e2541dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div/section[4]/div/div[2]/div/div/div/div/div/div[2]/a[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.action-btn.hover-up.wis_added.js-remove-from-wishlist-button > i.fi-rs-heart</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5ac829d2-d8fb-400f-a72d-259ba545ab53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi-rs-heart</value>
+      <webElementGuid>78448e1b-fbde-4363-80f5-09b5efb52176</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;ck-content&quot;]/section[@class=&quot;bg-grey-9 section-padding-60&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;tab-content wow fadeIn animated animated&quot;]/div[@class=&quot;tab-pane fade show active&quot;]/div[@class=&quot;row product-grid-4&quot;]/div[@class=&quot;col-lg-3 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]/div[@class=&quot;product-img-action-wrap&quot;]/div[@class=&quot;product-action-1&quot;]/a[@class=&quot;action-btn hover-up wis_added js-remove-from-wishlist-button&quot;]/i[@class=&quot;fi-rs-heart&quot;]</value>
+      <webElementGuid>ee996721-3fbe-4d67-9f54-a41be5422ef4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div/section[4]/div/div[2]/div/div/div/div/div/div[2]/a[2]/i</value>
+      <webElementGuid>0cfee2fd-8d12-40c5-a51a-eab69e5012db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/i</value>
+      <webElementGuid>b3af9e8e-fd8b-41af-bda7-afcee7069163</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

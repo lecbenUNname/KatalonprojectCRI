@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Completed</name>
+   <tag></tag>
+   <elementGuidId>7b3b921b-e442-420c-99ae-011e5ffa9ade</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-12.border-top.pt-2 > div > div > strong.order-detail-value</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div/div/div[2]/div/div[2]/div/div/div/strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>63911a94-2d1f-4618-a26c-e21a45d671c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>order-detail-value</value>
+      <webElementGuid>6a2ed1e5-b461-424b-8b9d-7a1e8602962e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Completed</value>
+      <webElementGuid>e965cb28-f5e8-4ecb-b56e-92969e091baf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;customer-order-detail&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 border-top pt-2&quot;]/div[1]/div[1]/strong[@class=&quot;order-detail-value&quot;]</value>
+      <webElementGuid>b53ef29a-9624-4e2d-b676-b46aa2903981</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div/div/div[2]/div/div[2]/div/div/div/strong</value>
+      <webElementGuid>5e45c397-8b5d-411b-875d-4494ad1bed4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order status:'])[1]/following::strong[1]</value>
+      <webElementGuid>ea00a533-9fe3-4853-b19d-94ef2fdc5f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order information'])[1]/following::strong[1]</value>
+      <webElementGuid>54f6042f-8057-4d03-847f-9fa771ff98c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment method:'])[1]/preceding::strong[1]</value>
+      <webElementGuid>47bad925-e81f-4576-9b61-659d4c361493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online transfer'])[1]/preceding::strong[1]</value>
+      <webElementGuid>36f944b2-8a5e-4bc8-adca-10d6d95deff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Completed']/parent::*</value>
+      <webElementGuid>b5159bce-c004-4158-ab89-a6946b3bfefb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/strong</value>
+      <webElementGuid>57cc0865-e089-4c74-9576-2f783b54acd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Completed' or . = 'Completed')]</value>
+      <webElementGuid>cd248534-a32a-494c-bbca-e02526c42af8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

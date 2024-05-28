@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The UI of the cart dropdown is visually appealing and well-designed</description>
+   <name>TC20</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09bea402-0959-4193-b8f3-ad9a1d22fd46</testCaseGuid>
+</TestCaseEntity>

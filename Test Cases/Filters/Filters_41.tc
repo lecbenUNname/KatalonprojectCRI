@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should able to view the &quot;Tags filter&quot; count should be changed while changing the Brand in By brandfilter</description>
+   <name>Filters_41</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>6b8b321c-781c-4b73-b3c6-91fed70f8eb2</testCaseGuid>
+</TestCaseEntity>

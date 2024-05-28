@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user should be able to either edit or delete their own comment of any product he added.</description>
+   <name>TC17BUG</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>44b2b988-be32-4e52-ba7b-6c9b68756fdb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to see the availability of the product for all the product variant for already existing product</description>
+   <name>TC33</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>9a05bd1f-c8e5-4088-a189-ba95422fd548</testCaseGuid>
+</TestCaseEntity>

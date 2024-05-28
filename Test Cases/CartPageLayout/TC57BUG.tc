@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>In the &quot;Quick view&quot; popup, when a product is marked as &quot;Out of stock,&quot; the &quot;Add to cart&quot; button should be appropriately disabled.</description>
+   <name>TC57BUG</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>5ca6b050-2ebb-4f37-b3d6-3a8db51a04ba</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should able to see multiple product label on the right side of the product image when admin selected multiple labels in admin panel</description>
+   <name>TC022</name>
+   <tag>Regresion</tag>
+   <comment></comment>
+   <testCaseGuid>42295142-b105-447d-8ea9-216f6605d135</testCaseGuid>
+</TestCaseEntity>

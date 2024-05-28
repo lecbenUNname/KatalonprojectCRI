@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Name text field should accept combination of Alphabets, numbers and special characters</description>
+   <name>TC05</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>63942ec8-247f-4860-9633-c27ab55833ac</testCaseGuid>
+</TestCaseEntity>

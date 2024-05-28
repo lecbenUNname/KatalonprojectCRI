@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>A toaster message and error message should appear on the screen, indicating that the Full Name field is required when full name field left empty.</description>
+   <name>TC_14</name>
+   <tag>Regression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>5be17f9b-1279-4c07-a58b-e35eac418732</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e69e4c74-7a43-4c13-8ce7-eafc7ddb1a97</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>602003f2-9a68-4243-845e-9b16daccf84c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ded0e424-d879-40ee-8bc2-db927ecf60fc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cc9eadcb-4e4e-493d-ac0e-bf98eb8c8cdb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e69e4c74-7a43-4c13-8ce7-eafc7ddb1a97</id>
+      <masked>false</masked>
+      <name>Name_req_Actual</name>
+   </variable>
+   <variable>
+      <defaultValue>'The name field is required.'</defaultValue>
+      <description></description>
+      <id>602003f2-9a68-4243-845e-9b16daccf84c</id>
+      <masked>false</masked>
+      <name>Name_req_Expected</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ded0e424-d879-40ee-8bc2-db927ecf60fc</id>
+      <masked>false</masked>
+      <name>Error_req_Actual</name>
+   </variable>
+   <variable>
+      <defaultValue>'The name field is required.'</defaultValue>
+      <description></description>
+      <id>cc9eadcb-4e4e-493d-ac0e-bf98eb8c8cdb</id>
+      <masked>false</masked>
+      <name>Error_req_Expected</name>
+   </variable>
+</TestCaseEntity>

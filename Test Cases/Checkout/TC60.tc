@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to view the phone number country code properly.</description>
+   <name>TC60</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>193a78b0-8338-4440-a576-c764373434bf</testCaseGuid>
+</TestCaseEntity>

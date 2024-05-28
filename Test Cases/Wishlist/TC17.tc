@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The page navigation with the arrow buttons should come when the user adds more than 10 products in the wishlist.</description>
+   <name>TC17</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>fd041796-c411-4fee-9c2d-cc76bf95a54e</testCaseGuid>
+</TestCaseEntity>

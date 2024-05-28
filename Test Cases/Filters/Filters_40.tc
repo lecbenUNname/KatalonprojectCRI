@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should able to view the   &quot;Tag filter&quot; count should be changed while selecting the particular product categories list</description>
+   <name>Filters_40</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>265ca01e-0bd8-4494-8e29-e1ed9ffc7fb5</testCaseGuid>
+</TestCaseEntity>

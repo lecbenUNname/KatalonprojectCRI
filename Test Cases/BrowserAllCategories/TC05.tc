@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;Browse all categories&quot; button should show the drop-down with all available categories (Ex:Women, Bottom Wear, Men's etc).</description>
+   <name>TC05</name>
+   <tag>Regressin</tag>
+   <comment></comment>
+   <testCaseGuid>a62f7e62-8098-40de-aca1-e085504cb870</testCaseGuid>
+</TestCaseEntity>

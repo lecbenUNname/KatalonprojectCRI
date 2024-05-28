@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Buy Now_fi-rs-heart</name>
+   <tag></tag>
+   <elementGuidId>da45963b-297e-4194-a0bb-dbf451dc3d83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@aria-label='Add To Wishlist' and contains(@class,'wishlist')]//i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.action-btn.hover-up.js-add-to-wishlist-button > i.fi-rs-heart</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9cc41be5-a33b-46b3-b8e8-e8a5bba790fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi-rs-heart</value>
+      <webElementGuid>8fb134a1-8916-4dbb-9b0d-f791664b012c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9&quot;]/div[@class=&quot;product-detail accordion-detail&quot;]/div[@class=&quot;row mb-50 mt-30&quot;]/div[@class=&quot;col-md-6 col-sm-12 col-xs-12&quot;]/div[@class=&quot;detail-info pr-30 pl-30&quot;]/form[@class=&quot;add-to-cart-form&quot;]/div[@class=&quot;detail-extralink mb-50&quot;]/div[@class=&quot;product-extra-link2  has-buy-now-button&quot;]/a[@class=&quot;action-btn hover-up js-add-to-wishlist-button&quot;]/i[@class=&quot;fi-rs-heart&quot;]</value>
+      <webElementGuid>30711155-913d-445f-97cc-db8075438d1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div/div/div/div[2]/div/form/div[2]/div[2]/a/i</value>
+      <webElementGuid>d5e0c742-5f4c-4d33-b2bb-6c2bf33972b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/a/i</value>
+      <webElementGuid>6e59c09b-0485-47b2-a1db-81097a0c47ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

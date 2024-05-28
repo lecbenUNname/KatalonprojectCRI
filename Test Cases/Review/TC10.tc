@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Image upload validations such as file format, file size and dimension and total image upload count should be verified.</description>
+   <name>TC10</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>fa008cec-fc72-42d6-ba67-0e2854e82776</testCaseGuid>
+</TestCaseEntity>

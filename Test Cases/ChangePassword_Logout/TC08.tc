@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should not able to update the password when the current password is wrong. And the &quot;Current password is invalid&quot; Toaster message should come.</description>
+   <name>TC08</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8608e736-07f4-4891-a7f6-88d8d7e60d25</testCaseGuid>
+</TestCaseEntity>

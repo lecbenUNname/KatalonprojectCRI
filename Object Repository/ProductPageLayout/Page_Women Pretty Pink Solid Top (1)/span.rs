@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>5e22f945-e713-4b83-9b4f-b721b683253a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div/div/div/div/div[2]/div/form/div/div/div/div/ul/li/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d23783c4-5df7-405b-ba17-e0371a762d4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9&quot;]/div[@class=&quot;product-detail accordion-detail&quot;]/div[@class=&quot;row mb-50 mt-30&quot;]/div[@class=&quot;col-md-6 col-sm-12 col-xs-12&quot;]/div[@class=&quot;detail-info pr-30 pl-30&quot;]/form[@class=&quot;add-to-cart-form&quot;]/div[@class=&quot;pr_switch_wrap&quot;]/div[@class=&quot;product-attributes&quot;]/div[@class=&quot;visual-swatches-wrapper attribute-swatches-wrapper form-group product__attribute product__color&quot;]/div[@class=&quot;attribute-values&quot;]/ul[@class=&quot;visual-swatch color-swatch attribute-swatch&quot;]/li[@class=&quot;attribute-swatch-item&quot;]/div[@class=&quot;custom-radio&quot;]/label[1]/span[1]</value>
+      <webElementGuid>b74a5a5d-01c1-4f53-879c-dd9406b3e7b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div/div/div/div[2]/div/form/div/div/div/div/ul/li/div/label/span</value>
+      <webElementGuid>2162bd4e-5ce8-4bbf-aa81-3df1bef2c7c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>691c18f3-791f-4ec6-b580-d24e08571736</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

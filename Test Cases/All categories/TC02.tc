@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;All Categories&quot; dropdown should be situated to the left of the search bar and readily noticeable to the user.</description>
+   <name>TC02</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>a78a5a43-1155-4e6f-a746-1d12b8d2f8c6</testCaseGuid>
+</TestCaseEntity>

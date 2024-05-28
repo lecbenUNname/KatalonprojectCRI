@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Click on actions &quot;View button&quot; redirect to the order information</description>
+   <name>TC06</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>2f916b73-ff3d-41df-bda5-55d7f6f639ae</testCaseGuid>
+</TestCaseEntity>

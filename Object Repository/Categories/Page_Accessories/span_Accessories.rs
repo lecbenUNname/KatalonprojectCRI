@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Accessories</name>
+   <tag></tag>
+   <elementGuidId>9b515d1e-3598-4502-a70c-0f4c5cb5dbd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.breadcrumb-item.d-inline-block.active > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div/div/div/div[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3d624141-53f3-407e-9364-2f7f18a146b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemprop</name>
+      <type>Main</type>
+      <value>item</value>
+      <webElementGuid>ebf18330-9939-46eb-bc5a-3ae70700404d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Accessories
+                            </value>
+      <webElementGuid>eb5cf56d-fe26-40ec-bb0f-939ef2c26924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;page-header breadcrumb-wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;breadcrumb&quot;]/div[@class=&quot;breadcrumb-item d-inline-block active&quot;]/span[1]</value>
+      <webElementGuid>b3fcd5a3-7081-40ed-bbcb-f338fffed9c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div/div/div/div[3]/span</value>
+      <webElementGuid>7010dbab-f4cd-42b1-8417-42fb04cd1314</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div[3]/span</value>
+      <webElementGuid>b77d1bff-8fd6-4f83-b4a3-1a9038414371</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                                Accessories
+                            ' or . = '
+                                Accessories
+                            ')]</value>
+      <webElementGuid>6e96db87-f2a2-4b38-b080-7f9274de259b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The All UI, TEXTS, and ICONS should be aligned properly in the information and hyperlink</description>
+   <name>TC04</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>321e612b-91ac-4fb0-93b8-1ab3eae73ece</testCaseGuid>
+</TestCaseEntity>

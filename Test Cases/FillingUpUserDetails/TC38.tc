@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The Terms and policy content page should open when click the &quot;I agree to terms &amp; and Policy&quot; link.</description>
+   <name>TC38</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>7b25b0ea-f245-4178-8c92-b78cf79f9d52</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Users can able to view the cart drop down when hovering the cart icon</description>
+   <name>TC01</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>8e2fe209-a00d-4542-a2bf-00e59d5956f3</testCaseGuid>
+</TestCaseEntity>

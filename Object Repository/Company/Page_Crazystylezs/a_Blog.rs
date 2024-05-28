@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Blog</name>
+   <tag></tag>
+   <elementGuidId>a5969c9c-bb52-427a-b288-099895272911</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.footer-list.wow.fadeIn.animated.mb-sm-5.mb-md-0.animated > li:nth-of-type(5) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul/ul/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e3cb0078-7f21-429f-80ee-c76137bed75c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/blog</value>
+      <webElementGuid>74c8c00e-ffa3-4153-ad5d-4bb15031a2f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                 Blog
+            </value>
+      <webElementGuid>f5057065-09cc-498d-802b-2952d2b75491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[@class=&quot;main&quot;]/section[@class=&quot;section-padding footer-mid&quot;]/div[@class=&quot;container pt-15 pb-20&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;footer-link-widget col wow animate__ animate__fadeInUp animated&quot;]/ul[@class=&quot;footer-list mb-sm-5 mb-md-0&quot;]/ul[@class=&quot;footer-list wow fadeIn animated mb-sm-5 mb-md-0 animated&quot;]/li[5]/a[1]</value>
+      <webElementGuid>13313bbb-bc71-46c0-b1cf-564024838d9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://crazystylezs.com/blog')])[3]</value>
+      <webElementGuid>11f78c4b-f759-4f92-8167-2dd363fd1abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/ul/li[5]/a</value>
+      <webElementGuid>35096905-fc2a-46bc-ba30-dbb9432b7864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://crazystylezs.com/blog' and (text() = '
+                 Blog
+            ' or . = '
+                 Blog
+            ')]</value>
+      <webElementGuid>4a275bde-cb5d-443e-9fce-af8e3c81d373</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

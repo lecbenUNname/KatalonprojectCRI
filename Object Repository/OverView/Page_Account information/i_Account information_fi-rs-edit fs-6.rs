@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Account information_fi-rs-edit fs-6</name>
+   <tag></tag>
+   <elementGuidId>9e82e437-f5bd-4361-99e4-e90826a8d234</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='account-avatar']/div/div/div/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fi-rs-edit.fs-6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>69ce72a5-3e75-4545-9582-e99382cd5876</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi-rs-edit fs-6</value>
+      <webElementGuid>560f21a1-a353-4644-8ed3-2917dfe8a310</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;account-avatar&quot;)/div[@class=&quot;profile-image&quot;]/div[@class=&quot;avatar-view mt-card-avatar&quot;]/div[@class=&quot;mt-overlay br2&quot;]/span[1]/i[@class=&quot;fi-rs-edit fs-6&quot;]</value>
+      <webElementGuid>5355312e-1d47-4666-8af3-68da16c7ad9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='account-avatar']/div/div/div/span/i</value>
+      <webElementGuid>c1ea192e-30f4-4e09-b87c-69946d06909f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span/i</value>
+      <webElementGuid>73cda946-b0ea-4ebd-9408-ea2f06e96720</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

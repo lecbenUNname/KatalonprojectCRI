@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Online Payment</name>
+   <tag></tag>
+   <elementGuidId>77106981-27a9-4e88-84bb-51bcb8a5a5b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.text-start</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@class='text-start']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>9f4a987e-b923-403e-8a0f-d474b70b2fd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>payment_bank_transfer</value>
+      <webElementGuid>99a270ee-01be-4743-8bf8-4230eb02eb88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-start</value>
+      <webElementGuid>49b1e150-4bad-4dc1-b477-dc535d974aee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Online Payment</value>
+      <webElementGuid>05a2c9bb-722b-42b5-bba8-8fc67813800d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-checkout-product-info&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-7 col-md-6 left&quot;]/div[@class=&quot;form-checkout&quot;]/div[@class=&quot;position-relative&quot;]/ul[@class=&quot;list-group list_payment_method&quot;]/li[@class=&quot;list-group-item&quot;]/label[@class=&quot;text-start&quot;]</value>
+      <webElementGuid>3a5f1a11-ce74-48c0-9a99-c7845911a0d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-checkout-product-info']/div/div[2]/div[2]/div[2]/ul/li/label</value>
+      <webElementGuid>17e714fc-b265-4740-9ab6-3df418067222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment method'])[1]/following::label[1]</value>
+      <webElementGuid>bc31ee13-f6d6-4ff1-9e9a-b025e41a91af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select available addresses:'])[1]/following::label[1]</value>
+      <webElementGuid>430cd39e-5b7b-40a1-ac05-7c52c8050918</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please use our secured payment gateway to Proceed with the payment'])[1]/preceding::label[1]</value>
+      <webElementGuid>09dca86e-d45a-47d2-b1ed-f848154c5877</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order notes'])[1]/preceding::label[1]</value>
+      <webElementGuid>f41d3915-f237-4f90-b9f3-d8a3dd6cbf07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Online Payment']/parent::*</value>
+      <webElementGuid>566a7470-6496-420e-9dda-7377f91c164d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/label</value>
+      <webElementGuid>9682dc19-988d-4545-b5af-8e30a4ee8c88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Online Payment' or . = 'Online Payment')]</value>
+      <webElementGuid>7b060743-77b9-4dc4-a9a9-e55479a09fa6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

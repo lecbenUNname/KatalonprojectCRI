@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The subcategory should be visible when the user mouse hovers over the electronics and accessories categories</description>
+   <name>TC14</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>0801c2b1-84eb-4848-8f65-fdfb48b0464b</testCaseGuid>
+</TestCaseEntity>

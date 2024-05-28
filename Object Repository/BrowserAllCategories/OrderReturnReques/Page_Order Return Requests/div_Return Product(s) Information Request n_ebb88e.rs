@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Return Product(s) Information Request n_ebb88e</name>
+   <tag></tag>
+   <elementGuidId>f9b2dbb0-7c53-456c-b433-e972ab0aff9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div/div/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a99260b8-7e3c-45f0-9ba4-fdb27c44051e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-6</value>
+      <webElementGuid>8baa8811-7bb8-47f1-951e-434228b66103</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Return Product(s) Information Request number:  #10000009 Order Id:  #10000529</value>
+      <webElementGuid>de6dbcd5-7738-46c6-bdbc-a09b7a23f82c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;customer-order-detail&quot;]/div[@class=&quot;customer-order-detail&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]</value>
+      <webElementGuid>56b39cd2-d489-41fb-b40c-6ae3ca6558a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>49a3b4f4-58ac-4b3f-892d-c58f73f5f7f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Return Product(s)'])[1]/following::div[5]</value>
+      <webElementGuid>89a9f150-1dee-4731-9aa3-6992be9949ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::div[11]</value>
+      <webElementGuid>2b6f4587-27cd-434e-a1d0-87fd380e3ed7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>285d1410-4f0a-4d46-a705-dd6f601cedbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Return Product(s) Information Request number:  #10000009 Order Id:  #10000529' or . = 'Return Product(s) Information Request number:  #10000009 Order Id:  #10000529')]</value>
+      <webElementGuid>add06edd-51d6-4797-a6b5-07cf310f4ecc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

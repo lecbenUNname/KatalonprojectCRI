@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view the &quot;By Categories&quot; filter displays the Categories  name</description>
+   <name>Filters_5</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>a9b6c637-8d72-4556-881e-673d08d6aef3</testCaseGuid>
+</TestCaseEntity>

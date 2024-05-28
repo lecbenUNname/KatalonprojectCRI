@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Full name text field should not accept single character.</description>
+   <name>TC06BUG</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>d237e21b-e1ff-460c-8c0c-7db696ee0131</testCaseGuid>
+</TestCaseEntity>

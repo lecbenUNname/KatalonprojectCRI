@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_New Cameras WOLFANG GA400 Action Camera_169038</name>
+   <tag></tag>
+   <elementGuidId>188bdb07-0884-4f18-bda8-26731f736cc1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[9]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a3361356-ff67-46c4-8e47-421ccd411280</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-cart-wrap mb-30</value>
+      <webElementGuid>14716299-9f39-4d37-9b7d-2050a56d4092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>     New Cameras WOLFANG GA400 Action Camera 4K 60FPS Bare Metal Waterproof Underwater Camera Rs.25,000.00  Add</value>
+      <webElementGuid>1ecfa996-bd81-4c62-a461-ec944dba027f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;row product-grid&quot;]/div[@class=&quot;col-xxl-3 col-xl-3 col-lg-4 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]</value>
+      <webElementGuid>b787b1d9-6885-4eb3-87ee-c2d68773dd91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[9]/div</value>
+      <webElementGuid>3c00323a-61bd-4631-a107-ebeda2a8a864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[8]/following::div[2]</value>
+      <webElementGuid>fa54244d-66c1-4ef1-9416-85bf3bacbd7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.7,499.00'])[1]/following::div[3]</value>
+      <webElementGuid>e5d96352-e625-4e70-8128-9b923cb52f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div</value>
+      <webElementGuid>511277e5-652d-4032-a34a-a6351357c929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '     New Cameras WOLFANG GA400 Action Camera 4K 60FPS Bare Metal Waterproof Underwater Camera Rs.25,000.00  Add' or . = '     New Cameras WOLFANG GA400 Action Camera 4K 60FPS Bare Metal Waterproof Underwater Camera Rs.25,000.00  Add')]</value>
+      <webElementGuid>482a8b45-dad0-4f04-b8a9-70e32bc23b14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

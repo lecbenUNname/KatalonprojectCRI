@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;breadcrumb and header &quot; should be highlight the FAQ when the user clicks the FAQ hyperlink in the company</description>
+   <name>TC12</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>a2cefb56-357b-4d0c-8248-80748eabe153</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Sarees_hover-img (1)</name>
+   <tag></tag>
+   <elementGuidId>3b258d78-8bed-43d1-b470-a1d4ddc0db3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div/section[4]/div/div[2]/div/div/div/div/div/div/a/img[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.hover-img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2d1287a8-8790-4b87-aaae-c9acd7b0d704</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hover-img</value>
+      <webElementGuid>4313d81e-2ba4-4883-9406-c19237f739e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/storage/products/2-110-400x400.jpg</value>
+      <webElementGuid>13718ef8-06c5-4443-af68-2769ca00390d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Women Yellow Bandhani Printed Maxi Dress</value>
+      <webElementGuid>97bd2768-44f5-4e31-b1d4-b417634d6d5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;ck-content&quot;]/section[@class=&quot;bg-grey-9 section-padding-60&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;tab-content wow fadeIn animated animated&quot;]/div[@class=&quot;tab-pane fade show active&quot;]/div[@class=&quot;row product-grid-4&quot;]/div[@class=&quot;col-lg-3 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]/div[@class=&quot;product-img-action-wrap&quot;]/div[@class=&quot;product-img product-img-zoom&quot;]/a[1]/img[@class=&quot;hover-img&quot;]</value>
+      <webElementGuid>ede2d660-63b0-495b-bf2a-2826e31feadf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div/section[4]/div/div[2]/div/div/div/div/div/div/a/img[2]</value>
+      <webElementGuid>9e210414-6134-4138-b83e-73a8d666960a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Women Yellow Bandhani Printed Maxi Dress'])[2]</value>
+      <webElementGuid>74b24c89-ff9f-4f26-89da-f839a50e3bf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img[2]</value>
+      <webElementGuid>c2bb72ab-e596-4fd7-8fae-8d2be11b980c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://crazystylezs.com/storage/products/2-110-400x400.jpg' and @alt = 'Women Yellow Bandhani Printed Maxi Dress']</value>
+      <webElementGuid>2e5b585f-163d-41f1-beb0-c78663160b3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

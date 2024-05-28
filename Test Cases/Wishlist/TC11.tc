@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The same product is not added to the wishlist again, an alert should be triggered with the message &quot;Removed product from the wishlist successfully.&quot;</description>
+   <name>TC11</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>15dcd0d5-c413-4758-b89e-2ca5dad70164</testCaseGuid>
+</TestCaseEntity>

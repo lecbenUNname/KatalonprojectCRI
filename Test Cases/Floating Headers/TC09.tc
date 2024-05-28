@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>All categories, subcategories, and Sub subcategories should be clickable and redirect to the respective page</description>
+   <name>TC09</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c332de69-3659-48a9-99a2-d027161c6134</testCaseGuid>
+</TestCaseEntity>

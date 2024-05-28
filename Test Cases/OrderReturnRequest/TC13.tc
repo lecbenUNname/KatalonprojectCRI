@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Order return request tab should highlighted when user is in Return products page by clicking on the view button</description>
+   <name>TC13</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>a6700b9c-c948-4dd6-a95c-908560a3980f</testCaseGuid>
+</TestCaseEntity>

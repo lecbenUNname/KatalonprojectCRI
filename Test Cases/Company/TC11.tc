@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;FAQ&quot; hyperlink should be clickable and correctly navigates to the FAQ page</description>
+   <name>TC11</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>afd288c6-c3db-4960-bb9f-b6cd6937338a</testCaseGuid>
+</TestCaseEntity>

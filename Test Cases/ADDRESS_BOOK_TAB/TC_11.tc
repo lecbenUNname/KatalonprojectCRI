@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Full name text field should automatically pasted the user name by default.</description>
+   <name>TC_11</name>
+   <tag>Regression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>6a61f6c7-d2db-4961-a3f5-784c604a7f97</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>69102edb-bb8e-4838-b48f-22fe71b2908a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a4dbf571-606f-46cb-9fea-91d406598908</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>69102edb-bb8e-4838-b48f-22fe71b2908a</id>
+      <masked>false</masked>
+      <name>Full_Name_Actual</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a4dbf571-606f-46cb-9fea-91d406598908</id>
+      <masked>false</masked>
+      <name>Full_Name_Expected</name>
+   </variable>
+</TestCaseEntity>

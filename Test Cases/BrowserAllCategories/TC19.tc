@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The breadcrumb on the category page should accurately highlights the navigation path</description>
+   <name>TC19</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>cf78e396-ff04-4f86-a8d5-a69b65276701</testCaseGuid>
+</TestCaseEntity>

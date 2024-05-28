@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The phone number field should not accept alphabets</description>
+   <name>TC_24</name>
+   <tag>Regression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>f9e71480-a314-434b-9f80-1bd96ae47630</testCaseGuid>
+</TestCaseEntity>

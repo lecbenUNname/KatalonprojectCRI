@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On clicking the star count from the detailed view column the user can be expected view on the relevant star rating reviews.</description>
+   <name>TC20BUG</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e342a2e4-adf3-4046-9f30-4106d002e755</testCaseGuid>
+</TestCaseEntity>

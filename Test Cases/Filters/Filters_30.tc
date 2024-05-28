@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should able to view the &quot; By Tag&quot; filter is available on the product listing page</description>
+   <name>Filters_30</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>fe87863d-ced4-44fb-9ea0-e32015768141</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Upon clicking the &quot;Advanced Filter&quot; dropdown, the menu should expand to display the additional filter options for both color and size.</description>
+   <name>Filters_15</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>8226df56-d8f1-440f-b2ed-ccb8c8988ebb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_We found 88 items for you Show  12  12 _875008</name>
+   <tag></tag>
+   <elementGuidId>761aded5-c0ac-4d3b-b76a-586062025bff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.products-listing.position-relative</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>14b05976-b058-4f3c-a527-b06abd3d1a26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>products-listing position-relative</value>
+      <webElementGuid>0d91dd12-e228-4381-8a2c-bd5b4a2579fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  We found 88 items for you! Show:  12  12 24 36 Sort by:   Default Oldest Newest Price: low to high Price: high to low Name: A-Z Name : Z-A Rating: low to high Rating: high to low          Hot Sale Trending Women Product 1 Rs.800.00 Rs.1,000.00  Add      Hot Women Testing Product Rs.400.00 Rs.600.00  Add      Hot Women Testing Product 2  (12) Rs.400.00 Rs.600.00  Add      Hot Kurtas And Salwar Printed Straight Kurta  (2) Rs.750.00 Rs.1,200.00  Add      Hot Maternity Wear Women Blue Maternity Shirt Midi Dress Rs.1,623.00 Rs.2,799.00  Add      Hot Maternity Wear Navy Blue Floral Maternity Midi Dress Rs.991.00 Rs.1,599.00  Add      Hot Maternity Wear Brown Floral Maternity Midi Dress Rs.1,455.00 Rs.2,799.00  Add      New Maternity Wear Green Tie and Dye Dyed Maternity Kaftan Midi Dress Rs.849.00 Rs.1,699.00  Add      New T-shirts and Tops Woman Regular V-Neck Top Rs.1,319.00 Rs.1,649.00  Add      Hot Makeup Lash Sensational Mascara Rs.425.00  Add      Hot Makeup Flawless Finish Primer Rs.499.00  Add      Hot Makeup Photoready Compact Powder Rs.1,375.00  Add  1 2 3 4 5 6 7 8 </value>
+      <webElementGuid>69898644-23bb-41fc-af3d-10225ba505f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]</value>
+      <webElementGuid>fa89401d-eb0b-4d24-b48f-375a2396889d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]</value>
+      <webElementGuid>df033eb5-96a5-498d-b7fe-b3c04fb599b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div[2]/div/div/div[2]</value>
+      <webElementGuid>d347d360-0086-4c65-8ce3-0816393bee4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  We found 88 items for you! Show:  12  12 24 36 Sort by:   Default Oldest Newest Price: low to high Price: high to low Name: A-Z Name : Z-A Rating: low to high Rating: high to low          Hot Sale Trending Women Product 1 Rs.800.00 Rs.1,000.00  Add      Hot Women Testing Product Rs.400.00 Rs.600.00  Add      Hot Women Testing Product 2  (12) Rs.400.00 Rs.600.00  Add      Hot Kurtas And Salwar Printed Straight Kurta  (2) Rs.750.00 Rs.1,200.00  Add      Hot Maternity Wear Women Blue Maternity Shirt Midi Dress Rs.1,623.00 Rs.2,799.00  Add      Hot Maternity Wear Navy Blue Floral Maternity Midi Dress Rs.991.00 Rs.1,599.00  Add      Hot Maternity Wear Brown Floral Maternity Midi Dress Rs.1,455.00 Rs.2,799.00  Add      New Maternity Wear Green Tie and Dye Dyed Maternity Kaftan Midi Dress Rs.849.00 Rs.1,699.00  Add      New T-shirts and Tops Woman Regular V-Neck Top Rs.1,319.00 Rs.1,649.00  Add      Hot Makeup Lash Sensational Mascara Rs.425.00  Add      Hot Makeup Flawless Finish Primer Rs.499.00  Add      Hot Makeup Photoready Compact Powder Rs.1,375.00  Add  1 2 3 4 5 6 7 8 ' or . = '  We found 88 items for you! Show:  12  12 24 36 Sort by:   Default Oldest Newest Price: low to high Price: high to low Name: A-Z Name : Z-A Rating: low to high Rating: high to low          Hot Sale Trending Women Product 1 Rs.800.00 Rs.1,000.00  Add      Hot Women Testing Product Rs.400.00 Rs.600.00  Add      Hot Women Testing Product 2  (12) Rs.400.00 Rs.600.00  Add      Hot Kurtas And Salwar Printed Straight Kurta  (2) Rs.750.00 Rs.1,200.00  Add      Hot Maternity Wear Women Blue Maternity Shirt Midi Dress Rs.1,623.00 Rs.2,799.00  Add      Hot Maternity Wear Navy Blue Floral Maternity Midi Dress Rs.991.00 Rs.1,599.00  Add      Hot Maternity Wear Brown Floral Maternity Midi Dress Rs.1,455.00 Rs.2,799.00  Add      New Maternity Wear Green Tie and Dye Dyed Maternity Kaftan Midi Dress Rs.849.00 Rs.1,699.00  Add      New T-shirts and Tops Woman Regular V-Neck Top Rs.1,319.00 Rs.1,649.00  Add      Hot Makeup Lash Sensational Mascara Rs.425.00  Add      Hot Makeup Flawless Finish Primer Rs.499.00  Add      Hot Makeup Photoready Compact Powder Rs.1,375.00  Add  1 2 3 4 5 6 7 8 ')]</value>
+      <webElementGuid>b608f879-23ba-40c7-b8fb-bdaac8697657</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

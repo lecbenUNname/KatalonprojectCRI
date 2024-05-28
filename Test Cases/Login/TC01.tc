@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The URL should open the Crazystylezs home page</description>
+   <name>TC01</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c63f2e8a-eb88-4fa6-9b8e-3dc7451c2256</testCaseGuid>
+</TestCaseEntity>

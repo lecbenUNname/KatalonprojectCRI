@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Full name text field should not accept only blank or space.</description>
+   <name>TC08</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>4737ef3c-8ad1-44ec-94c9-7f65d66c7fa3</testCaseGuid>
+</TestCaseEntity>

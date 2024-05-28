@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the user clicks on the left and right arrows in the thumbnail image, it should move forward and backward.</description>
+   <name>TC018</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b5e61419-00b7-415c-8d70-12cd55110df0</testCaseGuid>
+</TestCaseEntity>

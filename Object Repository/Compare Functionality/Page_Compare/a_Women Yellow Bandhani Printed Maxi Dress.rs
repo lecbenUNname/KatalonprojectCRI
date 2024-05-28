@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Women Yellow Bandhani Printed Maxi Dress</name>
+   <tag></tag>
+   <elementGuidId>9efc6c0e-686e-4b32-8072-8b5e64d17891</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.text-heading</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div/div/table/tbody/tr[2]/td[2]/h6/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Women Yellow Bandhani Printed Maxi Dress&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>70725c54-e3ba-4751-a084-948de8f30bd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/products/women-yellow-bandhani-printed-maxi-dress</value>
+      <webElementGuid>a5dc4845-ab92-4738-bf60-521299a82465</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-heading</value>
+      <webElementGuid>bd12de92-b548-422a-959b-a786d0c95e24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Women Yellow Bandhani Printed Maxi Dress</value>
+      <webElementGuid>53980c8f-597b-4639-8081-c921b4d522bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;mb-80 mt-50&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;table-responsive table__compare&quot;]/table[@class=&quot;table text-center table-compare&quot;]/tbody[1]/tr[@class=&quot;pr_title&quot;]/td[@class=&quot;product_name&quot;]/h6[1]/a[@class=&quot;text-heading&quot;]</value>
+      <webElementGuid>91e94c65-7053-49a4-a0c9-4bdec9edf011</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div/table/tbody/tr[2]/td[2]/h6/a</value>
+      <webElementGuid>3c4bc07d-7796-40f3-9112-141f55836168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Women Yellow Bandhani Printed Maxi Dress')]</value>
+      <webElementGuid>92d298e7-e8ea-4b31-9996-c5ddfeee1d44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::a[1]</value>
+      <webElementGuid>20f8c54b-c46e-48bf-beb4-c3f67ddc507a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[1]/following::a[2]</value>
+      <webElementGuid>e44d8642-9a2a-490e-8fcb-8cf47d034aa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price'])[1]/preceding::a[1]</value>
+      <webElementGuid>cbea9b96-09cf-4568-9cdf-eb1e21f42004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.2,299.00'])[1]/preceding::a[1]</value>
+      <webElementGuid>820ca1a8-5002-4231-b8a8-a93b1c4d8c69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Women Yellow Bandhani Printed Maxi Dress']/parent::*</value>
+      <webElementGuid>962f8dec-ca49-4ea6-9907-bfe4e64efff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://crazystylezs.com/products/women-yellow-bandhani-printed-maxi-dress')])[2]</value>
+      <webElementGuid>94888823-f8df-4978-a4e0-3ecb27fe8a68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h6/a</value>
+      <webElementGuid>51071bbf-9fb5-4cbe-89bc-f4f375f9bca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://crazystylezs.com/products/women-yellow-bandhani-printed-maxi-dress' and (text() = 'Women Yellow Bandhani Printed Maxi Dress' or . = 'Women Yellow Bandhani Printed Maxi Dress')]</value>
+      <webElementGuid>ce6435a8-7bb0-4fe3-acaf-3598701be6d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

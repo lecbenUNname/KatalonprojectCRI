@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When a user clicks on any category, it should redirect to the respective category page and display the product count along with an appropriate message.&quot;We found 10 items for you!&quot;</description>
+   <name>TC16</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e1d1bbd6-1b80-4dd1-83b1-ca8caebdca8d</testCaseGuid>
+</TestCaseEntity>

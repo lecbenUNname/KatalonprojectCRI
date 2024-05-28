@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The proper functionality should be in the &quot;Browser back arrow&quot; button for all hyperlinks</description>
+   <name>TC06</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>657fa69d-562c-4630-ba52-2df033d9a113</testCaseGuid>
+</TestCaseEntity>

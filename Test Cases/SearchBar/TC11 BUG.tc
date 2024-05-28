@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>As the user enters the invalid characters, the search bar should not display any dropdown suggestions, and there should be no product suggestions related to the invalid query.&#xd;
+&#xd;
+As the user enters the invalid characters, the search bar should not display any dropdown suggestions, and there should be no product suggestions related to the invalid query.</description>
+   <name>TC11 BUG</name>
+   <tag>RegressionAs the user enters the invalid characters, the search bar should not display any dropdown suggestions, and there should be no product suggestions related to the invalid query.</tag>
+   <comment></comment>
+   <testCaseGuid>dec71cbd-f2d8-4a23-b036-e9c3c43d220d</testCaseGuid>
+</TestCaseEntity>

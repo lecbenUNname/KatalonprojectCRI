@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Upon the user's selection of a specific category, the redirection occurs, and the corresponding products (e.g., women's products for the &quot;Women&quot; category) should be appropriately displayed.</description>
+   <name>TC18</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>4cee9f08-954f-4841-9026-2812c546f93a</testCaseGuid>
+</TestCaseEntity>

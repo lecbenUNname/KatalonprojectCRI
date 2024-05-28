@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View_next page-link</name>
+   <tag></tag>
+   <elementGuidId>1ab21b44-4c18-428d-9840-daf86eb4fcef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.next.page-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div/div/div[2]/div/div/nav/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d7d94be0-c846-4ef0-a40d-8a33b8f6a741</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://classicculture.in/customer/orders?page=3</value>
+      <webElementGuid>08c61f4c-e36d-46a1-bf2c-7c53cf2497ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>next</value>
+      <webElementGuid>32c74f20-e9b9-4916-b60f-9b85577708bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>next page-link</value>
+      <webElementGuid>eb552d57-6f20-4ff4-a5e8-183a22b3b7d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;table-responsive&quot;]/div[@class=&quot;pagination-area mt-20 mb-20 pagination-page&quot;]/nav[1]/ul[@class=&quot;pagination justify-content-start&quot;]/li[@class=&quot;page-item&quot;]/a[@class=&quot;next page-link&quot;]</value>
+      <webElementGuid>4dad7a7d-d04e-44b3-b420-39126c921aca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div/div/div[2]/div/div/nav/ul/li[6]/a</value>
+      <webElementGuid>e9654840-79f2-4ef6-b59f-7735494bec22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[10]/following::a[5]</value>
+      <webElementGuid>3f23a01f-d89f-4cde-94f4-63f19e9b1f17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Canceled'])[6]/following::a[6]</value>
+      <webElementGuid>1614b88c-8a3e-4c2c-8e6a-2593a6106644</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe'])[1]/preceding::a[1]</value>
+      <webElementGuid>76a9c4a5-06da-4f67-b922-70a67cfb795e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secure Transaction'])[1]/preceding::a[1]</value>
+      <webElementGuid>f9f78a06-15e6-49cd-b972-68177045ee99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://classicculture.in/customer/orders?page=3')])[2]</value>
+      <webElementGuid>ff599fa7-ca69-4b41-9f2f-d4b473ede8d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/nav/ul/li[6]/a</value>
+      <webElementGuid>457b5c54-3994-4e1a-94d0-a1d8bb1cae6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://classicculture.in/customer/orders?page=3']</value>
+      <webElementGuid>44fcabc4-f2a5-46c8-8379-739dd0481bdd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Email ID Text field Should allow same Email ID for different registration</description>
+   <name>TC28</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>68de6a91-af82-4354-a940-e3b8a552b799</testCaseGuid>
+</TestCaseEntity>

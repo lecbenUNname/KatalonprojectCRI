@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The page should scrolled top of the page when clicking on the up arrow button which is display on the bottom right corner.</description>
+   <name>TC08</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>2f56378d-4dfe-465d-826f-8480a496a7ea</testCaseGuid>
+</TestCaseEntity>

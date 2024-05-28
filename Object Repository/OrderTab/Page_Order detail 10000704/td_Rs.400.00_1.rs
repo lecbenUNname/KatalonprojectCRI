@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Rs.400.00_1</name>
+   <tag></tag>
+   <elementGuidId>8e588981-3b84-44f9-bd99-8641c1503409</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.money.text-right.align-middle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div/div/div[2]/div/div[2]/div/div[3]/table/tbody/tr/td[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>fec3f14a-08dc-471d-ae66-721647e9e27e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>money text-right align-middle</value>
+      <webElementGuid>621d2224-012e-44c6-b5a1-ef2d21f989e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            Rs.400.00
+                                        </value>
+      <webElementGuid>395f6d24-ae7c-4932-ad00-19f6090bd62b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;customer-order-detail&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 border-top pt-2&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-striped table-hover&quot;]/tbody[1]/tr[1]/td[@class=&quot;money text-right align-middle&quot;]</value>
+      <webElementGuid>07100183-5b7e-4a21-a4dd-ec1be8660151</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div/div/div[2]/div/div[2]/div/div[3]/table/tbody/tr/td[6]</value>
+      <webElementGuid>6a6b1db3-2882-46ad-8d23-8fc6dc519279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.400.00'])[3]/following::td[2]</value>
+      <webElementGuid>0e606671-8b74-4c55-b73c-021ede3ccedd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing Product'])[3]/following::td[3]</value>
+      <webElementGuid>9c88ca95-c184-4988-91a7-2aa5564e1327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping Information:'])[1]/preceding::td[1]</value>
+      <webElementGuid>6b9bc9ee-b20e-450b-95d6-c1f0ec07aff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]</value>
+      <webElementGuid>fea615ed-1698-483c-a93a-b6ce15ae9f9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+                                            Rs.400.00
+                                        ' or . = '
+                                            Rs.400.00
+                                        ')]</value>
+      <webElementGuid>31ec7544-8e71-4c8a-93a0-2e2dbe3a5a91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

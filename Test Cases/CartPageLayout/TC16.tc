@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the user modifies the color while keeping the same size, they should be able to successfully add the product to the cart, and a confirmation message should be displayed (e.g., &quot;Product 'Testing Dress' has been added to the cart successfully!&quot;).</description>
+   <name>TC16</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>adf01138-d07d-402a-8615-0f00c8870a9f</testCaseGuid>
+</TestCaseEntity>

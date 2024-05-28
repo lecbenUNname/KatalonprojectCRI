@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The subcategory should be visible when the user mouse hovers over the product categories</description>
+   <name>TC07</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>9d380d3f-135f-49e3-8a7e-c232b424c8de</testCaseGuid>
+</TestCaseEntity>

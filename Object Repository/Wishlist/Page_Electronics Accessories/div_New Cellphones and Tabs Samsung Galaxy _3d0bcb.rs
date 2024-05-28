@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_New Cellphones and Tabs Samsung Galaxy _3d0bcb</name>
+   <tag></tag>
+   <elementGuidId>1bd313a7-a45e-4060-bfd4-5da3e3c8035e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[5]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>02ce2ef3-1d3e-46ee-898a-d0d270e63aaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-cart-wrap mb-30</value>
+      <webElementGuid>f6613687-832a-4830-8612-a0e78f990cd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>     New Cellphones and Tabs Samsung Galaxy S20 FE 5G (Cloud Mint, 8GB RAM, 128GB Storage) Sold By Global Store Rs.37,999.00  Add</value>
+      <webElementGuid>084dcf9d-7fce-4250-94cb-15eb5fd31415</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;row product-grid&quot;]/div[@class=&quot;col-xxl-3 col-xl-3 col-lg-4 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]</value>
+      <webElementGuid>2c1d5572-dc65-413f-8c17-ab53ffdac88e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[5]/div</value>
+      <webElementGuid>e708eabd-c603-4da0-8293-d77693a05f9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[4]/following::div[2]</value>
+      <webElementGuid>429529f0-a6cf-46be-af40-1fe017f929c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.3,299.00'])[1]/following::div[3]</value>
+      <webElementGuid>a2bba10f-63fa-43f8-8ad4-8df4bbae9055</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[5]/div</value>
+      <webElementGuid>e4b80362-b385-4166-90b3-fcbb3a6efa0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '     New Cellphones and Tabs Samsung Galaxy S20 FE 5G (Cloud Mint, 8GB RAM, 128GB Storage) Sold By Global Store Rs.37,999.00  Add' or . = '     New Cellphones and Tabs Samsung Galaxy S20 FE 5G (Cloud Mint, 8GB RAM, 128GB Storage) Sold By Global Store Rs.37,999.00  Add')]</value>
+      <webElementGuid>137266a0-5c5c-42fe-94b7-9abac06df933</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

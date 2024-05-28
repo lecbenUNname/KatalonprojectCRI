@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>5c71e190-f5cb-48cd-8e57-54e9a732d4c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Women Yellow Bandhani Printed Maxi Dress&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div/div/table/tbody/tr/td[2]/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Preview Women Yellow Bandhani Printed Maxi Dress&quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>29bba6ba-f353-4af4-b22a-5f3ab9428452</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/storage/products/3-105-150x150.jpg</value>
+      <webElementGuid>d25ac082-4270-4cf9-820f-3a12640062d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Women Yellow Bandhani Printed Maxi Dress</value>
+      <webElementGuid>faef946b-eff5-4f58-a826-c2263b8379ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;mb-80 mt-50&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;table-responsive table__compare&quot;]/table[@class=&quot;table text-center table-compare&quot;]/tbody[1]/tr[@class=&quot;pr_image&quot;]/td[@class=&quot;row_img&quot;]/a[1]/img[1]</value>
+      <webElementGuid>5ab9ed0b-1272-430c-9bf3-39e2f7df37b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div/table/tbody/tr/td[2]/a/img</value>
+      <webElementGuid>3e07efce-60d5-4a7e-a380-7db6f0e79a02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Women Yellow Bandhani Printed Maxi Dress']</value>
+      <webElementGuid>9e6c6161-5dd3-4909-af7c-a8e5b4c673fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a/img</value>
+      <webElementGuid>069d6e96-d7e7-4ff0-9d6f-542210f95292</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://crazystylezs.com/storage/products/3-105-150x150.jpg' and @alt = 'Women Yellow Bandhani Printed Maxi Dress']</value>
+      <webElementGuid>49b1596c-bec1-43b3-a43e-66e0abeb6c8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

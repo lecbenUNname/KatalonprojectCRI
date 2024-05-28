@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Confirm the precision of tax calculation by verifying the presence of the &quot;Tax&quot; amount on the cart page, using a specific instance like: Product price of 499+ VAT (18%) of 89.82, resulting in a total amount of 588.82.</description>
+   <name>TC45</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>f13fc0b3-6082-49e7-9425-5f62a413c4d8</testCaseGuid>
+</TestCaseEntity>

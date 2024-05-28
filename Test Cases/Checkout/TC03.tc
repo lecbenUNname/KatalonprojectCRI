@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;Checkout&quot; page should redirect when the user click the &quot;Proceed to checkout&quot; button.</description>
+   <name>TC03</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>0c2af269-b232-4446-9e94-994c85d7140b</testCaseGuid>
+</TestCaseEntity>

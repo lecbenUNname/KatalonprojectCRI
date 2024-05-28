@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The Home header should be clickable and redirected to the Home page</description>
+   <name>TC04</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>f884c36b-2230-4e95-9b6e-3f76278f647a</testCaseGuid>
+</TestCaseEntity>

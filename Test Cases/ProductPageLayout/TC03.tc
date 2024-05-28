@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The breadcrumbs displayed on the product page should accurately represent the categories the product has been assigned to.</description>
+   <name>TC03</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>4716aded-7325-4179-bbc9-8c388fa22a7c</testCaseGuid>
+</TestCaseEntity>

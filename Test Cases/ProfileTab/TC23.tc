@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The Date field should not allow the user to manually enter a date value with components (year, month, day) beyond the allowed date format.</description>
+   <name>TC23</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1edf6839-e6ab-4f1b-9a23-5da09b094678</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3e53bdf6-6844-40c8-ba40-e441e40c6e0c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3e53bdf6-6844-40c8-ba40-e441e40c6e0c</id>
+      <masked>false</masked>
+      <name>actual_text_phNo</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;Address Deleted successfully&quot; this toaster message should come when we click the delete button.</description>
+   <name>TC_65</name>
+   <tag>Regression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>ab1a3170-67e2-44bf-934c-aeb85736e5a0</testCaseGuid>
+</TestCaseEntity>

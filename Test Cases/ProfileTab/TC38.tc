@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Email ID field is not editable</description>
+   <name>TC38</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3478451-a20a-4084-89bc-4ec6f44f8564</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Discount</name>
+   <tag></tag>
+   <elementGuidId>79cec261-1fe7-49d8-acb1-9a1f7c390b14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div/div/div[2]/div/div[2]/div/div/div[6]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(6) > span.d-inline-block</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7fe9e705-4abb-4424-bcbe-87139c6705ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-inline-block</value>
+      <webElementGuid>a41c2a36-e929-4cb0-8d8c-3895b3cbf670</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Discount:</value>
+      <webElementGuid>75213a2c-802c-4859-8b2a-c6bd15be1db5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;customer-order-detail&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 border-top pt-2&quot;]/div[1]/div[6]/span[@class=&quot;d-inline-block&quot;]</value>
+      <webElementGuid>825681db-7ad4-4deb-ba5f-d2c678a29beb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div/div/div[2]/div/div[2]/div/div/div[6]/span</value>
+      <webElementGuid>a8d84fd8-394f-4e49-bad0-1ab6b1734cc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.0.00'])[1]/following::span[1]</value>
+      <webElementGuid>4ae52ba8-f8a4-482e-a67a-e44e9547557c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax:'])[3]/following::span[1]</value>
+      <webElementGuid>ca7d9f12-c72a-4cf3-bf5d-7fb3cdc103c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.0.00'])[2]/preceding::span[1]</value>
+      <webElementGuid>82a50743-1550-4474-a1a7-8301c382b1d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping fee:'])[1]/preceding::span[1]</value>
+      <webElementGuid>b7d44e3a-f5a7-485c-8f38-719450690e3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Discount:']/parent::*</value>
+      <webElementGuid>c2a4dfea-0981-41b7-beca-cadf544b6958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/span</value>
+      <webElementGuid>44c21d82-cd00-4aef-947e-7baef27c615e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Discount:' or . = 'Discount:')]</value>
+      <webElementGuid>b8449ba8-8e4c-469e-8bc1-1cd2d02f4007</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should not able to allow to compare different type of category products</description>
+   <name>CompareFunctionality_26</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>0813e66c-4f44-4a2c-9b37-bfa5237c63de</testCaseGuid>
+</TestCaseEntity>

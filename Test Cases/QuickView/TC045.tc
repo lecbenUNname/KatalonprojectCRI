@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>when the user closes the eye icon within the pop-up, it should closes correctly.</description>
+   <name>TC045</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>fa6ff57e-cf05-4be0-bf89-03e2e848d7c2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to clicking on &quot;check box&quot; for multiple &quot;By category&quot; filter it should show the Categorys which is selected in &quot;By category&quot; filter</description>
+   <name>Filters_11</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>9f83bc8e-27a8-4760-92b3-1755f219d5f8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Submit Review</name>
+   <tag></tag>
+   <elementGuidId>e499f153-6c02-4827-9a9e-ec78baf6d6a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.button-contactForm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a112850d-8a64-4d34-9beb-170d1a7741d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>b61351e0-69b4-4252-a9c7-beb277a6ecc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button-contactForm</value>
+      <webElementGuid>d22d030c-5c0d-496f-84ef-a7a046c70b40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit Review</value>
+      <webElementGuid>cead972d-4cc3-419a-b078-27b8a058c9d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Reviews&quot;)/div[@class=&quot;comment-form&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-8 col-md-12&quot;]/form[@class=&quot;form-contact comment_form form-review-product&quot;]/div[@class=&quot;form-group&quot;]/button[@class=&quot;button button-contactForm&quot;]</value>
+      <webElementGuid>d1d3ce9d-d62b-4760-9a5a-0063506aaec4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[4]</value>
+      <webElementGuid>d68368e7-a20e-464d-bade-16d754587c0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Reviews']/div[2]/div[2]/div/form/div[4]/button</value>
+      <webElementGuid>368833e1-c0bc-47ed-b95b-41006be856bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You can upload up to 6 photos, each photo maximum size is 2048 kilobytes'])[1]/following::button[1]</value>
+      <webElementGuid>b7fbdd85-2cfd-4463-b08d-a680977a40a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality'])[1]/following::button[1]</value>
+      <webElementGuid>d8658ac8-8c22-4ce5-8320-1901f0460df6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Related products'])[1]/preceding::button[1]</value>
+      <webElementGuid>7a74b1d3-e0b6-40c0-abeb-3d5ef65cb51c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TESTTTTTTT'])[1]/preceding::button[1]</value>
+      <webElementGuid>ec901f43-6a22-411b-b1f7-b7bac81febca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submit Review']/parent::*</value>
+      <webElementGuid>a65dcc69-ed2f-4a0a-b7ed-8c1fab103d53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>ddc05de6-da78-4744-a4db-54b6602f2f75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Submit Review' or . = 'Submit Review')]</value>
+      <webElementGuid>045e2c7d-99cf-4300-884b-65bf87a07298</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

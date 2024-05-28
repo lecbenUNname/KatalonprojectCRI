@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_All Categories_default-img</name>
+   <tag></tag>
+   <elementGuidId>94e9403d-cbaf-401d-84a3-a1e6c25f1f3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.default-img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>97c254e2-28fc-424b-98a5-269e07553c6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>default-img</value>
+      <webElementGuid>6fea9a1d-7bd9-49ec-80b5-25776b084d04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/storage/products/4-161-400x400.jpg</value>
+      <webElementGuid>24c3699e-7466-45c5-9df4-db7b9a428735</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Retro Typewriter Keyboard, 7KEYS Electric Typewriter Vintage with Upgraded Mechanical Bluetooth 5.0, Multi Devices Connection Classical, Punk Round Ke</value>
+      <webElementGuid>2e04502c-738d-4348-8136-5b3e92596cfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header-area header-style-1 header-height-2&quot;]/div[@class=&quot;header-middle header-middle-ptb-1 d-none d-lg-block&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;header-wrap&quot;]/div[@class=&quot;header-right&quot;]/div[@class=&quot;search-style-2&quot;]/form[@class=&quot;form--quick-search&quot;]/div[@class=&quot;panel--search-result active&quot;]/div[@class=&quot;panel__content&quot;]/div[@class=&quot;row py-2 mx-0&quot;]/div[@class=&quot;col-12 px-1 px-md-2 py-1 product-cart-wrap border-0 rounded-0&quot;]/div[@class=&quot;row mx-md-2 gx-md-2 gx-1&quot;]/div[@class=&quot;col-xl-2 col-3 product-img-action-wrap mb-0&quot;]/div[@class=&quot;product-img product-img-zoom&quot;]/a[1]/img[@class=&quot;default-img&quot;]</value>
+      <webElementGuid>474bafbc-f29c-4785-b6f2-e211b70d553e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Retro Typewriter Keyboard, 7KEYS Electric Typewriter Vintage with Upgraded Mechanical Bluetooth 5.0, Multi Devices Connection Classical, Punk Round Ke']</value>
+      <webElementGuid>88a8f767-2717-45b5-a109-a0742ecd439c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/a/img</value>
+      <webElementGuid>0e2fa1d0-059a-42c1-9e01-4006a83ecd1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://crazystylezs.com/storage/products/4-161-400x400.jpg' and @alt = 'Retro Typewriter Keyboard, 7KEYS Electric Typewriter Vintage with Upgraded Mechanical Bluetooth 5.0, Multi Devices Connection Classical, Punk Round Ke']</value>
+      <webElementGuid>b509f53f-86ca-4f88-9607-37165d8871fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

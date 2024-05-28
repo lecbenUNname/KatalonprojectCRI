@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should able to view the  &quot;By Color&quot; filter is available on the product listing page</description>
+   <name>Filters_47</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>28c8a152-c87c-4c9a-ad26-c609a62eed8a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Faq</name>
+   <tag></tag>
+   <elementGuidId>811cfbbd-ccf4-472c-9fa1-270de9bcb2d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.footer-list.wow.fadeIn.animated.mb-sm-5.mb-md-0.animated > li:nth-of-type(4) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>47e88613-734c-4669-b696-d7bd8e6ad533</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/faq</value>
+      <webElementGuid>593e0e1c-4093-4ed5-99c7-26fa2691132c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                 Faq
+            </value>
+      <webElementGuid>2be06100-e3b7-4489-97c4-d464b2f99d69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[@class=&quot;main&quot;]/section[@class=&quot;section-padding footer-mid&quot;]/div[@class=&quot;container pt-15 pb-20&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;footer-link-widget col wow animate__ animate__fadeInUp animated&quot;]/ul[@class=&quot;footer-list mb-sm-5 mb-md-0&quot;]/ul[@class=&quot;footer-list wow fadeIn animated mb-sm-5 mb-md-0 animated&quot;]/li[4]/a[1]</value>
+      <webElementGuid>3764ad21-d100-4a6e-b076-018f3f4715a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://crazystylezs.com/faq')])[3]</value>
+      <webElementGuid>319a17b9-b7c1-4a5f-b45f-86a7e15ebd21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/ul/li[4]/a</value>
+      <webElementGuid>d39d2a89-ebaf-4107-afe1-4446c5e2ba1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://crazystylezs.com/faq' and (text() = '
+                 Faq
+            ' or . = '
+                 Faq
+            ')]</value>
+      <webElementGuid>bae51d3a-4054-42c0-808e-cb2e9c0bd6b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

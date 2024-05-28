@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The list view of products in the wishlist page should be the latest to previously added products.</description>
+   <name>TC23</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>df3d707e-4c3a-40ef-820a-ecef23009d77</testCaseGuid>
+</TestCaseEntity>

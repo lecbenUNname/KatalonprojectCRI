@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User not able to open the profile page when the user does not login.</description>
+   <name>TC39</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cda7c28f-2f75-4173-aca9-1a4f174322a9</testCaseGuid>
+</TestCaseEntity>

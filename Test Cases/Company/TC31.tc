@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The field alert should came like&quot;invalid Email&quot; when entering the invalid mail and clicking the register button</description>
+   <name>TC31</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>f18f76cb-64dd-47ed-b971-c989d9b45c6e</testCaseGuid>
+</TestCaseEntity>

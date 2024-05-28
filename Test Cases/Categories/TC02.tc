@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To confirm if the user should scroll down on the CrazyStylez homepage</description>
+   <name>TC02</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>fabe4f8c-18c0-4a5a-8d2d-f41616b3b0bb</testCaseGuid>
+</TestCaseEntity>

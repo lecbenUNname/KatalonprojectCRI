@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should able to view the &quot;Brand filter&quot; count should be changed while changing the Size  in the By size filter</description>
+   <name>Filters_27</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>27cc830b-343b-4054-a28f-db789e260554</testCaseGuid>
+</TestCaseEntity>

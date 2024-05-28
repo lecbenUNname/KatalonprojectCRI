@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;wishlist page should have the product, price, stock status, Action and Remove when the user visits the wishlist page</description>
+   <name>TC08</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>a175d5ad-2fad-4b24-a6a1-56e6d7f03708</testCaseGuid>
+</TestCaseEntity>

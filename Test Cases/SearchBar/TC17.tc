@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The search results page should open, displaying all search results related to the entered query.The user should be taken to a new page with a full list of search results that match the search query.</description>
+   <name>TC17</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>41ddb8de-1595-4d3e-8199-8fa25c7df4ea</testCaseGuid>
+</TestCaseEntity>

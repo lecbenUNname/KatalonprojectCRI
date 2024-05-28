@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Customer reviews</name>
+   <tag></tag>
+   <elementGuidId>a0d343b9-9a64-4fd6-9a15-b4862be1840c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Reviews']/div[2]/div/div[2]/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-lg-4 > h4.mb-30</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>f4efb4ab-d833-41e3-814c-fa269c71dc0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-30</value>
+      <webElementGuid>8a870824-0b19-4d3d-89fd-d8362d5dc8ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Customer reviews</value>
+      <webElementGuid>3b629b62-e14b-473e-a803-47c8ae418574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Reviews&quot;)/div[@class=&quot;comments-area&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4&quot;]/h4[@class=&quot;mb-30&quot;]</value>
+      <webElementGuid>bc4f4f39-bb9b-4941-98ee-bc45cd0d4d61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Reviews']/div[2]/div/div[2]/h4</value>
+      <webElementGuid>68211ab7-b199-4d4b-a3b0-b13d04c654c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='»'])[1]/following::h4[1]</value>
+      <webElementGuid>86ccac78-9f02-4e40-955a-d9aa7494db0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='«'])[1]/following::h4[1]</value>
+      <webElementGuid>ac89dea3-80cc-4ce8-a5f1-d07426e162d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add a review'])[1]/preceding::h4[1]</value>
+      <webElementGuid>fc2b7a2b-6e6a-4873-ad82-bc3d3b973429</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality'])[1]/preceding::h4[2]</value>
+      <webElementGuid>d4a7f250-17eb-4b1b-b011-aca88742a33c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Customer reviews']/parent::*</value>
+      <webElementGuid>c3af0f37-5224-4ecd-9ef6-ea70b2b42738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h4</value>
+      <webElementGuid>4d83a118-5c25-4950-82c6-8caa21cbc97f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Customer reviews' or . = 'Customer reviews')]</value>
+      <webElementGuid>46c3cdaf-e852-41bd-897b-5f36c449d63d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

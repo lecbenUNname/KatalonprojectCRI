@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Returns  Refund Policy</name>
+   <tag></tag>
+   <elementGuidId>2a1e715a-5dbc-4076-8a83-05f56d6e91e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.breadcrumb-item.d-inline-block.active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7fae82a1-4f1a-4cb3-97dd-533b816fdffc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemprop</name>
+      <type>Main</type>
+      <value>itemListElement</value>
+      <webElementGuid>c9f49e7d-d653-4ee4-99b9-81351d0c9589</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemscope</name>
+      <type>Main</type>
+      <value>itemscope</value>
+      <webElementGuid>b5c26785-962e-4398-970c-6b54026bff97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemtype</name>
+      <type>Main</type>
+      <value>http://schema.org/ListItem</value>
+      <webElementGuid>319d76d2-ea7f-45a6-8e1c-28c77a6a9264</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>breadcrumb-item d-inline-block active</value>
+      <webElementGuid>ca3cfa71-d795-41f3-b902-f405d47b4969</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Returns &amp; Refund Policy
+                              </value>
+      <webElementGuid>b8471aea-8a79-4adc-ab38-87c9a289f8ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;page-header breadcrumb-wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;breadcrumb&quot;]/div[@class=&quot;breadcrumb-item d-inline-block active&quot;]</value>
+      <webElementGuid>2de2f2c9-e2ea-423b-a8b3-91c9f6a0a270</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div/div/div/div[2]</value>
+      <webElementGuid>4b49be04-ec7a-49fc-aea4-2a027191b1b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div[2]</value>
+      <webElementGuid>77673019-f48b-4982-9149-23b8fb9c1959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                                Returns &amp; Refund Policy
+                              ' or . = '
+                                Returns &amp; Refund Policy
+                              ')]</value>
+      <webElementGuid>3ca4c531-b666-42fb-b433-a12e543b2ad9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

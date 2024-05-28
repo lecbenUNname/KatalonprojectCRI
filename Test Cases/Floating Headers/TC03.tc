@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>All headers should be highlighted when the user mouse over on the headers</description>
+   <name>TC03</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>21a7e12b-8988-4422-b611-fc1efeb30969</testCaseGuid>
+</TestCaseEntity>

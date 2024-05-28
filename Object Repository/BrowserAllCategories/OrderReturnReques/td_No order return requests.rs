@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_No order return requests</name>
+   <tag></tag>
+   <elementGuidId>5b4829b4-4b30-4cbc-8e82-26ca74e1e177</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div/div[2]/div/table/tbody/tr/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>81ee5d06-4114-4bc2-867b-4aef15d18037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>5b3e54e9-6ca7-4ec9-a9a8-c418f2c708a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center</value>
+      <webElementGuid>2d2ed5cd-1bf1-4549-812d-e7ccb1c6f943</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No order return requests!</value>
+      <webElementGuid>0b589d6b-394b-403e-85d0-26e1c728f1c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;section-content&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-striped&quot;]/tbody[1]/tr[1]/td[@class=&quot;text-center&quot;]</value>
+      <webElementGuid>dc709ae8-fda3-4dd7-9db5-c5683ee6bf8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div/div[2]/div/table/tbody/tr/td</value>
+      <webElementGuid>5aba5cd4-db19-4dcb-8b9c-3cdfde8e5f22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::td[1]</value>
+      <webElementGuid>b02c8e40-82f8-407a-bd70-7f039675fd91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::td[1]</value>
+      <webElementGuid>703c54f4-ceb8-47e6-9384-412d4d792375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe'])[1]/preceding::td[1]</value>
+      <webElementGuid>eb7423e2-0e57-4b17-a7a0-bca0efebdec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Super Secure Payment'])[1]/preceding::td[1]</value>
+      <webElementGuid>8187f467-dbef-4ff7-b999-2687b1c7f15a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No order return requests!']/parent::*</value>
+      <webElementGuid>50985ffe-d2a2-409c-b561-16b7b91f5a75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>4598103a-42d2-40da-bc8a-85286b2c3c02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'No order return requests!' or . = 'No order return requests!')]</value>
+      <webElementGuid>f330a6d6-68c1-4009-8ab6-2e60f6060a3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

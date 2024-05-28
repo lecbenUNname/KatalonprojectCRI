@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Under the product carousel image, the total count of images should be displayed, and upon clicking the right and left arrows, the count should appropriately increase and decrease, enhancing the user experience.</description>
+   <name>TC012</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>68d126b8-cf8c-4bba-8630-2e37a30dc709</testCaseGuid>
+</TestCaseEntity>

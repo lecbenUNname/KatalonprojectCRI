@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Upon clicking the Quick View icon, a popup should be triggered, displaying the details of the product.</description>
+   <name>TC003</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>4ff497e8-60e6-4628-b080-fffe106373d6</testCaseGuid>
+</TestCaseEntity>

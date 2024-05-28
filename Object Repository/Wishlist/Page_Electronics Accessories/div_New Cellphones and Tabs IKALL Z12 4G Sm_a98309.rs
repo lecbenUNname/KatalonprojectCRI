@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_New Cellphones and Tabs IKALL Z12 4G Sm_a98309</name>
+   <tag></tag>
+   <elementGuidId>bfe9849f-c7e4-41e3-b4e3-94b71d300290</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[8]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2ccdf647-d7a5-4e59-9e75-db11a25461c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-cart-wrap mb-30</value>
+      <webElementGuid>7a7a19cc-85df-4f22-a4d5-346e4f8710cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>     New Cellphones and Tabs IKALL Z12 4G Smartphone with 4GB RAM, 64 Internal Memory (6.53 Inch HD+ Display) (SkyBlue) Rs.7,499.00  Add</value>
+      <webElementGuid>a62b87dd-e7ea-4c60-97ce-1fa7b2440bbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;row product-grid&quot;]/div[@class=&quot;col-xxl-3 col-xl-3 col-lg-4 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]</value>
+      <webElementGuid>e9007b7d-cd16-4218-98ef-d337748427c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[8]/div</value>
+      <webElementGuid>128b32ad-7396-407e-917c-10e534338f94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[7]/following::div[2]</value>
+      <webElementGuid>3960daa7-a8ad-47bd-ba7d-149db725c7ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.654.00'])[1]/following::div[3]</value>
+      <webElementGuid>f31579c1-5029-48a4-b428-66bc2e446326</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div</value>
+      <webElementGuid>fd0b5f91-f500-4a42-96bc-4785dd3a1b04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '     New Cellphones and Tabs IKALL Z12 4G Smartphone with 4GB RAM, 64 Internal Memory (6.53 Inch HD+ Display) (SkyBlue) Rs.7,499.00  Add' or . = '     New Cellphones and Tabs IKALL Z12 4G Smartphone with 4GB RAM, 64 Internal Memory (6.53 Inch HD+ Display) (SkyBlue) Rs.7,499.00  Add')]</value>
+      <webElementGuid>2ba43364-2f71-4578-8f10-143cdb6be73b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

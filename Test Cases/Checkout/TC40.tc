@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>City text field should accept alphabets.</description>
+   <name>TC40</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>4beb3664-203d-4d36-acb4-a480edeeb38a</testCaseGuid>
+</TestCaseEntity>

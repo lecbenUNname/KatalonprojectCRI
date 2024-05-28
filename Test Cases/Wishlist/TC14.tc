@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The product count should show on the wishlist icon, which is placed in the primary header.</description>
+   <name>TC14</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>fa0f3cac-1d94-43f8-a6c0-5ac0b3bb2439</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to close the carousel view when clicking the ESC button in keyboard.</description>
+   <name>TC011</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e9cd4b27-132e-464c-8a5e-b286de69f29e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view &quot;Order Return Request Tab&quot; displays ID number, Date, Status, Act</description>
+   <name>TC03</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>9c2719b8-3aff-493a-98f0-896c6c9c573a</testCaseGuid>
+</TestCaseEntity>

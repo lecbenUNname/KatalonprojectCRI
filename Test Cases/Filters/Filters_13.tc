@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The 'Filter' menu should display an 'Active' status indicator after selecting any filter option.</description>
+   <name>Filters_13</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>1ee13e57-ea8c-46f5-a710-6ce29a6846dd</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;Name&quot; field should not accept blank spaces on the contact us page</description>
+   <name>TC19 BUG</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>99cc859a-fa53-4f88-8d32-c1ac17b4916f</testCaseGuid>
+</TestCaseEntity>

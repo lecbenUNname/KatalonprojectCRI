@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Users should be able to view the profile page button should be located in the top right corner of the header</description>
+   <name>TC01</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>fb6dbd94-e041-4fcb-b791-01bac228042b</testCaseGuid>
+</TestCaseEntity>

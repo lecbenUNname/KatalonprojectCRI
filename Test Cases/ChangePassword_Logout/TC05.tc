@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Star symbol should show for all the password text fields, Because Its required field.</description>
+   <name>TC05</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d33c2a10-f2e7-48d7-8663-28210edf843d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Return Item shows image, product information and quantity</description>
+   <name>TC10</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b810cf81-1ec7-4f8c-86ff-7d40b34eeaa9</testCaseGuid>
+</TestCaseEntity>

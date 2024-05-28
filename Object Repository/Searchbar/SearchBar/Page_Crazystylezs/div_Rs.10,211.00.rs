@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rs.10,211.00</name>
+   <tag></tag>
+   <elementGuidId>79c91916-e698-4e56-b3bb-aa43d30e6ad3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.2,200.00'])[1]/following::div[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b00c547f-0cc8-432e-ac65-636def197745</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-price</value>
+      <webElementGuid>28e40d6a-837b-466b-9ea9-333c66873fc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Rs.10,211.00
+                                                            </value>
+      <webElementGuid>c6607dae-4c40-441d-8252-49c5cd9d0031</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header-area header-style-1 header-height-2&quot;]/div[@class=&quot;header-middle header-middle-ptb-1 d-none d-lg-block&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;header-wrap&quot;]/div[@class=&quot;header-right&quot;]/div[@class=&quot;search-style-2&quot;]/form[@class=&quot;form--quick-search&quot;]/div[@class=&quot;panel--search-result active&quot;]/div[@class=&quot;panel__content&quot;]/div[@class=&quot;row py-2 mx-0&quot;]/div[@class=&quot;col-12 px-1 px-md-2 py-1 product-cart-wrap border-0 rounded-0&quot;]/div[@class=&quot;row mx-md-2 gx-md-2 gx-1&quot;]/div[@class=&quot;col-xl-10 col-9 product__content&quot;]/div[@class=&quot;product-content-wrap px-1 px-md-3&quot;]/div[@class=&quot;product-price&quot;]</value>
+      <webElementGuid>a9bcbfba-4a13-43b8-bbc1-2d48df3b9e1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.2,200.00'])[1]/following::div[7]</value>
+      <webElementGuid>f755914b-8905-4dd8-ad02-c296d4806689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.2,199.00'])[2]/following::div[14]</value>
+      <webElementGuid>c36aad8f-50a8-4645-a6a8-807585ef8c13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Load more'])[1]/preceding::div[1]</value>
+      <webElementGuid>dbbeb2be-5fe3-4d97-9435-2fa4956a727a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div[12]/div/div[2]/div/div</value>
+      <webElementGuid>a834169b-ad64-4844-be18-251765f56ca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                                Rs.10,211.00
+                                                            ' or . = '
+                                Rs.10,211.00
+                                                            ')]</value>
+      <webElementGuid>3b1a9162-dea6-4d7a-bbd1-b4e98289d8b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

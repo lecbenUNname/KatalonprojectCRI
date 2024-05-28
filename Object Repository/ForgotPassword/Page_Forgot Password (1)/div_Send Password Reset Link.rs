@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Send Password Reset Link</name>
+   <tag></tag>
+   <elementGuidId>2e24bc4c-ec04-4692-9391-9d5c95b8e200</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>form.form--auth.form--login > div.form-group</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/section/div/div/div/div/div/form/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>062c196c-d6b5-47b7-b61b-44c179515430</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-group</value>
+      <webElementGuid>eb513f1e-7b40-4ef4-ad65-eb90e6304cbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Send Password Reset Link</value>
+      <webElementGuid>05374c3e-a261-48e1-901b-4eb939c9d0cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/section[@class=&quot;pt-100 pb-100&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 m-auto&quot;]/div[@class=&quot;login_wrap widget-taber-content p-30 background-white border-radius-10&quot;]/div[@class=&quot;padding_eight_all bg-white&quot;]/form[@class=&quot;form--auth form--login&quot;]/div[@class=&quot;form-group&quot;]</value>
+      <webElementGuid>d6dbaf62-86a6-41fd-8b0e-9b79bc3083a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/section/div/div/div/div/div/form/div[2]</value>
+      <webElementGuid>abdf98cd-494a-4cc5-b07c-e698bd8a602d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/following::div[1]</value>
+      <webElementGuid>5f58b61a-a6a7-47dc-923d-44c1d023cd2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Password'])[1]/following::div[3]</value>
+      <webElementGuid>6276756d-ef04-4691-a841-4cf95e705115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe'])[1]/preceding::div[1]</value>
+      <webElementGuid>fe677a7a-67d8-4957-bc42-40b11b3cc0c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/div/form/div[2]</value>
+      <webElementGuid>4ac514bc-584c-4eac-82d2-aca33e40d7b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Send Password Reset Link' or . = 'Send Password Reset Link')]</value>
+      <webElementGuid>5a979cc4-6b3a-46be-b3a9-5be4811256ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

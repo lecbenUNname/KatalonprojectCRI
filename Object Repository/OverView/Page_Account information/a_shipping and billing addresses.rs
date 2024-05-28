@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_shipping and billing addresses</name>
+   <tag></tag>
+   <elementGuidId>a174b4ed-3df1-47c2-a6a0-0f16d9954ca9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div/div/div[2]/p/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p > a:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>43dc616d-09ba-429e-95a4-0456afe64814</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/customer/address</value>
+      <webElementGuid>9946fed6-2bf4-4505-972c-b690720bdab2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>shipping and billing addresses</value>
+      <webElementGuid>ebad506d-2f59-41ca-b42d-dfe6200bc351</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/p[1]/a[2]</value>
+      <webElementGuid>34199ec4-734d-4ca9-a057-2ff8e9d18659</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div/div/div[2]/p/a[2]</value>
+      <webElementGuid>9585d562-0948-4e90-9937-1e9f8957b077</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'shipping and billing addresses')]</value>
+      <webElementGuid>38879772-c758-4813-bfee-49e82b1bfb46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='recent orders'])[1]/following::a[1]</value>
+      <webElementGuid>474023b1-d07f-4ff8-92a4-cbffa91680bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hello Rick willson!'])[1]/following::a[2]</value>
+      <webElementGuid>e0258fc8-25b7-45da-90eb-b5d326451add</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='edit your password and account details.'])[1]/preceding::a[1]</value>
+      <webElementGuid>4e73adec-e96b-47dc-b150-07c9c1dc1875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe'])[1]/preceding::a[2]</value>
+      <webElementGuid>b811fadd-7fca-4097-8cbb-95c581620c89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='shipping and billing addresses']/parent::*</value>
+      <webElementGuid>0b65d994-dd37-4266-b77b-79c5d9e1ee62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://crazystylezs.com/customer/address')])[2]</value>
+      <webElementGuid>f3a0cb24-7043-49e8-94c2-5f8fc724d38c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a[2]</value>
+      <webElementGuid>17129928-7288-4a7d-9888-5d929de715e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://crazystylezs.com/customer/address' and (text() = 'shipping and billing addresses' or . = 'shipping and billing addresses')]</value>
+      <webElementGuid>85cd4f10-7d96-4367-9fa0-92151f584d18</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

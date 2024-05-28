@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When an incorrect file format for an image is selected and the user clicks the save button, a warning message should be displayed.</description>
+   <name>TC11</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff6eafa5-30c2-481b-8e3f-db675b1ec8d5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should able to view the &quot;Tags filter&quot; count should be changed while changing the Clour in the By colour filter</description>
+   <name>Filters_43</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>295e252f-3a96-4efd-b60c-2a54ce0b61a6</testCaseGuid>
+</TestCaseEntity>

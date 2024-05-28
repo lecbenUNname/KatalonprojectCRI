@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;Blog&quot; hyperlink should be  clickable and correctly navigates to the Blog page</description>
+   <name>TC13</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>051a8262-7c61-460d-8f26-79b06475a3b7</testCaseGuid>
+</TestCaseEntity>

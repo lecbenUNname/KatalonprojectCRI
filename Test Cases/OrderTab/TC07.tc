@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view &quot;Order informations&quot; displays Order number, Order status, Payment method, Payment status</description>
+   <name>TC07</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>0951b314-26d9-4cf4-9708-926d69d9a480</testCaseGuid>
+</TestCaseEntity>

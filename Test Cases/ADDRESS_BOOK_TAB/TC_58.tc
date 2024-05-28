@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Users should be able to click the &quot;Add a new address&quot; button, then the address should saved and a confirmation toaster message shows &quot;Created sucessfully&quot;.</description>
+   <name>TC_58</name>
+   <tag>Regression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>d44a7744-a449-49b8-82d6-5b2c9985df73</testCaseGuid>
+</TestCaseEntity>

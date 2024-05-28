@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_10000529</name>
+   <tag></tag>
+   <elementGuidId>c16542fc-cf6d-4be4-89e6-0898509aee94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tbody > tr > th:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div/div[2]/div/table/tbody/tr/th[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>7338934f-b523-4845-a0b5-27e169bfb6b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scope</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>10deecf4-3ff8-4965-8b8b-d69a463568c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>#10000529</value>
+      <webElementGuid>74e71e47-fb6f-448b-97bd-8be91155e661</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;section-content&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-striped&quot;]/tbody[1]/tr[1]/th[2]</value>
+      <webElementGuid>78c56672-4245-46c7-a50f-56eea1497755</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div/div[2]/div/table/tbody/tr/th[2]</value>
+      <webElementGuid>4f441eff-17f5-4986-9334-174b937ce23c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#10000009'])[1]/following::th[1]</value>
+      <webElementGuid>466b55fe-353a-49ec-9fe1-0c087f0d40b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::th[2]</value>
+      <webElementGuid>d458dc7e-e033-433a-83e8-9be622519b01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oct 13, 2023 04:10'])[1]/preceding::th[2]</value>
+      <webElementGuid>bc6d0863-7a9a-43d7-83b7-82702f83c1b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody/tr/th[2]</value>
+      <webElementGuid>3bb8c7bb-3959-4b16-b9b8-a43032f36d96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = '#10000529' or . = '#10000529')]</value>
+      <webElementGuid>996e66ee-7870-4402-9d5f-7cbbeb4555ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

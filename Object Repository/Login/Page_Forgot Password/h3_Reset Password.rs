@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Reset Password</name>
+   <tag></tag>
+   <elementGuidId>bb1fa7b1-2905-4318-8dc4-d5fab5f22386</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.mb-30</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/section/div/div/div/div/div/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>13230ecf-551d-42d9-92a8-31a73c84d107</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-30</value>
+      <webElementGuid>d5426e74-0da1-437e-9859-4ea1b380ed1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reset Password</value>
+      <webElementGuid>bc4c5a5b-6d1e-48c3-a3ab-37e8915d9bb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/section[@class=&quot;pt-100 pb-100&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 m-auto&quot;]/div[@class=&quot;login_wrap widget-taber-content p-30 background-white border-radius-10&quot;]/div[@class=&quot;padding_eight_all bg-white&quot;]/div[@class=&quot;heading_s1 mb-20&quot;]/h3[@class=&quot;mb-30&quot;]</value>
+      <webElementGuid>9e320dc1-d78f-477c-bdae-d2e3ec059a28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/section/div/div/div/div/div/div/h3</value>
+      <webElementGuid>6a176679-bbbd-44b0-bc8f-b495f3176d64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/following::h3[1]</value>
+      <webElementGuid>e181cd92-3bb5-42b2-9f0e-4a6ed54867e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::h3[1]</value>
+      <webElementGuid>79c46095-2253-4d8b-b0ce-c98addfc46f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/preceding::h3[1]</value>
+      <webElementGuid>715bfe44-426c-4af0-8d86-0017d9361101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send Password Reset Link'])[1]/preceding::h3[1]</value>
+      <webElementGuid>fbee2c58-d12c-42a5-b880-f4246e7b3474</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reset Password']/parent::*</value>
+      <webElementGuid>39222ca7-e3fd-4593-8155-6a0f18348187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>8f6d464d-cc9e-405d-89b5-48bd923479ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Reset Password' or . = 'Reset Password')]</value>
+      <webElementGuid>62a01dd6-679a-4317-98b9-31f916e65c4d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

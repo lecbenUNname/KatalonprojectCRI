@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Traditional Wear Lehanga CholiMaxi DressSarees</name>
+   <tag></tag>
+   <elementGuidId>7a4ca1da-b96a-478a-acd8-a5e4da2bb612</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div/section[4]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.heading-tab.d-flex</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d04d0ad0-5925-4234-82db-b52ec96a1050</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>heading-tab d-flex</value>
+      <webElementGuid>29f9e3d1-e1bd-4cb6-836c-87aebce014d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Traditional Wear Lehanga CholiMaxi DressSarees</value>
+      <webElementGuid>da9728dc-5663-49d8-bf36-7ed1cc645c4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;ck-content&quot;]/section[@class=&quot;bg-grey-9 section-padding-60&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;heading-tab d-flex&quot;]</value>
+      <webElementGuid>8e161877-712a-40a3-b084-4169d868f506</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div/section[4]/div/div</value>
+      <webElementGuid>6bf6e602-e3a0-4408-8120-93cd7874f980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop now'])[4]/following::div[2]</value>
+      <webElementGuid>40353abe-873d-42ac-8cfc-f275c7d054fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop now'])[3]/following::div[5]</value>
+      <webElementGuid>4b897659-ab77-4253-8e52-cefd9f30b83d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]/div/div</value>
+      <webElementGuid>7ecb3f58-3235-4156-b764-0b60d57a69fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Traditional Wear Lehanga CholiMaxi DressSarees' or . = 'Traditional Wear Lehanga CholiMaxi DressSarees')]</value>
+      <webElementGuid>d3014830-d773-43af-ad69-a6a7f9f7b37c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

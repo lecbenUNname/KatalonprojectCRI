@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Myshopping</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.myshopings.in/'</initValue>
+      <name>Url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'rickwillson25@gmail.com'</initValue>
+      <name>UserName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'12345@aA'</initValue>
+      <name>Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>1100</initValue>
+      <name>HomePageScrollToPosition</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>1150</initValue>
+      <name>CheckoutHomePageScrollToPos</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'sharmaragav801@gmail.com'</initValue>
+      <name>UserName2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'sharmaragav801'</initValue>
+      <name>Password2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Test 01'</initValue>
+      <name>QVimgSrch</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'bag'</initValue>
+      <name>QVimgSrch2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Disney Mickey Mouse Bluetooth Earbuds'</initValue>
+      <name>WLsrchProd</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>0.15</initValue>
+      <name>CPLTax</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'The Lifestyle Co x Discovery Adventures Unisex Navy Blue Brand Logo Print Duffel Bag'</initValue>
+      <name>CartTestingPrd</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'test 01'</initValue>
+      <name>CartTestingPrd2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Test 01'</initValue>
+      <name>Product_Page_LayoutSearchTestPro1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Test 01'</initValue>
+      <name>Product_Page_LayoutSearchTestPro2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Electronics'</initValue>
+      <name>Drpdwncat</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>CheckoutSearchProduct</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;breadcrumb&quot; highlights the Returns &amp; Refund policy when the user clicks the Returns &amp; Refund policy hyperlink</description>
+   <name>TC12</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>9d7fc664-1548-4c81-9598-cd3e161d0c2a</testCaseGuid>
+</TestCaseEntity>

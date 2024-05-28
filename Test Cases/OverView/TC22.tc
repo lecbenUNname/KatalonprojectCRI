@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Page layout, UI design, Font size should align properly for Overview.</description>
+   <name>TC22</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>5763b5f9-67b5-4344-b723-1bbed1cb97cd</testCaseGuid>
+</TestCaseEntity>

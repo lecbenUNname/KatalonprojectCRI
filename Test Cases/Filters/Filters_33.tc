@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User shoud be able to view the counts of the each &quot;Tag&quot;, the count is mentioned in the rightend side with curly bracket</description>
+   <name>Filters_33</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>219b3983-120f-4e20-8036-75d06c6e12be</testCaseGuid>
+</TestCaseEntity>

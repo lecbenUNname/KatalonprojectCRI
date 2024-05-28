@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_fi-rs-arrow-small-up</name>
+   <tag></tag>
+   <elementGuidId>8a859879-ef75-4cf4-84e0-1153c0ffc1f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav/ul/li/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.menu-icon.fi-rs-home</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>68193c91-71a5-4cc9-bdc6-1a3f355bc0fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-icon fi-rs-home</value>
+      <webElementGuid>2ee1d99b-2d7f-4d45-a863-2e3912227db0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header-area header-style-1 header-height-2&quot;]/div[@class=&quot;header-bottom header-bottom-bg-color  sticky-bar&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;header-wrap header-space-between position-relative&quot;]/div[@class=&quot;header-nav d-none d-lg-flex&quot;]/div[@class=&quot;main-menu main-menu-padding-1 main-menu-lh-2 d-none d-lg-block font-heading&quot;]/nav[1]/ul[1]/li[1]/a[@class=&quot;active&quot;]/i[@class=&quot;menu-icon fi-rs-home&quot;]</value>
+      <webElementGuid>a35a7c0e-5a24-4184-94e8-e100984c1d85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li/a/i</value>
+      <webElementGuid>ddd37da9-bea1-4b75-96e8-f4ddc1ca4e3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='scrollUp']/i</value>
+      <webElementGuid>3dc703dc-3c53-4b75-9a68-34bf886a315f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/a/i</value>
+      <webElementGuid>14eef607-a507-4e1d-8d0a-1c88e0c979cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

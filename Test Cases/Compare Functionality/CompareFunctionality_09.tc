@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Compare count or compare list should not become zero without removing the products manually</description>
+   <name>CompareFunctionality_09</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>701d88e3-1e25-4365-8c13-40dee352e3ff</testCaseGuid>
+</TestCaseEntity>

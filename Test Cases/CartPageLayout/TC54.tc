@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When within the &quot;Quick view&quot; popup, the user hovers their mouse over the &quot;Add to cart&quot; button, it should initiate a color transition from red to black.</description>
+   <name>TC54</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>ae1aa8dd-c484-4a4f-af55-97e24eba79d0</testCaseGuid>
+</TestCaseEntity>

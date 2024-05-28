@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Clicking the &quot;Update profile&quot; tab located on the profile page successfully redirects the user to the &quot;Profile&quot; page.</description>
+   <name>TC20</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e56b4e3a-bd2c-4b70-9e94-f9c6e416f32b</testCaseGuid>
+</TestCaseEntity>

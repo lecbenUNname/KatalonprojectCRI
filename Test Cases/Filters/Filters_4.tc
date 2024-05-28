@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view the &quot;By Categories&quot; filter is available on the product listing page</description>
+   <name>Filters_4</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b9427e22-e5ce-4c65-8eed-28074fe50874</testCaseGuid>
+</TestCaseEntity>

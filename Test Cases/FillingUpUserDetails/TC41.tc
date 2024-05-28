@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Should accept the user Navigates to the OTP verification page when user Enter valid details and click Register button</description>
+   <name>TC41</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>d14d6e0a-4be4-4241-84b2-88c5e34dd04a</testCaseGuid>
+</TestCaseEntity>

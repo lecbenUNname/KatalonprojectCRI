@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User is able to view the product details page when clicking on the product title which is placed on the cart drop down.</description>
+   <name>TC05</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>abb90faa-cba9-4146-8df7-9ce4915a419c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Full name text field should not accept special character.</description>
+   <name>TC09</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>888e46aa-df33-42aa-92a0-ec82bb2ecc6b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The product header should be clickable and it should be redirected to the product page</description>
+   <name>TC05</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>8ec897db-c4fc-4fa6-aaab-ee96e516e5d9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The review given for a single product should reflect to all the variants.</description>
+   <name>TC14</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>d18fddd6-77c1-42e5-8e7f-cb5eb1ad788b</testCaseGuid>
+</TestCaseEntity>

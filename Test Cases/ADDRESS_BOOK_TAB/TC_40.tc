@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>State text field should not accept Only numbers.</description>
+   <name>TC_40</name>
+   <tag>Regression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>ff6e724c-a7b0-4adc-8a69-8b720999f253</testCaseGuid>
+</TestCaseEntity>

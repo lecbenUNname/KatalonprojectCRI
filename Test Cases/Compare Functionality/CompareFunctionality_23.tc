@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;There are (count) products to compare&quot; message should came in the compare list page. The count should increase and decrease when add or remove the products in the compare list</description>
+   <name>CompareFunctionality_23</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>26e88abc-a19f-486a-8846-bbb5dc76e44c</testCaseGuid>
+</TestCaseEntity>

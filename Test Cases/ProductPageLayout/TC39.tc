@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to change the Quantity increase and decrease by using &quot;^&quot; &quot;˅&quot; buttons</description>
+   <name>TC39</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e62da4ce-aa3d-421d-86cf-527e51e70f39</testCaseGuid>
+</TestCaseEntity>

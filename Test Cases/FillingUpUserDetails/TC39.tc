@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to see the Field alert messages when clicking on the Register button without entering any datas in the text fields.</description>
+   <name>TC39</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>3e01212e-b387-4965-81bd-0cf95ad54e39</testCaseGuid>
+</TestCaseEntity>

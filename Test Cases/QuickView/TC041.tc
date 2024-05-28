@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should add the product to the Compare list when clicking the compare button.</description>
+   <name>TC041</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>9920f5b8-9a0e-495d-82fa-3b75463bf184</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Users can able to see the BOLD header &quot;Specifications:&quot;, and all the specification points are properly aligned and the font should be the same.</description>
+   <name>TC28</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>f2bb4cd5-51c3-47ac-ad04-214f3df7ff19</testCaseGuid>
+</TestCaseEntity>

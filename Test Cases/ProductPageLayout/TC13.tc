@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to view the image carousel when clicking the main product images of the product.</description>
+   <name>TC13</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>f985dc96-d272-4aa9-bb93-e2a4381985d0</testCaseGuid>
+</TestCaseEntity>

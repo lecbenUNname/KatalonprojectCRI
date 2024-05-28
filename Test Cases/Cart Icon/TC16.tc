@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Users are able to redirect to the previous page when the user is in the Cart page.</description>
+   <name>TC16</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e0c6e3f9-68ed-4c94-96ac-67fec808aae0</testCaseGuid>
+</TestCaseEntity>

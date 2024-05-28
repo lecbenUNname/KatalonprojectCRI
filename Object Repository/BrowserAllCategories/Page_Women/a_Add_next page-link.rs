@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add_next page-link</name>
+   <tag></tag>
+   <elementGuidId>bf73f65a-05aa-47dd-a439-915913564d65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.next.page-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[4]/nav/ul/li[10]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>89607580-29c5-4797-a91b-98244379c7ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>next page-link</value>
+      <webElementGuid>d690096f-0a29-4a2a-b712-4d0c0bb05eb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/product-categories/women?categories%5B0%5D=1&amp;categories%5B1%5D=15&amp;categories%5B2%5D=19&amp;sort-by=%22%5C%22%5C%5C%5C%22%5C%5C%5C%5C%5C%5C%5C%22null%5C%5C%5C%5C%5C%5C%5C%22%5C%5C%5C%22%5C%22%22&amp;num=0&amp;_=1711543149840&amp;page=5</value>
+      <webElementGuid>7661bcb1-9583-4e08-b013-b524da43b512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>next</value>
+      <webElementGuid>2e759bd2-1ada-4384-aa96-6f3deb41a14e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;pagination-area mt-20 mb-20 pagination-page&quot;]/nav[1]/ul[@class=&quot;pagination justify-content-start&quot;]/li[@class=&quot;page-item&quot;]/a[@class=&quot;next page-link&quot;]</value>
+      <webElementGuid>75811a89-29b7-4e5f-9f41-1fd5b644242a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[4]/nav/ul/li[10]/a</value>
+      <webElementGuid>e2253669-b39a-4d49-ac93-85a8bb1a6063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[12]/following::a[9]</value>
+      <webElementGuid>651cfaa4-16ad-4733-9d65-0a4878d4ee29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.5,988.00'])[1]/following::a[10]</value>
+      <webElementGuid>c381a66b-ad87-49ba-8666-87211142fa2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe'])[1]/preceding::a[1]</value>
+      <webElementGuid>19ff3d78-ab75-426b-a997-c2b0a3880890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Super Secure Payment'])[1]/preceding::a[1]</value>
+      <webElementGuid>f13adfd3-1a23-44c6-9a92-89e8dbeab064</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://crazystylezs.com/product-categories/women?categories%5B0%5D=1&amp;categories%5B1%5D=15&amp;categories%5B2%5D=19&amp;sort-by=%22%5C%22%5C%5C%5C%22%5C%5C%5C%5C%5C%5C%5C%22null%5C%5C%5C%5C%5C%5C%5C%22%5C%5C%5C%22%5C%22%22&amp;num=0&amp;_=1711543149840&amp;page=5')])[2]</value>
+      <webElementGuid>e296939d-9f71-4c89-a8f8-80b29250afbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[10]/a</value>
+      <webElementGuid>e3f69374-5a13-4428-9ad4-4f8411bde4c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://crazystylezs.com/product-categories/women?categories%5B0%5D=1&amp;categories%5B1%5D=15&amp;categories%5B2%5D=19&amp;sort-by=%22%5C%22%5C%5C%5C%22%5C%5C%5C%5C%5C%5C%5C%22null%5C%5C%5C%5C%5C%5C%5C%22%5C%5C%5C%22%5C%22%22&amp;num=0&amp;_=1711543149840&amp;page=5']</value>
+      <webElementGuid>4aa055c0-1476-4ea0-9e11-627a05bd7a21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

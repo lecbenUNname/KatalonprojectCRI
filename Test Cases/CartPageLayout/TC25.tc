@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>when the user adds multiple products to the cart and subsequently removes some on the cart page, the product count in the message should adjusts accordingly (e.g., from &quot;There are 4 products in your cart&quot; to &quot;There are 2 products in your cart&quot; after removing 2 products).</description>
+   <name>TC25</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>849e8cfe-e22a-49cc-ae57-557c9044d90a</testCaseGuid>
+</TestCaseEntity>

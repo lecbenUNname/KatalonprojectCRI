@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Retro Typewriter Keyboard, 7KEYS Electric_8120ce</name>
+   <tag></tag>
+   <elementGuidId>6e2aa87c-a686-48b3-9cde-c5f6f90dfa23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[5]/div/div[2]/h2/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>de306a67-3c60-4155-b558-cd87143c84cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/products/retro-typewriter-keyboard-7keys-electric-typewriter-vintage-with-upgraded-mechanical-bluetooth-50-multi-devices-connection-classical-punk-round-ke</value>
+      <webElementGuid>511b7534-327c-438c-82db-88bbcdac0767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Retro Typewriter Keyboard, 7KEYS Electric Typewriter Vintage with Upgraded Mechanical Bluetooth 5.0, Multi Devices Connection Classical, Punk Round Ke</value>
+      <webElementGuid>3ab72844-bbc6-4727-93e0-687533cf4911</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;row product-grid&quot;]/div[@class=&quot;col-xxl-3 col-xl-3 col-lg-4 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]/div[@class=&quot;product-content-wrap&quot;]/h2[1]/a[1]</value>
+      <webElementGuid>4fd0b7a1-a745-4183-a573-a949c6903ee0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[5]/div/div[2]/h2/a</value>
+      <webElementGuid>19be4a45-05de-44c4-9eae-121d652843c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Retro Typewriter Keyboard, 7KEYS Electric Typewriter Vintage with Upgraded Mechanical Bluetooth 5.0, Multi Devices Connection Classical, Punk Round Ke')]</value>
+      <webElementGuid>e5c3df62-33ee-438e-809a-31312b9c8ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Computer Accessories'])[4]/following::a[1]</value>
+      <webElementGuid>8052fd01-c29a-4efd-93d3-975f39767275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hot'])[2]/following::a[2]</value>
+      <webElementGuid>532a91d1-ca09-4274-9c83-aec4d6ab9526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.2,656.00'])[1]/preceding::a[1]</value>
+      <webElementGuid>08d420f1-dbd6-4a5a-a06e-62d66c0d8068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[5]/preceding::a[1]</value>
+      <webElementGuid>a05df094-adb9-4a40-9d6b-c97bb996b5ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Retro Typewriter Keyboard, 7KEYS Electric Typewriter Vintage with Upgraded Mechanical Bluetooth 5.0, Multi Devices Connection Classical, Punk Round Ke']/parent::*</value>
+      <webElementGuid>072e649c-515a-491d-9a57-c66bfe0698e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://crazystylezs.com/products/retro-typewriter-keyboard-7keys-electric-typewriter-vintage-with-upgraded-mechanical-bluetooth-50-multi-devices-connection-classical-punk-round-ke')])[2]</value>
+      <webElementGuid>81ef4387-4106-4a02-8e65-c9555ace9271</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/h2/a</value>
+      <webElementGuid>3924f541-5120-40a0-8e87-fe402b129cee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://crazystylezs.com/products/retro-typewriter-keyboard-7keys-electric-typewriter-vintage-with-upgraded-mechanical-bluetooth-50-multi-devices-connection-classical-punk-round-ke' and (text() = 'Retro Typewriter Keyboard, 7KEYS Electric Typewriter Vintage with Upgraded Mechanical Bluetooth 5.0, Multi Devices Connection Classical, Punk Round Ke' or . = 'Retro Typewriter Keyboard, 7KEYS Electric Typewriter Vintage with Upgraded Mechanical Bluetooth 5.0, Multi Devices Connection Classical, Punk Round Ke')]</value>
+      <webElementGuid>a4cbb1e1-00dc-4c40-9473-fbc72d8b5a28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

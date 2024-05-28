@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Password field should accept minimum 6 Characters.</description>
+   <name>TC30</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>bb60e232-d339-4a04-b789-cd0e8d19cf72</testCaseGuid>
+</TestCaseEntity>

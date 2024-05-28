@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the user removes the product, the product should be successfully removed, and a toast message with the text &quot;Removed item from cart successfully!&quot; should be displayed.</description>
+   <name>TC63</name>
+   <tag>Regression.</tag>
+   <comment></comment>
+   <testCaseGuid>ba2ed4b3-9353-47a4-b7df-ef383efb3038</testCaseGuid>
+</TestCaseEntity>

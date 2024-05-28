@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The floating header should display the secondary header when the user scrolls down on the home page</description>
+   <name>TC04</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>07506a77-5f60-4f04-9870-233f9d9c3346</testCaseGuid>
+</TestCaseEntity>

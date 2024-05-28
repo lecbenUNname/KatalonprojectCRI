@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Time, Status, Reason should show in the Return product information.</description>
+   <name>TC09</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>f78d084f-bdc6-4ce0-a7e5-8be75ac8740d</testCaseGuid>
+</TestCaseEntity>

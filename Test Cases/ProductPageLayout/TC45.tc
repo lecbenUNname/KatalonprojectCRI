@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should not able to add product to cart, when the user click the Add to Cart button without login. if tries a warning toaster message displays &quot;Please Login First&quot;</description>
+   <name>TC45</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>fabc4fd1-5313-49ec-96aa-1d907d6099d6</testCaseGuid>
+</TestCaseEntity>

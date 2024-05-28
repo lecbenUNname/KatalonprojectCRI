@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Address text field should accept special character</description>
+   <name>TC48</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>7ecda63d-1519-4c91-9745-32f3409f5391</testCaseGuid>
+</TestCaseEntity>

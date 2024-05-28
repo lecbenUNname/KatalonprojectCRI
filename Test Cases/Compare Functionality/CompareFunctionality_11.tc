@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to see the toaster message when the product added successfully in the compare list</description>
+   <name>CompareFunctionality_11</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>be7d2e8f-ab1f-405f-9709-9a390f420208</testCaseGuid>
+</TestCaseEntity>

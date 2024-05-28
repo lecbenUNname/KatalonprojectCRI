@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the user increases and decreases the quantity, the total product quantity should be accurately reflected in the &quot;Add to Cart&quot; icon's count field.</description>
+   <name>TC62</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>469784d0-61c1-45cf-a228-6376d3af7fbd</testCaseGuid>
+</TestCaseEntity>

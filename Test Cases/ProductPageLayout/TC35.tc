@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When attempting to add a quantity that exceeds the available stock for a product, a warning toast message should be displayed to inform the user about the quantity limitation.</description>
+   <name>TC35</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b8f74860-e54e-4473-b25c-903eb90e90eb</testCaseGuid>
+</TestCaseEntity>

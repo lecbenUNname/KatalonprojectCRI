@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the user clicks the &quot;Add to cart&quot; button on the product detail page, a successful toast message should be displayed.(Ex:Added product Testing Dress to cart successfully!)</description>
+   <name>TC14</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e279cf74-ee25-46d7-9fed-782b7904a816</testCaseGuid>
+</TestCaseEntity>

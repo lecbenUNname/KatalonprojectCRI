@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;Electronics Accessories hyperlink should be clickable and correctly navigate to the Electronics Accessories page</description>
+   <name>TC14</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e5d8f9ab-faa9-4542-b14e-9628f4aded6e</testCaseGuid>
+</TestCaseEntity>

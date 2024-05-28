@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Full name text field should accept alphabets.</description>
+   <name>TC03</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>da746cf6-6a8d-4240-9f3e-34f03ffe0dbc</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If there are more than 4 images in the quick view the left and right arrow should appear</description>
+   <name>TC016.1</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>d7155df2-c628-43f3-858f-0a49b599208b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_fi-rs-shopping-cart mr-5</name>
+   <tag></tag>
+   <elementGuidId>2887155e-9f08-4d12-81ff-2683d72af8b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div/section[5]/div/div[2]/div/div/div[3]/div/div[2]/div[2]/div[2]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>865aa39e-ba11-42c3-b41c-88bdde2615b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi-rs-shopping-cart mr-5</value>
+      <webElementGuid>112f5f73-8d08-4b5d-8e28-5c46bc2f5d55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;ck-content&quot;]/section[@class=&quot;bg-grey-9 section-padding-60&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;tab-content wow fadeIn animated animated&quot;]/div[@class=&quot;tab-pane fade show active&quot;]/div[@class=&quot;row product-grid-4&quot;]/div[@class=&quot;col-lg-3 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]/div[@class=&quot;product-content-wrap&quot;]/div[@class=&quot;product-card-bottom&quot;]/div[@class=&quot;add-cart&quot;]/a[@class=&quot;action-btn add-to-cart-button add&quot;]/i[@class=&quot;fi-rs-shopping-cart mr-5&quot;]</value>
+      <webElementGuid>39c7ec1c-f474-48a3-91f0-0f7de4e62931</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div/section[5]/div/div[2]/div/div/div[3]/div/div[2]/div[2]/div[2]/a/i</value>
+      <webElementGuid>6228c762-67ca-4730-a61e-b2940e276ce9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[2]/div[2]/a/i</value>
+      <webElementGuid>d5ed0e7c-6556-4e02-8afd-d7ad7e57a4e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div/section[5]/div/div[2]/div/div/div[4]/div/div[2]/div[3]/div[2]/a/i</value>
+      <webElementGuid>6d7a6e9c-c1e1-47c5-8d1a-56c31c21a896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[4]/div/div[2]/div[3]/div[2]/a/i</value>
+      <webElementGuid>02478ad9-3636-4e84-847b-54ddf5940116</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

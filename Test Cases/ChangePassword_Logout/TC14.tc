@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Password text fields should accept combination of alphabets and special characters.</description>
+   <name>TC14</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51ce042c-8365-451f-91df-b68f734ad861</testCaseGuid>
+</TestCaseEntity>

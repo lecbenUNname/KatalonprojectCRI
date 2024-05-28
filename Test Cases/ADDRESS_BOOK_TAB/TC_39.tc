@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>State text field should not accept special character.</description>
+   <name>TC_39</name>
+   <tag>Regression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>d88713af-b417-4b80-ad82-be1d82d9555f</testCaseGuid>
+</TestCaseEntity>

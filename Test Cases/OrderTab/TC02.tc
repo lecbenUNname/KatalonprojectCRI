@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to redirect to the product orders list page by clicking &quot;Orders Tab&quot;</description>
+   <name>TC02</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>95eb5240-c66d-4392-bff2-36547776b276</testCaseGuid>
+</TestCaseEntity>

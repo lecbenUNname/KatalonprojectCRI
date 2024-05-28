@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User after selecting an image and clicking the &quot;Close&quot; button, the current page closes. Upon returning to the same page, it should be refreshed and reset to its initial state.</description>
+   <name>TC13</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>26706b71-0a9f-45ed-a2d9-1d6ba3046cdd</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be to view the &quot;Proceed to checkout&quot; button should be in the &quot;Add to cart&quot; page.</description>
+   <name>TC01</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>6b0b66e3-59cf-4bed-bc12-653282d91515</testCaseGuid>
+</TestCaseEntity>

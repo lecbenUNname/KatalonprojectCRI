@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should able to view the &quot;Tags filter&quot; count should be changed while changing the Size  in the By size filter</description>
+   <name>Filters_44</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b6efebf9-cfe2-4eb9-be16-9158b178cc9c</testCaseGuid>
+</TestCaseEntity>

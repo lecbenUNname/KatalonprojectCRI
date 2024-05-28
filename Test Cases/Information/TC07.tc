@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;Terms &amp; conditions&quot; hyperlink should be clickable and correctly navigate to the terms &amp; conditions page</description>
+   <name>TC07</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>a1463144-4aed-4419-aa6c-5db25812ac74</testCaseGuid>
+</TestCaseEntity>

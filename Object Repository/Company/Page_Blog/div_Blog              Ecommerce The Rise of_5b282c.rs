@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Blog              Ecommerce The Rise of_5b282c</name>
+   <tag></tag>
+   <elementGuidId>d5b987a8-e011-4a6a-b390-65ebcbbd44f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#main-section > div.container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4e36746b-ce7b-498d-b5ae-5adc39bf8a4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container</value>
+      <webElementGuid>f16a211a-fe11-4677-98f2-370221b462ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Blog
+              Ecommerce The Rise of Gender-Neutral Fashion 15 Apr 2023 75 Views  Ecommerce From Classic to Contemporary: A Guide to Accessorizing Your Outfit 15 Apr 2023 68 Views  Ecommerce Top 5 Most Iconic Fashion Moments in Film History 15 Apr 2023 66 Views</value>
+      <webElementGuid>82352153-4010-48ca-9ddf-276a1c845114</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container&quot;]</value>
+      <webElementGuid>fa2515a2-f4f1-42bd-b4e8-f352aae0ee89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]</value>
+      <webElementGuid>fafe8562-9ab8-4269-890b-8a06e744c07f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div[2]</value>
+      <webElementGuid>c1afc5e5-d1e3-4d81-a7a4-b253037d49e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                                Blog
+              Ecommerce The Rise of Gender-Neutral Fashion 15 Apr 2023 75 Views  Ecommerce From Classic to Contemporary: A Guide to Accessorizing Your Outfit 15 Apr 2023 68 Views  Ecommerce Top 5 Most Iconic Fashion Moments in Film History 15 Apr 2023 66 Views' or . = '
+                                Blog
+              Ecommerce The Rise of Gender-Neutral Fashion 15 Apr 2023 75 Views  Ecommerce From Classic to Contemporary: A Guide to Accessorizing Your Outfit 15 Apr 2023 68 Views  Ecommerce Top 5 Most Iconic Fashion Moments in Film History 15 Apr 2023 66 Views')]</value>
+      <webElementGuid>ccf73ee9-2810-4fbc-ac74-a7c1cbd35268</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

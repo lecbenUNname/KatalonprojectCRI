@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>In the absence of user login, when the &quot;Add to cart&quot; button is clicked on the product page, a toast message should be generated, displaying the text &quot;Please login first!&quot;</description>
+   <name>TC52</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>cf4248a0-c42a-451a-b408-dbae699f44fa</testCaseGuid>
+</TestCaseEntity>

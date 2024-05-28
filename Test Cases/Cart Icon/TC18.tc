@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>upon logging in to the home page and subsequently clicking the cart icon in the menu, the user is correctly redirected to the corresponding cart page. Upon clicking the back arrow, the user should be seamlessly redirected back to the home page, without any popup menus being displayed</description>
+   <name>TC18</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>5d21c087-c63e-456e-ade0-a90436a21d2a</testCaseGuid>
+</TestCaseEntity>

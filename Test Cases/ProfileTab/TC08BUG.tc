@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Full name text field should not accept more than one space in between two names</description>
+   <name>TC08BUG</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>fd4d1b4f-fb7c-4248-8ce5-3c249cb425f6</testCaseGuid>
+</TestCaseEntity>

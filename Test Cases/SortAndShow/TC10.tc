@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;Drop down Arrow&quot; should work properly when the user clicks the Sort by Arrow</description>
+   <name>TC10</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3cf04973-3bda-4cf4-992e-281243fd141a</testCaseGuid>
+</TestCaseEntity>

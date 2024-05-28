@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The pagination should control, specifically the right and left arrows, function  correctly and provide users with accurate and expected navigation between different pages of content.</description>
+   <name>TC23</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b9054c56-3368-439d-8d05-3587c2bae422</testCaseGuid>
+</TestCaseEntity>

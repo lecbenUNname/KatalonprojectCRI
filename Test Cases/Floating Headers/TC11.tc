@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The subcategory should be displayed when the user mouse hovers over the Accessories categories</description>
+   <name>TC11</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e96d5bec-c7e5-4c27-b348-64b66d0371d8</testCaseGuid>
+</TestCaseEntity>

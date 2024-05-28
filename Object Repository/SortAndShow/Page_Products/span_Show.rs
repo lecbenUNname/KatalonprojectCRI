@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Show</name>
+   <tag></tag>
+   <elementGuidId>08987d92-f9cf-40ea-8972-51f0b6ea1e3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sort-by > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[2]/div[2]/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f8ac3a44-8cf2-40f5-8944-5a20135f778e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Show:</value>
+      <webElementGuid>fd5cdf42-4cbc-4694-86a9-43e1d6757e3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;shop-product-filter&quot;]/div[@class=&quot;sort-by-product-area&quot;]/div[@class=&quot;sort-by-cover mr-10 products_sortby&quot;]/div[@class=&quot;sort-by-product-wrap&quot;]/div[@class=&quot;sort-by&quot;]/span[1]</value>
+      <webElementGuid>fd10e11f-046c-4688-9a0d-da10083e2c7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[2]/div[2]/div/div/div/span</value>
+      <webElementGuid>aee28173-8644-432b-849f-72e6ddf1fc92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear All Filters'])[1]/following::span[1]</value>
+      <webElementGuid>80683334-7e80-4e76-962c-5031b87cb2fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/following::span[1]</value>
+      <webElementGuid>bbb124f0-7d24-4f9d-965d-576a55ce0f37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort by:'])[1]/preceding::span[2]</value>
+      <webElementGuid>1169fa8c-bd9a-4316-a854-c849404c2753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default'])[1]/preceding::span[5]</value>
+      <webElementGuid>8c7c4b25-f3d4-4b8b-b95f-906a71732f8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Show:']/parent::*</value>
+      <webElementGuid>5fa25cf0-ec8a-4a94-9da3-1a52bce81fb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div/div/span</value>
+      <webElementGuid>eb61dfbd-de9f-4a60-ae4d-7deedb35e099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Show:' or . = 'Show:')]</value>
+      <webElementGuid>98b458bf-dc8c-4bbd-b9be-3ed96789d7b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The title of the user's profile page as displayed in the URL path should exactly match the actual title of the user's profile.</description>
+   <name>TC37</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af27cc84-4c9f-451c-a635-2aefb7c88cc7</testCaseGuid>
+</TestCaseEntity>

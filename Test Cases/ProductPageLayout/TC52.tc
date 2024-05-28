@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to see the product details in description tab.</description>
+   <name>TC52</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>374f4d4e-7701-404f-8854-e0515a938902</testCaseGuid>
+</TestCaseEntity>

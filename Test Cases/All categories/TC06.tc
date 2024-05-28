@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Categories without products should either be excluded from the dropdown or displayed with a label indicating that they are empty.</description>
+   <name>TC06</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>222bbc92-c23f-4a09-8817-694377cd655b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The pagination should function correctly, displaying 10 addresses on the initial page and featuring a &quot;Next&quot; button for pagination, which indicates the presence of multiple pages.</description>
+   <name>TC_69</name>
+   <tag>Regression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>fb432c2f-7f59-41c3-9786-5b410808e20e</testCaseGuid>
+</TestCaseEntity>

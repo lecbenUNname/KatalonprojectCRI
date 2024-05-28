@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Users can able to redirect the profile page once clicking on the profile Tab.</description>
+   <name>TC01</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c8d0dc1f-75d6-4949-8b26-cf27722c45c3</testCaseGuid>
+</TestCaseEntity>

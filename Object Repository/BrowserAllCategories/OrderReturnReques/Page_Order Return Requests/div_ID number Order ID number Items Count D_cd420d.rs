@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ID number Order ID number Items Count D_cd420d</name>
+   <tag></tag>
+   <elementGuidId>6444b942-3fd5-45a2-8990-c69ca3fc47d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.table-responsive</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d58a081d-7fc9-4553-9363-7aac6a8aa305</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table-responsive</value>
+      <webElementGuid>23a86382-a227-4cb1-912c-6b3e029bdc8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ID number Order ID number Items Count Date Status Actions #10000009 #10000529 2 Oct 13, 2023 04:10 Completed View #10000005 #10000497 2 Oct 12, 2023 08:10 Completed View</value>
+      <webElementGuid>ff5780b3-e64c-4a1d-aead-b8f638f821d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;section-content&quot;]/div[@class=&quot;table-responsive&quot;]</value>
+      <webElementGuid>57b26e3a-1a0b-4a40-adf1-5c9e14785b16</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div/div[2]/div</value>
+      <webElementGuid>ac52144c-4ac6-42bb-8695-94ef13412ced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Return Requests'])[3]/following::div[2]</value>
+      <webElementGuid>0f013497-f150-4e65-8eea-adfe0ac2d71f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::div[7]</value>
+      <webElementGuid>36bf38d1-0e8c-458b-96f3-ded64510ff5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>d34f4aea-9fc2-440d-b237-8cd6c146f161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ID number Order ID number Items Count Date Status Actions #10000009 #10000529 2 Oct 13, 2023 04:10 Completed View #10000005 #10000497 2 Oct 12, 2023 08:10 Completed View' or . = 'ID number Order ID number Items Count Date Status Actions #10000009 #10000529 2 Oct 13, 2023 04:10 Completed View #10000005 #10000497 2 Oct 12, 2023 08:10 Completed View')]</value>
+      <webElementGuid>26d336a0-fe35-41a5-ae1e-80749bf50f12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_Drop Us a Line Contact Us For Any Q_4858c0</name>
+   <tag></tag>
+   <elementGuidId>06730f56-4ec3-4c76-ba17-7dcbdea44f7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>section.mt-50.pb-50</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/section/div/section</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>c6da665d-a040-4ea0-b82b-c0d167c0b8d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-50 pb-50</value>
+      <webElementGuid>63a1a673-2e21-42e3-8e06-da09de85656f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Drop Us a Line Contact Us For Any Questions        Send message  </value>
+      <webElementGuid>48cc7104-9f20-4819-b8be-7798151761b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container&quot;]/section[@class=&quot;mt-60 mb-60&quot;]/div[@class=&quot;ck-content&quot;]/section[@class=&quot;mt-50 pb-50&quot;]</value>
+      <webElementGuid>266484d0-b1f9-4245-b091-cb5c5fa99d30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/section/div/section</value>
+      <webElementGuid>404fbaef-b8c3-4958-9835-d50d81e8f422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/section</value>
+      <webElementGuid>b50cf6b4-1bc0-4515-9b76-2247dc129ea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = 'Drop Us a Line Contact Us For Any Questions        Send message  ' or . = 'Drop Us a Line Contact Us For Any Questions        Send message  ')]</value>
+      <webElementGuid>e44cef83-e565-4fce-99c0-f1cc43a415de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

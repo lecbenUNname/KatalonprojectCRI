@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;hyperlinks&quot; are displayed below the company when the user visits the crazy styles homepage</description>
+   <name>TC07</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>ef75b879-4be7-45f3-90c7-4a5ec30c6464</testCaseGuid>
+</TestCaseEntity>

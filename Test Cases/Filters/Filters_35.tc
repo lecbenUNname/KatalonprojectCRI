@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to redirect to the particular Tag by selecting the check box on Tag filter</description>
+   <name>Filters_35</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>4a615884-ca32-45c0-935a-bd46e12e0dee</testCaseGuid>
+</TestCaseEntity>

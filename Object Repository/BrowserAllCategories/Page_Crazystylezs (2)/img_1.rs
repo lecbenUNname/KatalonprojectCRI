@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1</name>
+   <tag></tag>
+   <elementGuidId>ce5046e1-7b89-4812-b09a-8de129f816eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div/section[2]/div/div/div[3]/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;The best Organic&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>511864f6-c6bc-40d0-a0db-afbae5cf058c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/storage/promotion/3-1.png</value>
+      <webElementGuid>c9407fae-840b-4136-a9c5-e232d00826c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>The best Organic</value>
+      <webElementGuid>a99b2241-7b4a-4c9e-9aa6-663f9d48ad98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;ck-content&quot;]/section[@class=&quot;banners pt-60&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-lg-4 col-md-6&quot;]/div[@class=&quot;banner-img wow animate__ animate__fadeInUp  animated&quot;]/img[1]</value>
+      <webElementGuid>9bf5a040-1873-4a7a-8721-4d48bfc70b16</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div/section[2]/div/div/div[3]/div/img</value>
+      <webElementGuid>85ba64c9-b9ae-4288-8e3a-eed5d892bc8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='The best Organic']</value>
+      <webElementGuid>173a94b5-1213-4777-b56f-6c88c3295cb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/img</value>
+      <webElementGuid>6d19c32b-be7d-4cc3-ac72-dd7c417d399e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://crazystylezs.com/storage/promotion/3-1.png' and @alt = 'The best Organic']</value>
+      <webElementGuid>a2a7f4ca-4b89-41ea-9693-40cdc7276544</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

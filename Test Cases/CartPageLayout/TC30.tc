@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Under the &quot;Unit Price&quot; title, the price of the product should be listed accurately, and if the product has any promotions, the discounted amount should be displayed with a strikeout.</description>
+   <name>TC30</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b0ccf075-8e45-4a36-9c7d-a2d05d5a5453</testCaseGuid>
+</TestCaseEntity>

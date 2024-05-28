@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Date of birth field should not accept alphabets</description>
+   <name>TC19</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c368a9b4-bddc-4a31-b160-e5786b390d32</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Full name text field should not accept only blank or space.</description>
+   <name>TC_07</name>
+   <tag>Regression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>4b49fcc6-390f-4eb7-8d9c-a1eabd454127</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ae1743bd-466f-461e-b1fb-d695cbe82317</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>283785c4-46b6-4d7f-bb46-30932524b56a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d040dc4b-ebb6-483c-97f6-dba07d3ec3fd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ae1743bd-466f-461e-b1fb-d695cbe82317</id>
+      <masked>false</masked>
+      <name>Name_req_Actual</name>
+   </variable>
+   <variable>
+      <defaultValue>'The name field is required.'</defaultValue>
+      <description></description>
+      <id>283785c4-46b6-4d7f-bb46-30932524b56a</id>
+      <masked>false</masked>
+      <name>Name_req_Expected</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d040dc4b-ebb6-483c-97f6-dba07d3ec3fd</id>
+      <masked>false</masked>
+      <name>Sucess_message</name>
+   </variable>
+</TestCaseEntity>

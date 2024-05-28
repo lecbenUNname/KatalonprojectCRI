@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The search bar should gracefully accommodate long queries, and if the search query does not yield any results, it should display the text &quot;No products found.&quot; below the search bar to inform the user about the lack of matching products or results.</description>
+   <name>TC07</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>efc3ce97-b16b-493c-a08c-7346e08a7f13</testCaseGuid>
+</TestCaseEntity>

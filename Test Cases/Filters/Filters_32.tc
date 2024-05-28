@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should able to view all the  Tag filter by using the Dragger bar.&quot;</description>
+   <name>Filters_32</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>eedd11dc-67fc-448a-b09b-6f55ed7daaae</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to redirect or navigates the product category pages with the help of breadcrumbs.</description>
+   <name>TC02</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>d31c4efa-8ed1-48ce-afdc-f7e2cf74642c</testCaseGuid>
+</TestCaseEntity>

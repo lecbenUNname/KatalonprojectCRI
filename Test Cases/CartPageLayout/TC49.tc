@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the user clicks on the &quot;Proceed To Checkout&quot; button, it should reliably navigate to the checkout page.</description>
+   <name>TC49</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>cb9130b0-959b-440b-8ad7-f966f57f469f</testCaseGuid>
+</TestCaseEntity>

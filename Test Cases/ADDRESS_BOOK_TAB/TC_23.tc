@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Phone number field should accept numbers</description>
+   <name>TC_23</name>
+   <tag>Regression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>56286ede-688c-415d-bb7b-d3882f4619e5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hot Computer Accessories Retro Typewrit_383be2</name>
+   <tag></tag>
+   <elementGuidId>8320ad7b-09f9-4722-9e2c-0b4314797698</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.product-cart-wrap.mb-30</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>589df198-f617-4a97-8605-fe04ecff8067</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-cart-wrap mb-30</value>
+      <webElementGuid>c1413c56-5bb2-43f8-9de7-1a5accb88a36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>     Hot Computer Accessories Retro Typewriter Keyboard, 7KEYS Electric Typewriter Vintage with Upgraded Mechanical Bluetooth 5.0, Multi Devices Connection Classical, Punk Round Ke Rs.2,656.00  Add</value>
+      <webElementGuid>be73a435-5d4d-4b0d-8c6a-e905e2046804</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;row product-grid&quot;]/div[@class=&quot;col-xxl-3 col-xl-3 col-lg-4 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]</value>
+      <webElementGuid>f6f2b73d-8d31-4ce7-bbe6-924a4b95aabe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div/div</value>
+      <webElementGuid>9a789cec-6b8e-42c9-80ae-e3970441ca15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rating: high to low'])[1]/following::div[3]</value>
+      <webElementGuid>8a7fbd30-61fe-4d91-b5d9-967cb3d86ade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rating: low to high'])[1]/following::div[3]</value>
+      <webElementGuid>1e26e2ea-ef16-4ffc-86f2-4ba700c6c57e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[3]/div/div</value>
+      <webElementGuid>8af36df2-0977-4912-8e76-6f1f1b63eb17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '     Hot Computer Accessories Retro Typewriter Keyboard, 7KEYS Electric Typewriter Vintage with Upgraded Mechanical Bluetooth 5.0, Multi Devices Connection Classical, Punk Round Ke Rs.2,656.00  Add' or . = '     Hot Computer Accessories Retro Typewriter Keyboard, 7KEYS Electric Typewriter Vintage with Upgraded Mechanical Bluetooth 5.0, Multi Devices Connection Classical, Punk Round Ke Rs.2,656.00  Add')]</value>
+      <webElementGuid>f8f50f55-9811-4824-bb9d-b690452c1402</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

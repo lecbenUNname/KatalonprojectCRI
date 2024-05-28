@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to remove the product in the compare list when clicking on the &quot;Remove&quot; button in the compare page.</description>
+   <name>CompareFunctionality_20</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>d3b3514c-d437-4e09-ab2a-5435dcef76e5</testCaseGuid>
+</TestCaseEntity>

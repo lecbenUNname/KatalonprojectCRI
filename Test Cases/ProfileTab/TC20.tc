@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Date of birth field should not accept space</description>
+   <name>TC20</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>27780960-c636-4b3d-852d-f228a39e4653</testCaseGuid>
+</TestCaseEntity>

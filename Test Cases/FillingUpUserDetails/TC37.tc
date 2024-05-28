@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>It Should not allow the register when the Check box is not clicked</description>
+   <name>TC37</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>8e92ed18-3e8f-4b6c-9826-5c9d97df62ae</testCaseGuid>
+</TestCaseEntity>

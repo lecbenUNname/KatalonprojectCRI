@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Users can able to see the Product image clearly in the cart drop down</description>
+   <name>TC04</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>d6b6a7a5-3c62-415a-a143-93bafc23bf57</testCaseGuid>
+</TestCaseEntity>

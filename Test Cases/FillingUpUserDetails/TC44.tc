@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to access the text fields and Register with the help of &quot;TAB&quot; key in the keyboard</description>
+   <name>TC44</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>698d487d-b97f-43b3-b8d0-33eb6096f285</testCaseGuid>
+</TestCaseEntity>

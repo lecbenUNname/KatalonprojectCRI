@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The All mandatory fields should be marked with asterisks (*)</description>
+   <name>TC20 BUG</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b031f8cc-5af1-4c1e-9c70-601a1433604d</testCaseGuid>
+</TestCaseEntity>

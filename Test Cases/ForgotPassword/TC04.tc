@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To check that the Email Address field has the proper place holder</description>
+   <name>TC04</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b2d3e3b4-a4ad-4ce5-aafd-f0ab1bf40855</testCaseGuid>
+</TestCaseEntity>

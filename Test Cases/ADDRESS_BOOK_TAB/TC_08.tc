@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Full name text field should not accept single character.</description>
+   <name>TC_08</name>
+   <tag>Regression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>612ac19b-e81b-4b9f-a09f-2df205a373da</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c7c4703b-1170-4dab-b97d-1a8231797dbb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8cd812ea-e128-45d7-8353-a8797e8f9fdf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c7c4703b-1170-4dab-b97d-1a8231797dbb</id>
+      <masked>false</masked>
+      <name>Least_character_actual</name>
+   </variable>
+   <variable>
+      <defaultValue>'The name must be at least 3 characters.'</defaultValue>
+      <description></description>
+      <id>8cd812ea-e128-45d7-8353-a8797e8f9fdf</id>
+      <masked>false</masked>
+      <name>Least_expected</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Product Unit Price Quantity Subtotal Re_8ce520</name>
+   <tag></tag>
+   <elementGuidId>218488e4-1911-4cf2-9197-1fe519575a94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>form > div.row > div.col-lg-8</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/form/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>56f53990-bfd3-4f2e-92d4-09cfe746369f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-lg-8</value>
+      <webElementGuid>6c4fcc52-955c-4c72-b085-d4c2725e03b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Product Unit Price Quantity Subtotal Remove   Flawless Finish Primer    Rs.499.00     Rs.499.00     Photoready Compact Powder    Rs.1,375.00     Rs.1,375.00     Women Grey Patterned Seamless Contour Leggings    Rs.1,055.00     Rs.1,055.00     Women White 3-Pack Sports Socks    Rs.741.00     Rs.741.00     Black Eva Quilted Shoulder Bag    Rs.1,888.00  Rs.2,500.00    Rs.1,888.00     Women Nude Solid UV Protection Arm Sleeves    Rs.546.00     Rs.546.00     Black Solid Boxing Leather Gloves    Rs.1,552.00     Rs.1,552.00     Mauve Floral Chiffon Regular Crop Top    Rs.499.00  Rs.1,298.00    Rs.499.00    Continue Shopping Apply Coupon Using A Promo Code?  Apply</value>
+      <webElementGuid>02432b16-4240-4452-8ce2-497e77f0f1fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;mb-80 mt-50 section--shopping-cart&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-8&quot;]</value>
+      <webElementGuid>3cb8a682-76c3-4b21-b73a-29e8d38f6d81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/form/div/div</value>
+      <webElementGuid>f5c9b7e8-d85a-421b-8731-05c63ec42415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div[2]/div/form/div/div</value>
+      <webElementGuid>78970f23-f117-44f9-9cba-631789e3785a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Product Unit Price Quantity Subtotal Remove   Flawless Finish Primer    Rs.499.00     Rs.499.00     Photoready Compact Powder    Rs.1,375.00     Rs.1,375.00     Women Grey Patterned Seamless Contour Leggings    Rs.1,055.00     Rs.1,055.00     Women White 3-Pack Sports Socks    Rs.741.00     Rs.741.00     Black Eva Quilted Shoulder Bag    Rs.1,888.00  Rs.2,500.00    Rs.1,888.00     Women Nude Solid UV Protection Arm Sleeves    Rs.546.00     Rs.546.00     Black Solid Boxing Leather Gloves    Rs.1,552.00     Rs.1,552.00     Mauve Floral Chiffon Regular Crop Top    Rs.499.00  Rs.1,298.00    Rs.499.00    Continue Shopping Apply Coupon Using A Promo Code?  Apply' or . = 'Product Unit Price Quantity Subtotal Remove   Flawless Finish Primer    Rs.499.00     Rs.499.00     Photoready Compact Powder    Rs.1,375.00     Rs.1,375.00     Women Grey Patterned Seamless Contour Leggings    Rs.1,055.00     Rs.1,055.00     Women White 3-Pack Sports Socks    Rs.741.00     Rs.741.00     Black Eva Quilted Shoulder Bag    Rs.1,888.00  Rs.2,500.00    Rs.1,888.00     Women Nude Solid UV Protection Arm Sleeves    Rs.546.00     Rs.546.00     Black Solid Boxing Leather Gloves    Rs.1,552.00     Rs.1,552.00     Mauve Floral Chiffon Regular Crop Top    Rs.499.00  Rs.1,298.00    Rs.499.00    Continue Shopping Apply Coupon Using A Promo Code?  Apply')]</value>
+      <webElementGuid>08e1c745-e364-48f9-b7d1-61dd8e787192</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

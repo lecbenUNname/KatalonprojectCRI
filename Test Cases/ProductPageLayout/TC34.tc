@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;Add to Cart&quot; functionality should accurately validate and restrict the quantity of products that can be added based on the product's availability quantity.</description>
+   <name>TC34</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>0e64ae28-7c7f-440f-b459-e75ddc675e43</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Browse_fi-rs-angle-down</name>
+   <tag></tag>
+   <elementGuidId>b32d4a1c-2d6f-45b5-8a4b-ccbcf54e8c22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fi-rs-angle-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>83073813-1e02-4e29-80e1-2c0ffd830124</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi-rs-angle-down</value>
+      <webElementGuid>0cc23731-9530-486d-a4d1-d55394d47b6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header-area header-style-1 header-height-2&quot;]/div[@class=&quot;header-bottom header-bottom-bg-color  sticky-bar&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;header-wrap header-space-between position-relative&quot;]/div[@class=&quot;header-nav d-none d-lg-flex&quot;]/div[@class=&quot;main-categories-wrap d-none d-lg-block&quot;]/a[@class=&quot;categories-button-active&quot;]/i[@class=&quot;fi-rs-angle-down&quot;]</value>
+      <webElementGuid>7aab5327-4534-4d0d-9ded-65215a8b8dbd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/i</value>
+      <webElementGuid>06860065-7ac9-4f1c-af4b-f81ac6a75f13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

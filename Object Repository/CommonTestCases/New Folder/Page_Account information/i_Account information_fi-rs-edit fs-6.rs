@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Account information_fi-rs-edit fs-6</name>
+   <tag></tag>
+   <elementGuidId>a771330e-e963-4572-b950-53ba458a577a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fi-rs-edit.fs-6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='mt-overlay br2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>bbd68998-3034-4c58-8cc4-25f7fe245699</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi-rs-edit fs-6</value>
+      <webElementGuid>437b4aa4-43ac-4a4d-acff-c9c50b8c55f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;account-avatar&quot;)/div[@class=&quot;profile-image&quot;]/div[@class=&quot;avatar-view mt-card-avatar&quot;]/div[@class=&quot;mt-overlay br2&quot;]/span[1]/i[@class=&quot;fi-rs-edit fs-6&quot;]</value>
+      <webElementGuid>73547321-a340-4e9b-b010-07c4283deba0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='account-avatar']/div/div/div/span/i</value>
+      <webElementGuid>72ce3712-c5cc-4002-8814-c91acb33706a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span/i</value>
+      <webElementGuid>dccaf7c9-8e2c-452a-861c-a991c9c7336b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

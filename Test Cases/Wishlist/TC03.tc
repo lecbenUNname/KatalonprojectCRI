@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user should be able to click the &quot;wishlist button &quot;on the products and also the product page</description>
+   <name>TC03</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>605e555b-897d-4abc-8a39-f9b62a66bda9</testCaseGuid>
+</TestCaseEntity>

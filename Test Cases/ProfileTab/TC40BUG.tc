@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Upon successfully updating the profile information, a toaster message should appear on the screen.</description>
+   <name>TC40BUG</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc1f514a-b507-4bd6-b962-bf5d2130956b</testCaseGuid>
+</TestCaseEntity>

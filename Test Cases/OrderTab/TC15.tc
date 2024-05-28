@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view &quot;Status&quot; in Order Tab remains same in Order information</description>
+   <name>TC15</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>18227824-5894-4722-a5a5-301ee04e8909</testCaseGuid>
+</TestCaseEntity>

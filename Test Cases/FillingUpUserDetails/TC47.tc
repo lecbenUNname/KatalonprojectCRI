@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;A Part before @ should not contains the symbol &quot; &quot; alert message should came when given the space in the Email ID text field.</description>
+   <name>TC47</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>cbf5aa1b-29c1-4d87-850f-9801e37387b6</testCaseGuid>
+</TestCaseEntity>

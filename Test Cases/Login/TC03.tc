@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the user mouseover the Accounts tab it show login option in dropdown</description>
+   <name>TC03</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b628dd4b-a779-430f-b5ed-99baf12ff5d1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The Password field has a valid place holder &quot;Your Password*&quot;.</description>
+   <name>TC13</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>4b298c69-bd66-4594-8e57-a55a51178e3c</testCaseGuid>
+</TestCaseEntity>

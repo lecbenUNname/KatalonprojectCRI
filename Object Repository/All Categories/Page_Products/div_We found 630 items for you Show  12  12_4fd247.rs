@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_We found 630 items for you Show  12  12_4fd247</name>
+   <tag></tag>
+   <elementGuidId>6d2e8a86-454a-42bd-bd01-0c7010d57458</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.products-listing.position-relative</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1db0113a-0ff9-4d3f-bcb3-0970115d6ce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>products-listing position-relative</value>
+      <webElementGuid>831fc428-ae7f-4ce0-a137-5997b0e9fe9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  We found 630 items for you! Show:  12  12 24 36 Sort by:   Default Oldest Newest Price: low to high Price: high to low Name: A-Z Name : Z-A Rating: low to high Rating: high to low           TESTTTTTTT Rs.0.00  Add      Hot New Sale Women Testing Product  (11) Rs.400.00 Rs.799.00  Add      -25% Tops and Tunics Women Pretty Pink Solid Top Rs.599.00 Rs.799.00  Add      New Tops and Tunics Navy Blue Ethnic Motifs Pleated Keyhole Neck Top  (1) Rs.499.00 Rs.999.00  Add      Hot Computer Accessories Retro Typewriter Keyboard, 7KEYS Electric Typewriter Vintage with Upgraded Mechanical Bluetooth 5.0, Multi Devices Connection Classical, Punk Round Ke Rs.2,656.00  Add      Hot Computer Accessories BAGSMART Electronic Organizer Travel Cable Organizer Electronics Accessories Cases for 7.9 inch iPad Mini, Cables, Chargers, USB, SD Card Rs.5,369.00  Add      Hot Computer Accessories TikiTunes Portable Bluetooth 5.0 Indoor/Outdoor Wireless Speakers, LED Torch Atmospheric Lighting Effect, 5-Watt Audio USB Speakers, 2000 mAh Battery Rs.2,368.00  Add      Hot Computer Accessories 620 Retro Game Console,Classic Mini Game System with Preloaded Video Games and 2 Classic Controllers,AV Output Plug&amp;Play Console for Kids and Adults Rs.3,299.00  Add      Hot Maternity Wear White Floral Georgette Maternity Maxi Dress Rs.1,819.00 Rs.2,599.00  Add      Hot Maternity Wear Women Navy Blue Maternity A-Line Midi Dress Rs.724.00 Rs.2,499.00  Add      New Maternity Wear Pink Floral Maternity Midi Dress Rs.999.00 Rs.2,899.00  Add      Hot Maternity Wear Green &amp; White Floral Maternity Maxi Maxi Dress Rs.937.00 Rs.4,350.00  Add  1 2 3 4 5 6 7 8 9 10 ... 52 53 </value>
+      <webElementGuid>7823a4eb-44cd-481e-a672-4deffd2d6172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]</value>
+      <webElementGuid>3d6634c7-fb31-486b-8dfb-ec100a025db1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]</value>
+      <webElementGuid>345c1542-2a05-454c-a6ee-df4b7700b754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div[2]/div/div/div[2]</value>
+      <webElementGuid>3aad2440-d72e-46d5-ba90-959e012f1326</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  We found 630 items for you! Show:  12  12 24 36 Sort by:   Default Oldest Newest Price: low to high Price: high to low Name: A-Z Name : Z-A Rating: low to high Rating: high to low           TESTTTTTTT Rs.0.00  Add      Hot New Sale Women Testing Product  (11) Rs.400.00 Rs.799.00  Add      -25% Tops and Tunics Women Pretty Pink Solid Top Rs.599.00 Rs.799.00  Add      New Tops and Tunics Navy Blue Ethnic Motifs Pleated Keyhole Neck Top  (1) Rs.499.00 Rs.999.00  Add      Hot Computer Accessories Retro Typewriter Keyboard, 7KEYS Electric Typewriter Vintage with Upgraded Mechanical Bluetooth 5.0, Multi Devices Connection Classical, Punk Round Ke Rs.2,656.00  Add      Hot Computer Accessories BAGSMART Electronic Organizer Travel Cable Organizer Electronics Accessories Cases for 7.9 inch iPad Mini, Cables, Chargers, USB, SD Card Rs.5,369.00  Add      Hot Computer Accessories TikiTunes Portable Bluetooth 5.0 Indoor/Outdoor Wireless Speakers, LED Torch Atmospheric Lighting Effect, 5-Watt Audio USB Speakers, 2000 mAh Battery Rs.2,368.00  Add      Hot Computer Accessories 620 Retro Game Console,Classic Mini Game System with Preloaded Video Games and 2 Classic Controllers,AV Output Plug&amp;Play Console for Kids and Adults Rs.3,299.00  Add      Hot Maternity Wear White Floral Georgette Maternity Maxi Dress Rs.1,819.00 Rs.2,599.00  Add      Hot Maternity Wear Women Navy Blue Maternity A-Line Midi Dress Rs.724.00 Rs.2,499.00  Add      New Maternity Wear Pink Floral Maternity Midi Dress Rs.999.00 Rs.2,899.00  Add      Hot Maternity Wear Green &amp; White Floral Maternity Maxi Maxi Dress Rs.937.00 Rs.4,350.00  Add  1 2 3 4 5 6 7 8 9 10 ... 52 53 ' or . = '  We found 630 items for you! Show:  12  12 24 36 Sort by:   Default Oldest Newest Price: low to high Price: high to low Name: A-Z Name : Z-A Rating: low to high Rating: high to low           TESTTTTTTT Rs.0.00  Add      Hot New Sale Women Testing Product  (11) Rs.400.00 Rs.799.00  Add      -25% Tops and Tunics Women Pretty Pink Solid Top Rs.599.00 Rs.799.00  Add      New Tops and Tunics Navy Blue Ethnic Motifs Pleated Keyhole Neck Top  (1) Rs.499.00 Rs.999.00  Add      Hot Computer Accessories Retro Typewriter Keyboard, 7KEYS Electric Typewriter Vintage with Upgraded Mechanical Bluetooth 5.0, Multi Devices Connection Classical, Punk Round Ke Rs.2,656.00  Add      Hot Computer Accessories BAGSMART Electronic Organizer Travel Cable Organizer Electronics Accessories Cases for 7.9 inch iPad Mini, Cables, Chargers, USB, SD Card Rs.5,369.00  Add      Hot Computer Accessories TikiTunes Portable Bluetooth 5.0 Indoor/Outdoor Wireless Speakers, LED Torch Atmospheric Lighting Effect, 5-Watt Audio USB Speakers, 2000 mAh Battery Rs.2,368.00  Add      Hot Computer Accessories 620 Retro Game Console,Classic Mini Game System with Preloaded Video Games and 2 Classic Controllers,AV Output Plug&amp;Play Console for Kids and Adults Rs.3,299.00  Add      Hot Maternity Wear White Floral Georgette Maternity Maxi Dress Rs.1,819.00 Rs.2,599.00  Add      Hot Maternity Wear Women Navy Blue Maternity A-Line Midi Dress Rs.724.00 Rs.2,499.00  Add      New Maternity Wear Pink Floral Maternity Midi Dress Rs.999.00 Rs.2,899.00  Add      Hot Maternity Wear Green &amp; White Floral Maternity Maxi Maxi Dress Rs.937.00 Rs.4,350.00  Add  1 2 3 4 5 6 7 8 9 10 ... 52 53 ')]</value>
+      <webElementGuid>1161f8de-ce16-4631-945e-7aaef7a4a008</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

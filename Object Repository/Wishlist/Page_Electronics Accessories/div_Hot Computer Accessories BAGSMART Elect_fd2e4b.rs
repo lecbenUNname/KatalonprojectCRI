@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hot Computer Accessories BAGSMART Elect_fd2e4b</name>
+   <tag></tag>
+   <elementGuidId>1ad7633a-e0ab-4fc1-a9ac-8147611b732c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>71853115-8dca-4e5d-8d3f-77f322272d83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-cart-wrap mb-30</value>
+      <webElementGuid>9adf109c-baa1-428d-a200-2fba8cf52181</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>     Hot Computer Accessories BAGSMART Electronic Organizer Travel Cable Organizer Electronics Accessories Cases for 7.9 inch iPad Mini, Cables, Chargers, USB, SD Card Rs.5,369.00  Add</value>
+      <webElementGuid>1cbff609-6c42-4710-ad39-74709de01632</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;row product-grid&quot;]/div[@class=&quot;col-xxl-3 col-xl-3 col-lg-4 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]</value>
+      <webElementGuid>12b11544-f372-4f49-9214-9ef7e7f38e2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[2]/div</value>
+      <webElementGuid>3406328c-0eaf-4fd8-b403-663e00ac1c13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/following::div[2]</value>
+      <webElementGuid>d5f651fa-865d-4ed4-ad95-718548f5398e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.2,656.00'])[1]/following::div[3]</value>
+      <webElementGuid>a1a21148-3003-4ade-87c9-4aa392aadc1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[3]/div[2]/div</value>
+      <webElementGuid>ff99d74a-e8cd-4532-83fa-a7957c5d2b7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '     Hot Computer Accessories BAGSMART Electronic Organizer Travel Cable Organizer Electronics Accessories Cases for 7.9 inch iPad Mini, Cables, Chargers, USB, SD Card Rs.5,369.00  Add' or . = '     Hot Computer Accessories BAGSMART Electronic Organizer Travel Cable Organizer Electronics Accessories Cases for 7.9 inch iPad Mini, Cables, Chargers, USB, SD Card Rs.5,369.00  Add')]</value>
+      <webElementGuid>f0cafedd-d0af-4e74-83fc-0f5946a952ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

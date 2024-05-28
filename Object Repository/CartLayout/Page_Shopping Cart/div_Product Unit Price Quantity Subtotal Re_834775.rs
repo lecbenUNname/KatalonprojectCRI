@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Product Unit Price Quantity Subtotal Re_834775</name>
+   <tag></tag>
+   <elementGuidId>75c22a4b-bf04-426c-8cac-00433bae757b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/form/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.table-responsive.shopping-summery</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c4473d2b-103f-44bb-a389-d13ba730c9e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table-responsive shopping-summery</value>
+      <webElementGuid>5ffdb53e-7259-44e3-bdef-80cb836841a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Product Unit Price Quantity Subtotal Remove   Women Yellow Bandhani Printed Maxi Dress    Rs.2,299.00  Rs.2,560.00    Rs.2,299.00  </value>
+      <webElementGuid>ccd4136b-c83d-4ffa-ac63-0cac720df95c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;mb-80 mt-50 section--shopping-cart&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-8&quot;]/div[@class=&quot;table-responsive shopping-summery&quot;]</value>
+      <webElementGuid>1163b1c0-024a-4420-b513-d99452e7bff3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/form/div/div/div</value>
+      <webElementGuid>8240c935-fadc-4288-9b24-7a5c4fcc1426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Cart'])[1]/following::div[4]</value>
+      <webElementGuid>d6fde483-6b80-4605-966d-49e9ff34eb36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div</value>
+      <webElementGuid>29933fb3-17f7-4312-a07b-df75bb9a5d72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Product Unit Price Quantity Subtotal Remove   Women Yellow Bandhani Printed Maxi Dress    Rs.2,299.00  Rs.2,560.00    Rs.2,299.00  ' or . = 'Product Unit Price Quantity Subtotal Remove   Women Yellow Bandhani Printed Maxi Dress    Rs.2,299.00  Rs.2,560.00    Rs.2,299.00  ')]</value>
+      <webElementGuid>8a6c617e-7358-4cde-b09a-fc7872d0c29b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

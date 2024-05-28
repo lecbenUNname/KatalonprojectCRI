@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Account information_mt-overlay br2</name>
+   <tag></tag>
+   <elementGuidId>455cbc58-5837-473b-8b51-1c348d48c73e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='account-avatar']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mt-overlay.br2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>680e9306-c71f-4db1-b75f-5a6a0119d09c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-overlay br2</value>
+      <webElementGuid>24ce463b-a017-46df-89b5-900aafc3bd6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;account-avatar&quot;)/div[@class=&quot;profile-image&quot;]/div[@class=&quot;avatar-view mt-card-avatar&quot;]/div[@class=&quot;mt-overlay br2&quot;]</value>
+      <webElementGuid>b970ddfa-46e8-482d-98a8-6f5f2fa48efa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='account-avatar']/div/div/div</value>
+      <webElementGuid>86c04cc0-19da-4e6a-813b-70ca770aca57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account information'])[2]/following::div[15]</value>
+      <webElementGuid>d126e4a2-321f-4627-95da-e0a82d1965b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::div[16]</value>
+      <webElementGuid>e1899fb3-9ab2-448a-a4d9-0bdb6401dac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile Image'])[1]/preceding::div[2]</value>
+      <webElementGuid>525ab7b4-8700-4411-bf01-8e0c9e472f4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New image'])[1]/preceding::div[3]</value>
+      <webElementGuid>9765a74e-6f1e-4193-b8d9-5438a91dc241</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div/div/div</value>
+      <webElementGuid>bd5c6dfb-9c61-49a6-aa57-e823fd6ff47c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

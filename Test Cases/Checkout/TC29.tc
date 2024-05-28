@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Required field alert should come when the field is empty.</description>
+   <name>TC29</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>35cb26ad-822e-4570-b169-27e102d93f4f</testCaseGuid>
+</TestCaseEntity>

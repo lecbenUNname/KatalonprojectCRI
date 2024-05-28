@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The full name text field should be a mandatory field</description>
+   <name>TC10</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>dbe4b79e-dbfc-4183-a420-cdb6d5f944fb</testCaseGuid>
+</TestCaseEntity>

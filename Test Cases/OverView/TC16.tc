@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logout hyperlink should be redirected to the &quot;recent orders&quot; page when clicking on recent orders hyperlink.</description>
+   <name>TC16</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>52a51b53-0448-467d-80f9-ece4a28eb71d</testCaseGuid>
+</TestCaseEntity>

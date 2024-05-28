@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The wishlist icon should be displayed when the user mouse hovers the product and it must be hidden after the mouseover</description>
+   <name>TC05</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b1cd956b-dea2-4174-8a12-c50ceb214e51</testCaseGuid>
+</TestCaseEntity>

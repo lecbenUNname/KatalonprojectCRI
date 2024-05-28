@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should able to view the &quot;Order Return Request Tab&quot; displays &quot;No order Return Request&quot; message while any order not placed.</description>
+   <name>TC04</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>fde25662-49fa-4a71-964c-3f656f5f1498</testCaseGuid>
+</TestCaseEntity>

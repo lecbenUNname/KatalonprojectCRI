@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user should not able to enter blank space in Email text field, if tries an alert message popups &quot;! Please fill out this field&quot;.</description>
+   <name>TC09</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>f0b575c8-a95e-4fd9-9b8e-e9e35860abcc</testCaseGuid>
+</TestCaseEntity>

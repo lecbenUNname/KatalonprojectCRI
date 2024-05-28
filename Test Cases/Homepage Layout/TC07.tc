@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The up arrow button should display on the bottom right corner when users scroll down the page.</description>
+   <name>TC07</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>5fea5fd8-3ace-48b8-8034-328ed5bf794c</testCaseGuid>
+</TestCaseEntity>

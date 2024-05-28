@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should able to view the &quot;Brand filter&quot; count should be changed while changing the Clour in the By colour filter</description>
+   <name>Filters_26</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>54d62aed-e3b3-4068-b777-6b7a11772572</testCaseGuid>
+</TestCaseEntity>

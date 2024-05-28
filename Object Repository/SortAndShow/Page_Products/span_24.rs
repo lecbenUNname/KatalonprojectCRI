@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_24</name>
+   <tag></tag>
+   <elementGuidId>31ad20e0-87a8-4c6d-80df-47ffc972a1bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sort-by-dropdown-wrap > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class=&quot;sort-by-dropdown-wrap&quot;]//span)[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2d65072e-ea5b-4c60-94af-aed27dbd22b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 24 </value>
+      <webElementGuid>938585a7-2f03-4c44-bb2c-3f9afc413a25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;shop-product-filter&quot;]/div[@class=&quot;sort-by-product-area&quot;]/div[@class=&quot;sort-by-cover mr-10 products_sortby&quot;]/div[@class=&quot;sort-by-product-wrap&quot;]/div[@class=&quot;sort-by-dropdown-wrap&quot;]/span[1]</value>
+      <webElementGuid>a5d358d8-7844-4f44-a421-3385046ce4d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[2]/div[2]/div/div/div[2]/span</value>
+      <webElementGuid>10584635-94e8-49d7-9334-2edd2b739a01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show:'])[1]/following::span[1]</value>
+      <webElementGuid>fc809f0e-6316-4ebb-9528-2153ca0957bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear All Filters'])[1]/following::span[2]</value>
+      <webElementGuid>939a5eb3-5110-4685-bb70-8f5d611cc0c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort by:'])[1]/preceding::span[1]</value>
+      <webElementGuid>134c1603-8cc6-4167-9a1d-4019b8005b57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default'])[1]/preceding::span[4]</value>
+      <webElementGuid>943b6460-9fc8-42a7-9bde-147d2d45807c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='24']/parent::*</value>
+      <webElementGuid>25b00879-def9-48a3-847a-e712c312213c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/span</value>
+      <webElementGuid>9db9dabe-6547-40e7-82af-c4f1845f448c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' 24 ' or . = ' 24 ')]</value>
+      <webElementGuid>4a749af5-3073-4259-90a4-8248ad166bb4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

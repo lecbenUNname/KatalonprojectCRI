@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the user hovers their mouse over the cart icon, a pop-up should appear containing a &quot;View Cart&quot; button.</description>
+   <name>TC21</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc011200-0dff-40c4-b237-32ca0f77176d</testCaseGuid>
+</TestCaseEntity>

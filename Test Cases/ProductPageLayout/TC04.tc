@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to see the big and clear image of the product when clicking the thumbnail image of the product.</description>
+   <name>TC04</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e96cb48d-870b-4a0a-bfa3-0705e4a1f71b</testCaseGuid>
+</TestCaseEntity>

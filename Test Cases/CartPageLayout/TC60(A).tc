@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the user increases and decreases the quantity, the subtotal of the product should be accurately calculated</description>
+   <name>TC60(A)</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>afe3abf8-212d-40d9-b12a-d9f28847e289</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hot New Sale Women Testing Product  (11_9ccbe0</name>
+   <tag></tag>
+   <elementGuidId>e9f0cd59-17b2-4f33-981c-c78ba77ed063</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xxl-3.col-xl-3.col-lg-4.col-md-4.col-12.col-sm-6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3b11290c-2099-4630-a051-7c642323a8f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-xxl-3 col-xl-3 col-lg-4 col-md-4 col-12 col-sm-6</value>
+      <webElementGuid>d969d8d0-df8f-417f-9508-cce2a5544301</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>     Hot New Sale Women Testing Product  (11) Rs.400.00 Rs.799.00  Add</value>
+      <webElementGuid>e5dac5f2-47ec-4f4b-b8aa-35772ec6f520</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;row product-grid&quot;]/div[@class=&quot;col-xxl-3 col-xl-3 col-lg-4 col-md-4 col-12 col-sm-6&quot;]</value>
+      <webElementGuid>2d7fd7e7-14b6-4106-8d18-cb784ff86c85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div</value>
+      <webElementGuid>8ee8a38e-1851-47a5-b837-cbc760edc418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[3]/div</value>
+      <webElementGuid>8e2e6170-9d34-4c29-8c8d-f00ea3debc5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '     Hot New Sale Women Testing Product  (11) Rs.400.00 Rs.799.00  Add' or . = '     Hot New Sale Women Testing Product  (11) Rs.400.00 Rs.799.00  Add')]</value>
+      <webElementGuid>79af1af9-c201-493f-8186-4b50aa34225d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

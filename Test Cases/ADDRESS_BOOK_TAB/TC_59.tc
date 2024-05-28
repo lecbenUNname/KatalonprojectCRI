@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user should redirected to the Edit address page by clicking on the Edit hyperlink</description>
+   <name>TC_59</name>
+   <tag>Regression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>bf1378e2-efb2-4123-9b72-c7679c8c24a4</testCaseGuid>
+</TestCaseEntity>

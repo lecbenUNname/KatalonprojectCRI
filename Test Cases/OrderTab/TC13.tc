@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should able to click on &quot;Cancel order&quot; button to cancel the order</description>
+   <name>TC13</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c66e635a-109f-4227-8b63-957a5b6e70ef</testCaseGuid>
+</TestCaseEntity>

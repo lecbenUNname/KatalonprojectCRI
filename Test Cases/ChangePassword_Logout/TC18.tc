@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Password should accept only special characters.</description>
+   <name>TC18</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>212ed94a-2bb2-42bf-9b65-1511ebe2e0ea</testCaseGuid>
+</TestCaseEntity>

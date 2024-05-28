@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should not able to update the password with a minimum 6 character</description>
+   <name>TC11</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>042f67ed-20f7-449c-9b8c-b33c7316b4ed</testCaseGuid>
+</TestCaseEntity>

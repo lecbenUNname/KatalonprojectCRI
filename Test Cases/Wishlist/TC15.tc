@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The Total count should show correctly in the message which is placed below the wishlist</description>
+   <name>TC15</name>
+   <tag>Regresssion</tag>
+   <comment></comment>
+   <testCaseGuid>8e1094dd-c4ab-4dbf-9ee2-ae99dafbcc51</testCaseGuid>
+</TestCaseEntity>

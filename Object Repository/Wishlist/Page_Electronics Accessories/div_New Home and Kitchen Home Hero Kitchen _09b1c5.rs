@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_New Home and Kitchen Home Hero Kitchen _09b1c5</name>
+   <tag></tag>
+   <elementGuidId>1f963327-102d-4c0b-a3be-76a6ebca6816</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[6]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>994ef279-00a3-49d4-98f1-9ac292105bef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-cart-wrap mb-30</value>
+      <webElementGuid>2b42257b-2b59-4a59-9e25-c2dde2e46f6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>     New Home and Kitchen Home Hero Kitchen Knife Set - 17 piece Chef Knife Set with Stainless Steel Knives Set for Kitchen with Accessories Rs.1,500.00  Add</value>
+      <webElementGuid>2ef1806f-2b43-44a6-b1ea-ef5fdf793074</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;row product-grid&quot;]/div[@class=&quot;col-xxl-3 col-xl-3 col-lg-4 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]</value>
+      <webElementGuid>d52102ca-05f4-4b6d-ac42-923b22f83f25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[6]/div</value>
+      <webElementGuid>ab1ea3cc-5cd7-45ff-929c-e829e16deed3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[5]/following::div[2]</value>
+      <webElementGuid>2b87c987-e17e-40d2-9d33-b54c864cd1d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.37,999.00'])[1]/following::div[3]</value>
+      <webElementGuid>745af92a-4ac1-4dd5-91fc-80bfeb04d965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[6]/div</value>
+      <webElementGuid>b9c5d208-09d3-4b06-be8d-150d0d5d48f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '     New Home and Kitchen Home Hero Kitchen Knife Set - 17 piece Chef Knife Set with Stainless Steel Knives Set for Kitchen with Accessories Rs.1,500.00  Add' or . = '     New Home and Kitchen Home Hero Kitchen Knife Set - 17 piece Chef Knife Set with Stainless Steel Knives Set for Kitchen with Accessories Rs.1,500.00  Add')]</value>
+      <webElementGuid>73f174fb-1622-4831-bb48-cd248d9e63f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

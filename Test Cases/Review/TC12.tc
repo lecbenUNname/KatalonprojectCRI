@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>only image files should be selectable.</description>
+   <name>TC12</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b55ae392-2036-4955-bfd9-71cd46436191</testCaseGuid>
+</TestCaseEntity>

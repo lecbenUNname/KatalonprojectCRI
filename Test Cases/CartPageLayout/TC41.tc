@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When a user increases or decreases the quantity of a product on the product detail page, the corresponding change should be reflected in the product quantity on the cart page.</description>
+   <name>TC41</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>95b00089-6b2f-4501-a3b0-f1e7ca0dc1e6</testCaseGuid>
+</TestCaseEntity>

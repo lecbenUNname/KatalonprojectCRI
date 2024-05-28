@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Computer Accessories Retro Typewriter K_517e9b</name>
+   <tag></tag>
+   <elementGuidId>2df4e177-6ab9-4d09-be7d-f1531c8180c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.product-content-wrap</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>96393140-3918-43b0-8a6f-117e295cdae4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-content-wrap</value>
+      <webElementGuid>30c60bcd-cdb6-4e98-bbb8-4eb1ff8f4f43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Computer Accessories Retro Typewriter Keyboard, 7KEYS Electric Typewriter Vintage with Upgraded Mechanical Bluetooth 5.0, Multi Devices Connection Classical, Punk Round Ke Rs.2,656.00  Add</value>
+      <webElementGuid>8b80508f-5c23-46c8-8e29-f29be525bad3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;row product-grid&quot;]/div[@class=&quot;col-xxl-3 col-xl-3 col-lg-4 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]/div[@class=&quot;product-content-wrap&quot;]</value>
+      <webElementGuid>f7e501d9-77d5-485e-8159-965f5f5d89a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div/div/div[2]</value>
+      <webElementGuid>4fe45a90-cf82-4eff-a1c5-354d809e5299</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hot'])[1]/following::div[1]</value>
+      <webElementGuid>be577977-2046-4572-8f36-ac2baeea98da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rating: high to low'])[1]/following::div[8]</value>
+      <webElementGuid>d9f57c2f-3977-4d03-bd38-d482e2eb0b3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/div[2]</value>
+      <webElementGuid>18a2c56f-d653-441b-979d-b790d871afad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Computer Accessories Retro Typewriter Keyboard, 7KEYS Electric Typewriter Vintage with Upgraded Mechanical Bluetooth 5.0, Multi Devices Connection Classical, Punk Round Ke Rs.2,656.00  Add' or . = 'Computer Accessories Retro Typewriter Keyboard, 7KEYS Electric Typewriter Vintage with Upgraded Mechanical Bluetooth 5.0, Multi Devices Connection Classical, Punk Round Ke Rs.2,656.00  Add')]</value>
+      <webElementGuid>1626f66d-77dd-4251-8db7-636e4313bc7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

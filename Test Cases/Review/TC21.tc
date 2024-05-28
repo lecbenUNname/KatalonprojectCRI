@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The images must be displayed separately in the colosal view and more option is expected when the data is huge.</description>
+   <name>TC21</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c495e9e0-fd98-4064-a21a-a14e26bc81e0</testCaseGuid>
+</TestCaseEntity>

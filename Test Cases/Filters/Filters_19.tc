@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User shoud be able to view the counts of the each &quot;Brand&quot;, the count is mentioned in the rightend side with curly bracket</description>
+   <name>Filters_19</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e30138fa-a497-43e7-869b-41d17f1e58c2</testCaseGuid>
+</TestCaseEntity>

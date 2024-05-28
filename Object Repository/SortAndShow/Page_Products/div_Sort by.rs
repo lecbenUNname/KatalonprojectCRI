@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sort by</name>
+   <tag></tag>
+   <elementGuidId>b0769f42-8f51-4a9a-a40d-edb69e93cef9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[2]/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cf66c2c7-1b6b-408b-8721-e1c9e8831f8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sort-by-product-wrap</value>
+      <webElementGuid>4d075123-80cf-484b-a03e-3eec24dce474</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sort by:  </value>
+      <webElementGuid>8a7ad588-f448-48b8-b438-c9467841492e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;shop-product-filter&quot;]/div[@class=&quot;sort-by-product-area&quot;]/div[@class=&quot;sort-by-cover products_sortby&quot;]/div[@class=&quot;sort-by-product-wrap&quot;]</value>
+      <webElementGuid>8ba85671-4376-4fa7-b38b-4c9a8885d012</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>b995cb17-d2fa-496c-9d3f-d5257f663ee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show:'])[1]/following::div[4]</value>
+      <webElementGuid>cf08a76c-c6f3-412c-94c6-4206f09901f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear All Filters'])[1]/following::div[15]</value>
+      <webElementGuid>385a08c1-906d-4724-bb54-089d42fb8ddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default'])[1]/preceding::div[3]</value>
+      <webElementGuid>db1ea940-72b2-4691-97e8-c6b4a392533a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>353e4959-9475-4651-bab6-40f2bc5c62c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sort by:  ' or . = 'Sort by:  ')]</value>
+      <webElementGuid>1008291c-c7bc-47bb-b3a9-d0a689a29714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[2]/div[2]/div[2]/div/div</value>
+      <webElementGuid>d7d19144-c30c-4ba7-912c-38df557e757d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show:'])[1]/following::div[5]</value>
+      <webElementGuid>f1679bbf-4eaa-4ed9-88a5-757b4e5999ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear All Filters'])[1]/following::div[16]</value>
+      <webElementGuid>e54e5b98-4bd1-4f9e-892a-5b9261cce4ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default'])[1]/preceding::div[2]</value>
+      <webElementGuid>c1709e74-7e18-4adf-89fb-92d043613c59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[2]/div/div</value>
+      <webElementGuid>a6a000c9-40e7-4406-9c7e-809dd35241e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sort by:' or . = 'Sort by:')]</value>
+      <webElementGuid>857f94e5-f57c-45a5-ad27-82d3db21a5b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

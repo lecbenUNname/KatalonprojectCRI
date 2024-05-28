@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When a user increases the quantity of a product on the cart page to a value that exceeds the available stock, a warning message should be displayed (e.g., &quot;When a user increases the quantity of a product on the cart page to a value that exceeds the available stock, a warning message should be displayed (e.g., &quot;One or all products do not have sufficient quantity, so the update cannot be performed!&quot;).</description>
+   <name>TC42BUG</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>0b92fb22-9d77-4c8d-af52-41c9d2d1847a</testCaseGuid>
+</TestCaseEntity>

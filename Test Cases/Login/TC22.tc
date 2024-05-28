@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the user wants to create an account and click &quot;Create one&quot; hyper link, it redirects to the Register page.</description>
+   <name>TC22</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c793d928-b4c1-488e-9258-27994ca6af1c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the availability status is indicated as &quot;Out of stock,&quot; the &quot;Add to cart&quot; button should be disabled.</description>
+   <name>TC19BUG</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>eb840bbf-5adb-42b2-97b6-90a26b8a95d8</testCaseGuid>
+</TestCaseEntity>

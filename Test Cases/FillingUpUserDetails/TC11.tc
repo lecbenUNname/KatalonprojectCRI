@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Username should not be a unique. Should accept same username for different registration</description>
+   <name>TC11</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>bd7f5705-9507-43e1-a390-3a1f8d0188fc</testCaseGuid>
+</TestCaseEntity>

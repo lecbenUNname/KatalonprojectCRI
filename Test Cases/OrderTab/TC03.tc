@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view &quot;Order Tab&quot; displays ID number, Date, Total, Status, Actions</description>
+   <name>TC03</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>5b2fc372-5e4c-465f-89c7-c2b7035bd11b</testCaseGuid>
+</TestCaseEntity>

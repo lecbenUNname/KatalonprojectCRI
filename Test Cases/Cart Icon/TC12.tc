@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>By clicking &quot;View cart&quot; button user able to redirect to the particular page</description>
+   <name>TC12</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>a1ce7ef7-520d-481e-a4cf-d35b2648cf82</testCaseGuid>
+</TestCaseEntity>

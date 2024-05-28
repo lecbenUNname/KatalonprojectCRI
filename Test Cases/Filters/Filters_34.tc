@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Expected:&#xd;
+User should able to view the &quot;Check box&quot;  icon conatins in all  Tag filter&#xd;
+Actual:&#xd;
+After adding more than 20 products in the admin panel, I observed that the existing tags on the front end of the application were deleted. This behavior indicates that when the admin panel exceeds a certain threshold of product additions (20 in this case), it triggers the deletion of existing tags on the front end.</description>
+   <name>Filters_34</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>051f0fca-f30c-4b17-a34e-d9d5c8c4ab16</testCaseGuid>
+</TestCaseEntity>

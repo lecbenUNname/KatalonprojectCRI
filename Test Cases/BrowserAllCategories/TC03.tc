@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When hovering the mouse over the &quot;Browse all categories&quot; dropdown, it should  transitions to a sleek black color.</description>
+   <name>TC03</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>6a1c29e3-f43b-4ee2-aa28-2b4a2bf63f42</testCaseGuid>
+</TestCaseEntity>

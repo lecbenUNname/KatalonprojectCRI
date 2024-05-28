@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Users should be able to view &quot;Full Name, Email, Phone, Country, State, City and Address&quot; should be listed in the Address books.</description>
+   <name>TC_66</name>
+   <tag>Regression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>8896b58a-80ea-4ebe-a77e-a61d0a4a5c83</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>By clicking &quot;Checkout&quot; button user able to redirect to the particular page</description>
+   <name>TC13</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>cdbc3234-6b4b-43ff-9552-fe30e43aa71b</testCaseGuid>
+</TestCaseEntity>

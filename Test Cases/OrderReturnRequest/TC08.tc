@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view &quot;Order Return request&quot; displays Request number, Order ID</description>
+   <name>TC08</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b88b893e-5262-4d5c-b650-fdfd1321b36c</testCaseGuid>
+</TestCaseEntity>

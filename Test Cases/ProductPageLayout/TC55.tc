@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should able to read all the reviews by clicking Reviews tab that present next to the Description tab</description>
+   <name>TC55</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>f42a2f48-c9ed-4bc6-bb0e-d62b1318fa05</testCaseGuid>
+</TestCaseEntity>

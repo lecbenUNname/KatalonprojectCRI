@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Confirm password field Should accept the password when the two passwords are same.</description>
+   <name>TC34</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c6ac2983-3734-4cb3-8a26-f9028a6cd159</testCaseGuid>
+</TestCaseEntity>

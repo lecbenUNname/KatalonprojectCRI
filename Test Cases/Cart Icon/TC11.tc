@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The removing product from the cart page, it is also removed from the dropdown list from the cart icon on the home page</description>
+   <name>TC11</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>a306a48f-ac29-4c56-8502-a1749951c983</testCaseGuid>
+</TestCaseEntity>

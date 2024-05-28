@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>State text field should not accept only blank or space.</description>
+   <name>TC34</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>6ce57629-38bc-42f2-9fd2-648d3a91c3c4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__mfp-img</name>
+   <tag></tag>
+   <elementGuidId>caad4874-124c-40b8-986d-0c1120f0dab6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Testing Product']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.mfp-img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b57d31f2-58ff-4742-adde-32506831fd6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mfp-img</value>
+      <webElementGuid>59cf056a-752b-403e-a34d-c242e0b8c287</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Testing Product</value>
+      <webElementGuid>f560d3e1-75f9-4666-94c2-411b9bf3b318</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/storage/reviews/pexels-pixabay-372490-1.jpg</value>
+      <webElementGuid>604c3c73-b064-45bc-a01d-05642c609cf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;single-product mfp-zoom-out-cur&quot;]/div[@class=&quot;mfp-wrap mfp-gallery mfp-close-btn-in mfp-auto-cursor mfp-ready&quot;]/div[@class=&quot;mfp-container mfp-image-holder mfp-s-ready&quot;]/div[@class=&quot;mfp-content&quot;]/div[@class=&quot;mfp-figure&quot;]/figure[1]/img[@class=&quot;mfp-img&quot;]</value>
+      <webElementGuid>7845eaf7-5b26-47c3-ba0e-afc94c471758</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Testing Product']</value>
+      <webElementGuid>f7fbe386-6a05-42b3-b8c3-9d286ed18a3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>c205ab5f-29eb-4b1e-8d91-f4f925db55de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Testing Product' and @src = 'https://crazystylezs.com/storage/reviews/pexels-pixabay-372490-1.jpg']</value>
+      <webElementGuid>0b9a40e6-8180-407e-9bde-780561658233</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

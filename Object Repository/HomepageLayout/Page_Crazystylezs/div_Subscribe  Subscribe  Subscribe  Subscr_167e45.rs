@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Subscribe  Subscribe  Subscribe  Subscr_167e45</name>
+   <tag></tag>
+   <elementGuidId>3bfa8dcc-392c-4046-b24a-3c165eb90490</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div/section/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xl-8.col-lg-12</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f65c34a5-d473-4cd0-8cad-06c248a1e0be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-xl-8 col-lg-12</value>
+      <webElementGuid>09832938-1a54-4474-a1ec-80501b34bca9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Subscribe  Subscribe  Subscribe  Subscribe   1234 </value>
+      <webElementGuid>70a3e9b1-0259-4a52-a5f9-7c599ab115a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;ck-content&quot;]/section[@class=&quot;home-slider style-2 position-relative mb-50&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-8 col-lg-12&quot;]</value>
+      <webElementGuid>8f9ec3e1-e7ec-4ee8-8439-7abcb71c3ba3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div/section/div/div/div</value>
+      <webElementGuid>1d6f4d55-ea9c-4cdd-bd9f-14bfe088915d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div</value>
+      <webElementGuid>284fc46c-ae77-4964-bd13-3b8226da6d6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  Subscribe  Subscribe  Subscribe  Subscribe   1234 ' or . = '  Subscribe  Subscribe  Subscribe  Subscribe   1234 ')]</value>
+      <webElementGuid>ea6da0bb-d8c0-43f5-8c95-7dbf692bc873</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

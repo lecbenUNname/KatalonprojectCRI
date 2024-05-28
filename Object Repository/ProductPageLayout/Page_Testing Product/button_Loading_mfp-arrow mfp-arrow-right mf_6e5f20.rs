@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Loading_mfp-arrow mfp-arrow-right mf_6e5f20</name>
+   <tag></tag>
+   <elementGuidId>19461978-33eb-4219-8c2a-9019f0c726bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mfp-arrow.mfp-arrow-right.mfp-prevent-close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>91d82f9d-d397-4eba-a02e-496de89102a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Next (Right arrow key)</value>
+      <webElementGuid>2c99b5d7-4fc3-4f97-99c0-30957924596d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f9ba7fbe-f9d9-49c9-954b-a1649abf2ebe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mfp-arrow mfp-arrow-right mfp-prevent-close</value>
+      <webElementGuid>8c87dec3-33ee-433a-bdfb-babd510949ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;single-product mfp-zoom-out-cur&quot;]/div[@class=&quot;mfp-wrap mfp-gallery mfp-close-btn-in mfp-auto-cursor mfp-ready&quot;]/div[@class=&quot;mfp-container mfp-image-holder mfp-s-ready&quot;]/button[@class=&quot;mfp-arrow mfp-arrow-right mfp-prevent-close&quot;]</value>
+      <webElementGuid>3ef1a908-dda9-44d3-9785-74d4c225db62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>c054d3a4-8c94-44ab-b1f6-dc821043792a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>77e6fcf5-ea6d-461d-93aa-51d3f7b52717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Next (Right arrow key)' and @type = 'button']</value>
+      <webElementGuid>46061adc-bba1-43f3-b915-4eb4f2282c73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

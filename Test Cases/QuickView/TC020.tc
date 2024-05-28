@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Users should be able to click and drag the large image both right and left to view the various product images.</description>
+   <name>TC020</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b8a93b02-f494-4589-8c6b-49d71344b70c</testCaseGuid>
+</TestCaseEntity>

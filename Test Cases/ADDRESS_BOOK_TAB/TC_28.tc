@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When attempting to click update button with an empty required input field, a &quot;Please fill out this field&quot; alert should be displayed.</description>
+   <name>TC_28</name>
+   <tag>Regression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>79704a95-0f54-4edf-a01b-c3090dfc4b16</testCaseGuid>
+</TestCaseEntity>

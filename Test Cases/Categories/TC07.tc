@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;highlights&quot; should correct when the user hovers over the category hyperlinks</description>
+   <name>TC07</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>146547b9-a69f-4817-b029-7915bb7ea976</testCaseGuid>
+</TestCaseEntity>

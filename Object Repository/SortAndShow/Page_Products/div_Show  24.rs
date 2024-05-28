@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Show  24</name>
+   <tag></tag>
+   <elementGuidId>32cb1d2b-7cb2-44ef-ab88-979e76c9a799</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sort-by-product-wrap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='sort-by-cover mr-10 products_sortby']//div[@class='sort-by-dropdown-wrap']//span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>18d06e34-7fd8-4720-a868-eec481fdd8cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sort-by-product-wrap</value>
+      <webElementGuid>133bfc52-36c9-437a-8924-afa9d62fd0b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Show:  24 </value>
+      <webElementGuid>012c66c9-ecd5-47d5-b0fb-80f4ae6c01b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;shop-product-filter&quot;]/div[@class=&quot;sort-by-product-area&quot;]/div[@class=&quot;sort-by-cover mr-10 products_sortby&quot;]/div[@class=&quot;sort-by-product-wrap&quot;]</value>
+      <webElementGuid>97b493be-3dec-41fa-a419-64aba1af9589</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[2]/div[2]/div/div</value>
+      <webElementGuid>31a8c9d9-b518-4b0d-9e3f-6e77f987f9b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear All Filters'])[1]/following::div[10]</value>
+      <webElementGuid>57114ef5-cf3d-4857-a800-c7046e754d41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/following::div[10]</value>
+      <webElementGuid>0f5a176f-1532-49ff-8eb4-cf919368bed2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort by:'])[1]/preceding::div[4]</value>
+      <webElementGuid>6ffaf1b8-874a-42a8-9940-25d40f5e126d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div</value>
+      <webElementGuid>b4284abd-20d1-4432-bcb9-9ff9aee31423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Show:  24 ' or . = 'Show:  24 ')]</value>
+      <webElementGuid>3862d623-5838-4450-b867-6c4c3712f930</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

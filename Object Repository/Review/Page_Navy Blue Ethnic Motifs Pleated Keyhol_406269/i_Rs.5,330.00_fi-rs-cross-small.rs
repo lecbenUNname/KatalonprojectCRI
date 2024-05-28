@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Rs.5,330.00_fi-rs-cross-small</name>
+   <tag></tag>
+   <elementGuidId>0f4c9223-b220-4a53-8398-b2488d00906b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fi-rs-cross-small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>702c40f6-93b7-4dac-a689-9a42a37a72c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi-rs-cross-small</value>
+      <webElementGuid>009b34c7-6868-4aed-941c-5a16e484b501</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;single-product&quot;]/header[@class=&quot;header-area header-style-1 header-height-2&quot;]/div[@class=&quot;header-middle header-middle-ptb-1 d-none d-lg-block&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;header-wrap&quot;]/div[@class=&quot;header-right&quot;]/div[@class=&quot;header-action-right&quot;]/div[@class=&quot;header-action-2&quot;]/div[@class=&quot;header-action-icon-2&quot;]/div[@class=&quot;cart-dropdown-wrap cart-dropdown-hm2 cart-dropdown-panel&quot;]/ul[1]/li[1]/div[@class=&quot;shopping-cart-delete&quot;]/a[@class=&quot;remove-cart-item&quot;]/i[@class=&quot;fi-rs-cross-small&quot;]</value>
+      <webElementGuid>256f40c6-5ac5-4c77-943b-220662631817</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/i</value>
+      <webElementGuid>ae12f473-5b35-4a6f-8175-a329076834e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

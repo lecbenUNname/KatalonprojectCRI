@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should able to view all the Categories filter by using the Dragger bar.&quot;</description>
+   <name>Filters_6</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>90c659e8-9499-421a-83db-cc69340cdd5a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>63765331-422e-41ec-a039-4086cd521ba7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'hightSlider'</defaultValue>
+      <description></description>
+      <id>63765331-422e-41ec-a039-4086cd521ba7</id>
+      <masked>false</masked>
+      <name>hightDragger</name>
+   </variable>
+</TestCaseEntity>

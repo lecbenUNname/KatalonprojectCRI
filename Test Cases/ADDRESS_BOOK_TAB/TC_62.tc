@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able click the cancel button and the confirmation popup should close .</description>
+   <name>TC_62</name>
+   <tag>Regression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>d4c795f1-a232-4f83-a782-1380905c3974</testCaseGuid>
+</TestCaseEntity>

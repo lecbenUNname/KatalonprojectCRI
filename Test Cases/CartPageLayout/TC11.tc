@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When a user clicks on any given product, they are directed to the product detail page, where it is expected that the &quot;Add to Cart&quot; button is visibly displayed.</description>
+   <name>TC11</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>61dc196d-7e57-404e-8b1a-7e4994ed35de</testCaseGuid>
+</TestCaseEntity>

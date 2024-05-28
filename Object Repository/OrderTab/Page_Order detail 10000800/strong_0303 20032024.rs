@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_0303 20032024</name>
+   <tag></tag>
+   <elementGuidId>ac4463cd-6338-404e-bed0-3a56fd3cb138</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div/div/div[2]/div/div/div[2]/div/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>strong.order-detail-value</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>605b993f-968d-44c6-812c-3a69bcfeed47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>order-detail-value</value>
+      <webElementGuid>9e0b5910-86d8-4ddf-9572-8a6585eb1086</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>03:03 20/03/2024</value>
+      <webElementGuid>e21d5471-1b77-4fb1-be50-3ad7ffc8f18c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;customer-order-detail&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-auto&quot;]/div[@class=&quot;order-meta&quot;]/strong[@class=&quot;order-detail-value&quot;]</value>
+      <webElementGuid>53e23518-98b2-4384-b3ba-2c5aa9fb93ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div/div/div[2]/div/div/div[2]/div/strong</value>
+      <webElementGuid>9334af6c-5956-487d-af45-f42d5d4fb8cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time:'])[1]/following::strong[1]</value>
+      <webElementGuid>0a89f98b-ae36-4b79-959a-35c513f44e42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order detail #10000800'])[3]/following::strong[1]</value>
+      <webElementGuid>e20eb9df-0fc7-4c15-b5ed-4bf2fb81f55c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order information'])[1]/preceding::strong[1]</value>
+      <webElementGuid>d6549ce2-2bdb-4b47-b4ed-3c7e1746ac82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order status:'])[1]/preceding::strong[1]</value>
+      <webElementGuid>55b00259-ebc6-4a42-acc5-e91075db7ca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='03:03 20/03/2024']/parent::*</value>
+      <webElementGuid>80b4426a-74d5-4abf-9d5a-01b402ab5c51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/strong</value>
+      <webElementGuid>407c7aed-d963-40de-b47e-7ef985e153d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = '03:03 20/03/2024' or . = '03:03 20/03/2024')]</value>
+      <webElementGuid>739e113e-e7ff-4f00-b2e0-ad8c2826dc8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

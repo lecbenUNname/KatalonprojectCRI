@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The Home icon button should be highlighted when the user enters the home page</description>
+   <name>TC12</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>f7d4fac7-e04a-4b6b-a6f0-d55a01b2f5c3</testCaseGuid>
+</TestCaseEntity>

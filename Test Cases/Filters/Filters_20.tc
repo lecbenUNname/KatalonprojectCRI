@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should able to view the &quot;Check box&quot; icon conatins in all brand filter</description>
+   <name>Filters_20</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>42b3994e-4729-459e-8c0c-6aeaa5517704</testCaseGuid>
+</TestCaseEntity>

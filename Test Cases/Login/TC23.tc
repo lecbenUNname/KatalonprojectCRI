@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user should able to click the &quot;Forgot password?&quot; hyperlink and it redirects to the &quot;Reset Password&quot; page.</description>
+   <name>TC23</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>fca2badc-a57f-4a1a-869d-131613f79850</testCaseGuid>
+</TestCaseEntity>

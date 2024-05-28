@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rs.2,656.00</name>
+   <tag></tag>
+   <elementGuidId>f18b8c1b-b32a-4285-b1de-c9abf1617740</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.799.00'])[1]/following::div[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>58d2d062-3f8d-4415-9a15-28256bf177d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-price</value>
+      <webElementGuid>b7bf98a4-d882-4b2a-928e-dcd08546950c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Rs.2,656.00
+                                                            </value>
+      <webElementGuid>7ca518e5-7976-4830-8a5c-774c8a3e6145</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header-area header-style-1 header-height-2&quot;]/div[@class=&quot;header-middle header-middle-ptb-1 d-none d-lg-block&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;header-wrap&quot;]/div[@class=&quot;header-right&quot;]/div[@class=&quot;search-style-2&quot;]/form[@class=&quot;form--quick-search&quot;]/div[@class=&quot;panel--search-result active&quot;]/div[@class=&quot;panel__content&quot;]/div[@class=&quot;row py-2 mx-0&quot;]/div[@class=&quot;col-12 px-1 px-md-2 py-1 product-cart-wrap border-0 rounded-0&quot;]/div[@class=&quot;row mx-md-2 gx-md-2 gx-1&quot;]/div[@class=&quot;col-xl-10 col-9 product__content&quot;]/div[@class=&quot;product-content-wrap px-1 px-md-3&quot;]/div[@class=&quot;product-price&quot;]</value>
+      <webElementGuid>60091de5-3b1b-457b-9ba9-689bec1f4bb6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.799.00'])[1]/following::div[7]</value>
+      <webElementGuid>d2eacdad-e15f-40ca-ad48-44239934ed6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.599.00'])[1]/following::div[7]</value>
+      <webElementGuid>7fdaa837-89a8-4894-99ca-95d9f0afda6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Women Navy Blue Maternity A-Line Midi Dress'])[1]/preceding::div[3]</value>
+      <webElementGuid>14e13028-3c36-4ef3-8922-24040660204e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div</value>
+      <webElementGuid>eef39334-4185-46cb-9764-8b759f27863c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                                Rs.2,656.00
+                                                            ' or . = '
+                                Rs.2,656.00
+                                                            ')]</value>
+      <webElementGuid>9f9776de-97a6-49f8-a28b-c3f32eff2a39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

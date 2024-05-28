@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>A &quot;Load more&quot; button should be visible at the bottom of the search results dropdown, indicating that there are more search results to be loaded.</description>
+   <name>TC13</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b657a61f-2795-465b-abd6-03e294445319</testCaseGuid>
+</TestCaseEntity>

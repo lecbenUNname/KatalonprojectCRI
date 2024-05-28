@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Contact Us For Any Questions</name>
+   <tag></tag>
+   <elementGuidId>3736e1fb-d247-4ec6-a767-b8a9b93fbf42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-muted.mb-30.text-center.font-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/section/div/section/div/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>97ab1216-109a-4fc1-a589-f4a9ead6217c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-muted mb-30 text-center font-sm</value>
+      <webElementGuid>f38cfc8c-2766-4c68-aff0-5882123754da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact Us For Any Questions</value>
+      <webElementGuid>da188881-30f2-44fe-86db-84f3dbc40dac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container&quot;]/section[@class=&quot;mt-60 mb-60&quot;]/div[@class=&quot;ck-content&quot;]/section[@class=&quot;mt-50 pb-50&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-8 col-lg-10 m-auto&quot;]/div[@class=&quot;contact-from-area  padding-20-row-col wow tmFadeInUp animated animated&quot;]/p[@class=&quot;text-muted mb-30 text-center font-sm&quot;]</value>
+      <webElementGuid>ff6add6f-a228-4467-a999-a82be890fdc6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/section/div/section/div/div/div/div/p</value>
+      <webElementGuid>85079acd-5264-4320-9b0e-74efcbf55381</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/p</value>
+      <webElementGuid>94f74a26-3a62-486a-8864-3e73637b1552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Contact Us For Any Questions' or . = 'Contact Us For Any Questions')]</value>
+      <webElementGuid>9bd8a79f-d19c-4a9e-93a4-656b29d07851</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

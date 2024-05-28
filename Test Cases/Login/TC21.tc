@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should able to login when valid email id and valid password entered and click &quot;Enter&quot; Key.</description>
+   <name>TC21</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>bd0d990d-584b-4028-a658-920151b16a6b</testCaseGuid>
+</TestCaseEntity>

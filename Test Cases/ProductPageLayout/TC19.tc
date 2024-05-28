@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to close the carousel view when clicking the close button.</description>
+   <name>TC19</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>d34b4f6f-7203-4597-bb53-69565461a431</testCaseGuid>
+</TestCaseEntity>

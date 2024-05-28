@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view the &quot;Total&quot; in Order Tab displays same amount in the Order information</description>
+   <name>TC14</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>6b01192c-bfcb-4c2c-abbd-58b88d7f2c1e</testCaseGuid>
+</TestCaseEntity>

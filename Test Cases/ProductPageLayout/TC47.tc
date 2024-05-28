@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout page should redirect when click on the Buy Now button</description>
+   <name>TC47</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>533cdd50-38cf-44ed-8d63-a2d523bdb976</testCaseGuid>
+</TestCaseEntity>

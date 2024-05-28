@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user should be allowed to add images in his reviews.</description>
+   <name>TC09</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e23ca209-084f-475a-85ea-094623fdd162</testCaseGuid>
+</TestCaseEntity>

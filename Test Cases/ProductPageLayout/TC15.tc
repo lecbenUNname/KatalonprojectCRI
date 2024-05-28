@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to change the product image when using the keypad side arrow buttons.</description>
+   <name>TC15</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>97a687ef-6f4f-46fb-ac7f-660ce74ffc89</testCaseGuid>
+</TestCaseEntity>

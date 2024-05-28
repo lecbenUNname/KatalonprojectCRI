@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user should not able to enter email id without using special character @, if tries a warning message popups &quot;Please include &quot;@&quot; in the email address &quot;</description>
+   <name>TC11</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c53ff626-f192-453b-b5c8-44dcf09cb1c1</testCaseGuid>
+</TestCaseEntity>

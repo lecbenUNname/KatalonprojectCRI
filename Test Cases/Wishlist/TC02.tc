@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The wishlist icon&quot; should be present on the products and product page</description>
+   <name>TC02</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>aa7f0cb9-1d0b-47ef-a978-e52e8e162bf3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The Dropdown Arrow should work properly when the user clicks the show Arrow</description>
+   <name>TC04</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>109c1e32-692c-44d3-a61b-9a2dafef8b88</testCaseGuid>
+</TestCaseEntity>

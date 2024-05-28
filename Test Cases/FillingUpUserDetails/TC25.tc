@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Password text field should accept only numbers</description>
+   <name>TC25</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>7dc34d71-dabf-47fb-b3e5-5572ac94a645</testCaseGuid>
+</TestCaseEntity>

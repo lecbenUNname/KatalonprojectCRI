@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>There should be a tooltip which displays the value like Excellent, Good, Average,Bad,Very Bad.</description>
+   <name>TC19BUG</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>9b241053-5690-4df8-ab70-7d09a916d763</testCaseGuid>
+</TestCaseEntity>

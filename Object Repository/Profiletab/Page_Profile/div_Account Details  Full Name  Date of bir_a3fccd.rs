@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Account Details  Full Name  Date of bir_a3fccd</name>
+   <tag></tag>
+   <elementGuidId>be25fc46-9c43-4c22-92be-bac9bd30de25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.tab-content.account.dashboard-content.pl-50</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8c769c81-6bba-4f32-9c64-de985961caae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab-content account dashboard-content pl-50</value>
+      <webElementGuid>69d570b7-288f-484c-873d-0bd002acaf3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Account Details  Full Name:  Date of birth:  Email:  Phone:  Update</value>
+      <webElementGuid>0a1a32bf-cdc2-4ac1-a2f7-722cca10cdb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;page-content pt-150 pb-150&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-10 m-auto&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9&quot;]/div[@class=&quot;tab-content account dashboard-content pl-50&quot;]</value>
+      <webElementGuid>f1db4890-b554-4dc9-a889-aea219006a07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>8a9ca3bb-f6dd-483c-8855-0f519da028cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>2868fdf2-19e2-420a-afad-524fae546719</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Account Details  Full Name:  Date of birth:  Email:  Phone:  Update' or . = 'Account Details  Full Name:  Date of birth:  Email:  Phone:  Update')]</value>
+      <webElementGuid>7318a1b4-c779-4ea4-80ff-dcaa6a225f7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

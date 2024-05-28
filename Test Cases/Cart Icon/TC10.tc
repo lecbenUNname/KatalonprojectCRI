@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user should be able to view the count of items accurately displayed in the cart icon.</description>
+   <name>TC10</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e5d3abbf-9a8e-41b2-8c8c-464e568b246f</testCaseGuid>
+</TestCaseEntity>

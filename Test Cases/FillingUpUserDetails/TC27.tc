@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Password should accept only special characters</description>
+   <name>TC27</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>cdd2ee4e-4461-4d59-a3de-4790a3d49634</testCaseGuid>
+</TestCaseEntity>

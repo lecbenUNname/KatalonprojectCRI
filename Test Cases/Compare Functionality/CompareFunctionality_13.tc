@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can add maximum of only 10 products in the compare list</description>
+   <name>CompareFunctionality_13</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>4373defe-1a50-4d94-a5f6-709bef22fc90</testCaseGuid>
+</TestCaseEntity>

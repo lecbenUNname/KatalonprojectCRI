@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Email ID Text field should accept only these special characters &quot;@&quot; and &quot;.&quot;.</description>
+   <name>TC_18</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>fd968c81-f5da-4488-82c0-1cbcc84b7ff7</testCaseGuid>
+</TestCaseEntity>

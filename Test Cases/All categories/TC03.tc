@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>A list of main product categories should be displayed when the dropdown is clicked.</description>
+   <name>TC03</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>8b5e5e18-7819-42ff-aaab-d4d24585a488</testCaseGuid>
+</TestCaseEntity>

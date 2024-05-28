@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>While clicking the &quot;Show more&quot; &quot;-&quot; icon, the remaining categories should become hidden.</description>
+   <name>TC11</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>669253b3-945f-4f6d-8d22-cfabf123fadb</testCaseGuid>
+</TestCaseEntity>

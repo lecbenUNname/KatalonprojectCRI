@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_White Floral Georgette Maternity Maxi Dress</name>
+   <tag></tag>
+   <elementGuidId>e888ce52-dd26-4141-9c2a-4631b2eb4bcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[9]/div/div[2]/h2/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8cf02726-e92e-4a1a-880d-9a51af8796c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/products/white-floral-georgette-maternity-maxi-dress</value>
+      <webElementGuid>2fb3b532-b945-4890-a37e-bdbb23f47e26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>White Floral Georgette Maternity Maxi Dress</value>
+      <webElementGuid>273a1ac3-c9ca-462e-9ba1-a88bdb1abdbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;products-listing position-relative&quot;]/div[@class=&quot;row product-grid&quot;]/div[@class=&quot;col-xxl-3 col-xl-3 col-lg-4 col-md-4 col-12 col-sm-6&quot;]/div[@class=&quot;product-cart-wrap mb-30&quot;]/div[@class=&quot;product-content-wrap&quot;]/h2[1]/a[1]</value>
+      <webElementGuid>fba4c092-4ef0-4348-8df0-45553f06443f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div[2]/div[3]/div[9]/div/div[2]/h2/a</value>
+      <webElementGuid>3ffc0657-00cc-465c-9742-dd52cf34f607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'White Floral Georgette Maternity Maxi Dress')])[3]</value>
+      <webElementGuid>0652bf11-ca11-4357-9878-f069afedaa2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maternity Wear'])[5]/following::a[1]</value>
+      <webElementGuid>9a15a260-6a65-4134-aef6-bc8ab0c8b59a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hot'])[6]/following::a[2]</value>
+      <webElementGuid>f2d41a1b-b727-4f5a-b2f5-e72954048920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.1,819.00'])[3]/preceding::a[1]</value>
+      <webElementGuid>e380005b-17e2-4bb2-8c99-3154bedea49a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.2,599.00'])[3]/preceding::a[1]</value>
+      <webElementGuid>23e0f2e6-3199-460d-89a4-85b402c9e41f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://crazystylezs.com/products/white-floral-georgette-maternity-maxi-dress')])[6]</value>
+      <webElementGuid>6e558cd1-0155-44cf-be71-29a180afb2ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div[2]/h2/a</value>
+      <webElementGuid>15d02ffa-67d8-4e99-a1f5-e16a8e96a74e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://crazystylezs.com/products/white-floral-georgette-maternity-maxi-dress' and (text() = 'White Floral Georgette Maternity Maxi Dress' or . = 'White Floral Georgette Maternity Maxi Dress')]</value>
+      <webElementGuid>7ddc1215-9481-426e-a25b-2d77c814f4a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

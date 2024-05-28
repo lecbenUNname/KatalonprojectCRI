@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>2e93aa14-305e-4557-8656-1f6a337c1a00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div/div/div/div/div/div/div[2]/div/div/div[3]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5f13bc50-6ef6-488f-a4fc-35caedc5f968</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://crazystylezs.com/storage/products/2-67-150x150.jpg</value>
+      <webElementGuid>a630a094-4670-42c6-ab99-85474fb01603</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Embroidered Semi-Stitched Lehenga Choli With Dupptta</value>
+      <webElementGuid>882f257c-9578-4811-a15e-95ac039fd601</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;container mb-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 m-auto&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9&quot;]/div[@class=&quot;product-detail accordion-detail&quot;]/div[@class=&quot;row mb-50 mt-30&quot;]/div[@class=&quot;col-md-6 col-sm-12 col-xs-12 mb-md-0 mb-sm-5&quot;]/div[@class=&quot;detail-gallery&quot;]/div[@class=&quot;slider-nav-thumbnails slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide&quot;]/img[1]</value>
+      <webElementGuid>4b8fd790-2873-4499-aa70-2cf655adc698</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div/div/div/div/div/div[2]/div/div/div[3]/img</value>
+      <webElementGuid>9d95d074-f27f-4755-913d-f3909c976bfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Embroidered Semi-Stitched Lehenga Choli With Dupptta'])[10]</value>
+      <webElementGuid>dc599307-817b-4bf8-addc-73c81c038587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/img</value>
+      <webElementGuid>dcfc90ca-eab6-45b2-be16-e0c007179af7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://crazystylezs.com/storage/products/2-67-150x150.jpg' and @alt = 'Embroidered Semi-Stitched Lehenga Choli With Dupptta']</value>
+      <webElementGuid>ff2ea40e-ec8f-4c22-841f-66d55317e6da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>While clicking the &quot;Show more&quot; &quot;+&quot; icon, it should reveal the remaining categories.</description>
+   <name>TC10</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>24d74727-b076-491e-b666-2b75b8eedde2</testCaseGuid>
+</TestCaseEntity>

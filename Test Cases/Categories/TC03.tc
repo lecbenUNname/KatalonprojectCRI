@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &quot;category&quot; should be visible after the user scrolls down to the footer</description>
+   <name>TC03</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>1ba79cc6-c3f6-4b7e-a462-628db60f43b4</testCaseGuid>
+</TestCaseEntity>

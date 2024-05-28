@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user should not able to enter email id without enter a part after @, if tries a warning message popups &quot;please enter a part following '@'&quot;</description>
+   <name>TC12</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c4bbd929-7a9b-412d-93dd-e436a26ebcbb</testCaseGuid>
+</TestCaseEntity>

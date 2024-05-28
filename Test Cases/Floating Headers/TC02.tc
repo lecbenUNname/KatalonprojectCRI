@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The all headers should be displayed in the Home page</description>
+   <name>TC02</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>5e498aa4-efde-4835-85d1-6e5607baac51</testCaseGuid>
+</TestCaseEntity>

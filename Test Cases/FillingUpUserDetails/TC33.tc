@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Confirm password should visible and hided when clicking on eye icon in the confirm password text field.</description>
+   <name>TC33</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>ec5cdf7f-2074-4fbf-a6e1-d8ebb8cd608e</testCaseGuid>
+</TestCaseEntity>

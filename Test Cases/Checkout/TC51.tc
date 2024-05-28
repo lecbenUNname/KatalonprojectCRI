@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Address text field should be required field.</description>
+   <name>TC51</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b2c6a322-48a9-4cd3-9a76-67372b871644</testCaseGuid>
+</TestCaseEntity>

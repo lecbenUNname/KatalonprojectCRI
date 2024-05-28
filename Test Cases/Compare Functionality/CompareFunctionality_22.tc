@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can able to see the  &quot;No products in compare list&quot; message when the compare list is empty</description>
+   <name>CompareFunctionality_22</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>7dc00c74-5e64-42f1-9cca-653037a0d47c</testCaseGuid>
+</TestCaseEntity>

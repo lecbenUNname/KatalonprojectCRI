@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Full name text field should not accept more than 35 characters</description>
+   <name>TC_09</name>
+   <tag>Regression, mk</tag>
+   <comment></comment>
+   <testCaseGuid>7e6224e3-8d0e-4d7b-bbe5-8ca157dda2e2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Order Return Requests ID number Order I_42f1bd</name>
+   <tag></tag>
+   <elementGuidId>6b144e4e-9d0a-432d-a8bc-15bc9059637b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tab-content.account.dashboard-content.pl-50</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-section']/div[2]/div/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3e8ff2ff-2c34-4a94-97f7-096085762269</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab-content account dashboard-content pl-50</value>
+      <webElementGuid>e67f8153-4bee-4936-bedb-acb4a830ae48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Order Return Requests ID number Order ID number Items Count Date Status Actions #10000009 #10000529 2 Oct 13, 2023 04:10 Completed View #10000005 #10000497 2 Oct 12, 2023 08:10 Completed View </value>
+      <webElementGuid>c0444459-6db6-4fb9-a5f2-c5ae91ecd9ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/div[@class=&quot;page-content pt-150 pb-150&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-10 m-auto&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9&quot;]/div[@class=&quot;tab-content account dashboard-content pl-50&quot;]</value>
+      <webElementGuid>1f0da74b-379c-4bf7-b7a7-8431c9790a6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-section']/div[2]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>cc72e53b-5699-48dc-bf45-20fc3e3c3eac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::div[2]</value>
+      <webElementGuid>857ec85a-249e-4762-9592-71bbd0489cb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Become a vendor'])[1]/following::div[2]</value>
+      <webElementGuid>3d6b3882-4eb5-4b83-b59a-30407338893e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>10584b6c-cb5e-4993-a410-458e1d23c59d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Order Return Requests ID number Order ID number Items Count Date Status Actions #10000009 #10000529 2 Oct 13, 2023 04:10 Completed View #10000005 #10000497 2 Oct 12, 2023 08:10 Completed View ' or . = 'Order Return Requests ID number Order ID number Items Count Date Status Actions #10000009 #10000529 2 Oct 13, 2023 04:10 Completed View #10000005 #10000497 2 Oct 12, 2023 08:10 Completed View ')]</value>
+      <webElementGuid>49432dbe-b3eb-4585-a0ab-5779e0af2ee3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

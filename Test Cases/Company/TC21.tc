@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Email ID Text field should accept combination of Alphabets, numbers and special characters</description>
+   <name>TC21</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b6d92913-19c6-4764-a14e-386f82c77ea8</testCaseGuid>
+</TestCaseEntity>
